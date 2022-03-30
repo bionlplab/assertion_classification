@@ -1,0 +1,12 @@
+python model.py \
+    --use_prompt \
+    --do_train \
+    --model_type bert_prompt \
+    --model_name_or_path bvanaken/clinical-assertion-negation-bert \
+    --max_input_length 512 \
+    --params_output_dir ./params/bert_param/ \
+    --eval_output_dir ./eval_output/ \
+    --overwrite_output_dir \
+    --gpu_device 0 \
+    --num_train_epochs 20 \
+    --patience 3 \
