@@ -7,7 +7,6 @@ Dataset Statistics:
 | Dataset | Total |
 | :---    | ---:  |
 | i2b2 2010 Train | 7,073 |
-| ---    | ---|
 | i2b2 2010 Test  | 12,563 |
 | i2b2 2012 Test  | 4,309 |
 | BioScope | 7,605 |
