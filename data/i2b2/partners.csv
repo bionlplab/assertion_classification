@@ -1,0 +1,2887 @@
+sentence_id,sentence_start,sentence_end,concept,concept_start,concept_end,label
+018636330_DH,226,285,C5-6 disc herniation,0,20,P
+018636330_DH,226,285,cord compression,26,42,P
+018636330_DH,226,285,myelopathy,47,57,P
+018636330_DH,395,509,bilateral hand numbness,65,88,P
+018636330_DH,395,509,occasional weakness,93,112,P
+018636330_DH,509,609,these symptoms,23,37,P
+018636330_DH,609,748,cord compression,84,100,P
+018636330_DH,609,748,a C5-6 disc herniation,56,78,P
+018636330_DH,609,748,a T2 signal change,105,123,P
+018636330_DH,770,817,hyperlipidemia,31,45,P
+018636330_DH,770,817,hypertension,16,28,P
+018636330_DH,908,939,known drug allergy,11,29,N
+018636330_DH,1112,1259,10 beats of clonus,78,96,P
+018636330_DH,1112,1259,3-5 beats in the left foot,119,145,P
+018636330_DH,1259,1332,hyperreflexia,8,21,P
+018636330_DH,1416,1540,partial decompression of the spinal canal,46,87,P
+018636330_DH,1540,1615,her hyperreflexia,56,73,P
+018636330_DH,1697,1797,Her pain,0,8,P
+018636330_DH,1923,2040,chills,39,45,H
+018636330_DH,1923,2040,fevers,30,36,H
+018636330_DH,1923,2040,numbness,71,79,H
+018636330_DH,1923,2040,bowel and bladder disruption,87,115,H
+018636330_DH,1923,2040,increasing weakness,48,67,H
+018636330_DH,2166,2216,pain,44,48,H
+026350193_RWH,474,488,L SHOULDER INJ,0,14,P
+026350193_RWH,525,598,neck strains,47,59,P
+026350193_RWH,609,647,Left Shoulder / Neck strain / sprain,0,36,P
+026350193_RWH,929,1016,constipation,73,85,P
+026350193_RWH,929,1016,nausea,62,68,P
+037945397_RWH,452,502,NEAR SYNCOPE,0,12,P
+037945397_RWH,502,572,dizziness,47,56,P
+037945397_RWH,583,624,near syncope,0,12,P
+037945397_RWH,583,624,dehydration,15,26,P
+037945397_RWH,583,624,cardiogenic,30,41,P
+037945397_RWH,950,1057,recurrent dizziness,39,58,H
+037945397_RWH,950,1057,chest pain,61,71,H
+037945397_RWH,950,1057,shortness of breath,74,93,H
+037945397_RWH,950,1057,weakness,97,105,H
+044687343_ELMVH,51,61,COPD flare,0,10,P
+044687343_ELMVH,514,969,Shortness of Breath,100,119,H
+044687343_ELMVH,1052,1459,Shortness of Breath,336,355,H
+044687343_ELMVH,1052,1459,Wheezing,358,366,H
+044687343_ELMVH,2694,2704,COPD flare,0,10,P
+044687343_ELMVH,2735,2793,COPD flare,48,58,P
+044687343_ELMVH,2878,3070,DM,47,49,P
+044687343_ELMVH,2878,3070,iron deficiency anemia ( iron deficiency anemia ),67,116,P
+044687343_ELMVH,2878,3070,COPD ( chronic obstructive pulmonary disease ),0,46,P
+044687343_ELMVH,2878,3070,osa ( sleep apnea ),148,167,P
+044687343_ELMVH,2878,3070,cervical DJD,50,62,P
+044687343_ELMVH,2878,3070,cervical and lumbar djd,117,140,P
+044687343_ELMVH,3181,3189,weakness,0,8,P
+044687343_ELMVH,3194,3362,COPD,21,25,P
+044687343_ELMVH,3194,3362,fatigue,85,92,P
+044687343_ELMVH,3194,3362,generalized weakness,60,80,P
+044687343_ELMVH,3194,3362,increased sputum production,139,166,P
+044687343_ELMVH,3194,3362,DM,16,18,P
+044687343_ELMVH,3194,3362,shaking,120,127,P
+044687343_ELMVH,3194,3362,urinary incontinence,95,115,P
+044687343_ELMVH,3362,3417,these symptoms,13,27,P
+044687343_ELMVH,3362,3417,COPD flare,43,53,P
+044687343_ELMVH,3570,3798,NAD,0,3,N
+044687343_ELMVH,3570,3798,wheezes,96,103,N
+044687343_ELMVH,3570,3798,focal deficits,191,205,N
+044687343_ELMVH,3570,3798,poor air movement bilaterally,50,79,P
+044687343_ELMVH,3570,3798,edema,147,152,N
+044687343_ELMVH,3570,3798,rales,107,112,N
+044687343_ELMVH,3798,3828,ST changes,20,30,N
+044687343_ELMVH,3828,3919,focal consolidation,9,28,N
+044687343_ELMVH,3828,3919,edema,32,37,N
+044687343_ELMVH,3828,3919,old biapical scarring,40,61,P
+044687343_ELMVH,3933,4031,diffusely wheezy,42,58,P
+044687343_ELMVH,3933,4031,still poor air movement,16,39,P
+044687343_ELMVH,4038,4124,typical flare symptoms,62,84,P
+044687343_ELMVH,4038,4124,COPD,22,26,P
+044687343_ELMVH,4038,4124,frequent exacerbations,33,55,P
+044687343_ELMVH,4138,4196,Ischemia,5,13,P
+044687343_ELMVH,4138,4196,failure,51,58,N
+044687343_ELMVH,4196,4214,COPD,14,18,P
+044687343_ELMVH,4214,4507,flare,0,5,P
+044687343_ELMVH,4214,4507,atypical bronchitis,135,154,P
+044687343_ELMVH,4514,4622,symptoms,32,40,P
+044687343_ELMVH,4514,4622,uti,79,82,N
+044687343_ELMVH,4514,4622,stress incontinence,9,28,P
+044687343_ELMVH,4514,4622,increased cough,46,61,P
+044687343_ELMVH,4640,4687,Chronic Fe deficiency anemia,7,35,P
+044687343_ELMVH,4687,4721,DM,7,9,P
+044687343_ELMVH,4721,4784,COPD flare,53,63,P
+044687343_ELMVH,4721,4784,afebrile,5,13,N
+044687343_ELMVH,4817,4874,resp status,22,33,P
+044687343_ELMVH,4945,5059,sputum production,97,114,H
+044687343_ELMVH,4945,5059,increased cough,78,93,H
+044687343_ELMVH,4945,5059,worsening sob,61,74,H
+060376519_DH,421,430,DIZZINESS,0,9,P
+060376519_DH,467,537,dizziness,47,56,P
+060376519_DH,548,590,Benign positional vertigo,0,25,U
+060376519_DH,548,590,labyrinthitis,29,42,U
+060376519_DH,728,799,fever,50,55,H
+060376519_DH,728,799,headache,61,69,H
+060376519_DH,728,799,symptoms,28,36,H
+095889687_WGH,423,448,SWOLLEN PAINFUL L SIDE FC,0,25,P
+095889687_WGH,459,490,L upper lip / L nostril abscess,0,31,P
+095889687_WGH,510,564,purulent material,8,25,P
+095889687_WGH,735,922,blurry or double vision,124,147,H
+095889687_WGH,735,922,any neurologic changes,99,121,H
+095889687_WGH,735,922,headaches,150,159,H
+095889687_WGH,735,922,trouble walking,162,177,H
+095889687_WGH,735,922,increased swelling,54,72,H
+095889687_WGH,735,922,pain,75,79,H
+095889687_WGH,735,922,infection,42,51,H
+095889687_WGH,735,922,redness,82,89,H
+101407944_PUMC,241,282,Right parietal occipital temporal tumor,0,39,P
+101407944_PUMC,427,574,gait difficulty,98,113,P
+101407944_PUMC,574,747,hypertension,89,101,P
+101407944_PUMC,574,747,CVA,65,68,P
+101407944_PUMC,574,747,laryngeal cancer,29,45,P
+101407944_PUMC,574,747,progressive difficulty in ambulation,135,171,P
+101407944_PUMC,747,866,problems ambulating,77,96,P
+101407944_PUMC,866,942,more difficulty with ADLs,49,74,P
+101407944_PUMC,942,1165,difficulty buttoning his shirt,31,61,P
+101407944_PUMC,942,1165,a stroke,89,97,P
+101407944_PUMC,1165,1245,a hard time walking,23,42,P
+101407944_PUMC,1245,1361,the increasing weakness,91,114,P
+101407944_PUMC,1245,1361,uncoordination of his feet,11,37,P
+101407944_PUMC,1407,1550,his symptoms,111,123,P
+101407944_PUMC,1407,1550,his gait weakness,89,106,P
+101407944_PUMC,1550,1689,unsteady,95,103,P
+101407944_PUMC,1757,1878,increasing difficulty with falls,65,97,P
+101407944_PUMC,1878,1993,a mass in the right parietal lobe,80,113,P
+101407944_PUMC,1993,2075,the mass,72,80,P
+101407944_PUMC,2075,2203,blurry vision,19,32,N
+101407944_PUMC,2075,2203,confusion,105,114,N
+101407944_PUMC,2075,2203,paresthesias,66,78,N
+101407944_PUMC,2075,2203,headache,35,43,N
+101407944_PUMC,2075,2203,nausea,46,52,N
+101407944_PUMC,2075,2203,vomiting,55,63,N
+101407944_PUMC,2075,2203,seizures,118,126,N
+101407944_PUMC,2075,2203,pain in mental status,81,102,N
+101407944_PUMC,2203,2307,his laryngeal cancer,82,102,P
+101407944_PUMC,2326,2366,Positive weakness,0,17,P
+101407944_PUMC,2388,2536,laryngeal cancer,42,58,P
+101407944_PUMC,2388,2536,BPH,91,94,P
+101407944_PUMC,2388,2536,Hypertension,0,12,P
+101407944_PUMC,2388,2536,diabetes,31,39,P
+101407944_PUMC,2388,2536,CVA,15,18,P
+101407944_PUMC,2689,2695,NKDA,0,4,N
+101407944_PUMC,2711,2774,CVA,35,38,O
+101407944_PUMC,2711,2774,diabetes,24,32,O
+101407944_PUMC,2711,2774,hypercholesterolemia,41,61,O
+101407944_PUMC,2711,2774,CAD,12,15,O
+101407944_PUMC,2994,3068,Afebrile,0,8,N
+101407944_PUMC,3068,3147,apparent distress,45,62,N
+101407944_PUMC,3228,3242,nystagmus,3,12,N
+101407944_PUMC,3242,3266,retinal hemorrhages,3,22,N
+101407944_PUMC,3288,3377,erythema or exudates in the posterior pharynx,42,87,N
+101407944_PUMC,3288,3377,poor dentition,22,36,P
+101407944_PUMC,3390,3429,Prominent salivary glands bilaterally,0,37,P
+101407944_PUMC,3429,3467,thyromegaly,19,30,N
+101407944_PUMC,3429,3467,other masses,3,15,N
+101407944_PUMC,3467,3527,"cervical , para-auricular or clavicular lymphadenopathy",3,58,N
+101407944_PUMC,3534,3568,Crackles in the right lung field,0,32,P
+101407944_PUMC,3568,3581,egophony,3,11,N
+101407944_PUMC,3588,3617,heave,22,27,N
+101407944_PUMC,3588,3617,palpable thrill,3,18,N
+101407944_PUMC,3626,3679,3/6 systolic ejection murmur,0,28,P
+101407944_PUMC,3757,3830,nontender,23,32,N
+101407944_PUMC,3757,3830,nondistended,35,47,N
+101407944_PUMC,3830,3857,hepato,3,9,N
+101407944_PUMC,3830,3857,splenomegaly,13,25,N
+101407944_PUMC,3857,3931,Right lower quadrant scar,0,25,P
+101407944_PUMC,3857,3931,inferior midline scar,30,51,P
+101407944_PUMC,3937,3956,CVA tenderness,3,17,N
+101407944_PUMC,3962,3976,petechiae,3,12,N
+101407944_PUMC,3976,4083,a slight deviation of the uvula and tongue,50,92,P
+101407944_PUMC,4083,4171,a slight left pronator drift,58,86,P
+101407944_PUMC,4083,4171,increased tone in his right upper extremity,9,52,P
+101407944_PUMC,4275,4331,an intention tremor with the left hand,16,54,P
+101407944_PUMC,4729,4784,signs of edema,39,53,N
+101407944_PUMC,4729,4784,consolidation,22,35,N
+101407944_PUMC,4784,4959,a right parietal hyperdense and heterogenously enhancing mass,9,70,P
+101407944_PUMC,4784,4959,the surrounding vasogenic edema,97,128,P
+101407944_PUMC,4959,5074,primary CNS neoplasm,72,92,U
+101407944_PUMC,4959,5074,glioblastoma,101,113,U
+101407944_PUMC,4959,5074,metastatic disease,37,55,U
+101407944_PUMC,5074,5177,a large heterogenous enhancing right parietal mass lesion,11,68,P
+101407944_PUMC,5074,5177,ependymal spread,85,101,U
+101407944_PUMC,5177,5253,his tumor,65,74,P
+101407944_PUMC,5253,5455,his symptoms,94,106,P
+101407944_PUMC,5253,5455,the tremendous tumor burden,42,69,P
+101407944_PUMC,5542,5701,the tumor,119,128,P
+101407944_PUMC,6137,6240,post surgical changes,80,101,P
+101407944_PUMC,6137,6240,remarkable findings,51,70,N
+101407944_PUMC,6240,6362,swelling,112,120,H
+101407944_PUMC,6470,6591,an inability to void,57,77,P
+101407944_PUMC,7091,7154,mass affect,50,61,P
+101407944_PUMC,7091,7154,some edema,35,45,P
+101407944_PUMC,7319,7371,a large grade IV glioma,27,50,P
+101407944_PUMC,7371,7553,his pain,149,157,P
+101407944_PUMC,7371,7553,The patient &apos;s pain,0,24,P
+101407944_PUMC,8224,8256,hard of hearing,15,30,P
+101407944_PUMC,8256,8295,complaints of pain,19,37,N
+101407944_PUMC,8433,8479,anxiety,37,44,H
+101407944_PUMC,9166,9410,fever,124,129,H
+101407944_PUMC,9166,9410,any bleeding,91,103,H
+101407944_PUMC,9166,9410,headache,185,193,H
+101407944_PUMC,9166,9410,numbness,208,216,H
+101407944_PUMC,9166,9410,intractable nausea and vomiting,151,182,H
+101407944_PUMC,9166,9410,pain,219,223,H
+101407944_PUMC,9166,9410,weakness,227,235,H
+101407944_PUMC,9166,9410,wound infection,106,121,H
+101407944_PUMC,9166,9410,dizziness,196,205,H
+105732749,246,268,Pancreatic carcinoma,0,20,P
+105732749,356,505,increasing pain in her left upper quadrant,83,125,P
+105732749,505,600,the pain,14,22,P
+105732749,505,600,an associated weight loss,68,93,P
+105732749,600,766,a mass,130,136,P
+105732749,951,1126,spinal stenosis,19,34,P
+105732749,951,1126,a ureteral stricture,82,102,P
+105732749,1234,1259,known drug allergies,3,23,N
+105732749,1394,1426,murmurs,23,30,N
+105732749,1435,1474,palpable masses,22,37,N
+105732749,1698,1894,no gross evidence seating in the abdominal wall,18,65,N
+105732749,1698,1894,one nodule,68,78,P
+105732749,1698,1894,one nodule,137,147,P
+105732749,1894,2013,falciform nodules,100,117,P
+105732749,2013,2089,complications,14,27,N
+105732749,2089,2205,subcutaneous emphysema over the abdomen,75,114,U
+105732749,2089,2205,some abdominal bloating,34,57,P
+105732749,2205,2292,uncomfortable,8,21,P
+105732749,2292,2413,a mild ileus,78,90,P
+105732749,2292,2413,abdominal cramping,55,73,P
+105732749,2704,2774,pain,64,68,H
+115026438_SC,413,485,PAIN,68,72,H
+115026438_SC,558,608,Known Allergies,35,50,N
+115026438_SC,625,644,postdates pregnancy,0,19,P
+115026438_SC,675,733,NSVD,54,58,P
+115026438_SC,1204,1214,Post dates,0,10,P
+115026438_SC,1257,1282,observed abnormalities,3,25,N
+115026438_SC,1481,1671,fever,18,23,H
+115026438_SC,1481,1671,bleeding,37,45,H
+115026438_SC,1481,1671,abdominal pain,92,106,H
+115026438_SC,1481,1671,foul smelling discharge,66,89,H
+115026438_SC,1481,1671,other worrisome symptoms,112,136,H
+130959255,56,92,RIGHT OCCIPITAL HEMORRHAGIC STROKE,0,34,P
+130959255,193,229,Right occipital hemorrhagic stroke,0,34,P
+130959255,257,374,dizzy,68,73,P
+130959255,374,475,hypertension,55,67,P
+130959255,639,686,dizzy,14,19,P
+130959255,749,826,"a dull , right sided headache over the right eyebrow",23,75,P
+130959255,826,920,the change in vision,72,92,P
+130959255,826,920,Symptoms,0,8,P
+130959255,920,973,numbness,33,41,N
+130959255,920,973,pain,47,51,N
+130959255,920,973,weakness,22,30,N
+130959255,973,1075,diplopia,92,100,N
+130959255,973,1075,hoarseness,23,33,N
+130959255,973,1075,difficulties in finding words,36,65,N
+130959255,973,1075,hiccups,79,86,N
+130959255,1097,1155,hypertension,44,56,P
+130959255,1255,1296,known drug allergies,19,39,N
+130959255,1315,1400,transient ischemic attacks,57,83,N
+130959255,1416,1475,heart disease,44,57,O
+130959255,1547,1648,apparent distress,82,99,N
+130959255,1648,1698,afebrile,8,16,N
+130959255,1698,1741,atraumatic,31,41,N
+130959255,1897,1974,rales,59,64,N
+130959255,1897,1974,wheezes,68,75,N
+130959255,2024,2073,nontender,23,32,N
+130959255,2024,2073,nondistended,35,47,N
+130959255,2073,2137,2+ pitting edema in the knees bilaterally,21,62,P
+130959255,2251,2407,word finding difficulty .,131,156,P
+130959255,2251,2407,notable aphasia,112,127,P
+130959255,2480,2528,a dense hemianopsia on the left side,10,46,P
+130959255,2955,2984,pronator drift,13,27,N
+130959255,3054,3125,intention tremor on the right side,35,69,P
+130959255,3125,3239,hemianopsia,101,112,P
+130959255,3125,3239,considerable difficulty with left finger-to-nose movement,16,73,P
+130959255,3239,3338,nystagmus,13,22,N
+130959255,3239,3338,some fine fast beat nystagmus bilateral extremes of abduction,36,97,P
+130959255,3557,3646,difficulty with tandem gait,12,39,P
+130959255,3985,4073,a right occipital hemorrhage,58,86,P
+130959255,4082,4218,hypertension,63,75,P
+130959255,4082,4218,a right occipital hemorrhagic stroke,98,134,P
+130959255,4637,4794,a large hemorrhagic lesion on the occipital lobe,107,155,P
+130959255,4794,4859,clear enhancing mass,13,33,N
+130959255,4859,4967,the right parietal occipital hemorrhage,67,106,P
+130959255,4967,5045,mild narrowing of the left ICA,15,45,P
+130959255,5045,5213,scattered T2 hyperintense foci within the periventricular and left frontal white matter,15,102,P
+130959255,5045,5213,small vessel disease,119,139,U
+130959255,5045,5213,gliosis,142,149,U
+130959255,5045,5213,demyelination,153,166,U
+130959255,5329,5386,some very rare atrial premature contractions,11,55,P
+130959255,5386,5436,ventricular premature contractions,14,48,N
+130959255,5436,5540,thrombus,94,102,N
+130959255,5580,5660,confusion,60,69,P
+130959255,5696,5789,urinary tract infection,39,62,U
+130959255,5850,5915,afebrile,23,31,N
+130959255,6015,6105,a dense left hemianopsia,22,46,P
+134300717,56,105,DEEP VENOUS THROMBOSIS OF RIGHT LOWER EXTREMITY,0,47,P
+134300717,206,255,Deep venous thrombosis of right lower extremity,0,47,P
+134300717,277,298,Metastatic melanoma,0,19,P
+134300717,326,465,metastatic melanoma,118,137,P
+134300717,465,617,left upper lobe nodules,127,150,P
+134300717,465,617,lesions in the liver and spleen,71,102,P
+134300717,465,617,His melanoma,0,12,P
+134300717,617,764,L5 metastasis,69,82,P
+134300717,617,764,epidural and paraspinal extension,112,145,P
+134300717,617,764,a fracture,88,98,P
+134300717,764,828,cord compression,46,62,P
+134300717,764,828,a T11 metastasis,24,40,P
+134300717,1077,1171,two major symptoms,74,92,P
+134300717,1171,1311,right lower extremity swelling,15,45,P
+134300717,1171,1311,a femoral deep venous thrombosis,106,138,P
+134300717,1311,1447,some seizure activity,113,134,P
+134300717,1311,1447,a witnessed episode,16,35,P
+134300717,1447,1520,CNS metastases,57,71,N
+134300717,1520,1660,vasovagal activity,120,138,U
+134300717,1520,1660,potential seizure activity,15,41,P
+134300717,1836,1877,known drug allergies,19,39,N
+134300717,1899,1982,acute distress,67,81,N
+134300717,2207,2285,jugular venous distention,30,55,N
+134300717,2207,2285,increased thyroid,59,76,N
+134300717,2292,2381,"appreciable cervical , supraclavicular , axillary , or inguinal adenopathy",13,87,P
+134300717,2442,2508,a I / VI systolic ejection murmur,31,64,P
+134300717,2612,2716,2+ pitting edema in the right lower extremity,35,80,P
+134300717,2993,3095,a neurologic event,69,87,P
+134300717,3095,3255,any further neurologic activity,64,95,N
+134300717,3354,3489,metastatic melanoma,79,98,P
+134300717,3354,3489,CNS metastases,119,133,U
+134300717,3489,3552,complication,49,61,N
+143748600_SC,48,67,atypical chest pain,0,19,P
+143748600_SC,1078,1089,atypical cp,0,11,P
+143748600_SC,1089,1188,atypical chest pain,80,99,P
+143748600_SC,1188,1367,anxiety ( anxiety ),112,131,P
+143748600_SC,1188,1367,gerd ( esophageal reflux ),153,179,P
+143748600_SC,1188,1367,htn ( hypertension ),132,152,P
+143748600_SC,1188,1367,dm ( diabetes mellitus ),87,111,P
+143748600_SC,1472,1626,HTN,85,88,P
+143748600_SC,1472,1626,high cholesterol,36,52,P
+143748600_SC,1472,1626,DM Type II,23,33,P
+143748600_SC,1472,1626,CRFs,15,19,P
+143748600_SC,1472,1626,episodes of atypical CP x 1 week,95,127,C
+143748600_SC,1626,1659,anxiety,15,22,P
+143748600_SC,1626,1659,GERD,27,31,P
+143748600_SC,1659,1677,assoicated Sx,3,16,N
+143748600_SC,1677,1814,pain,59,63,P
+143748600_SC,1677,1814,pain,78,82,N
+143748600_SC,1677,1814,T wave flattening laterally and inferiorly,11,53,P
+143748600_SC,1814,1882,dissection,22,32,U
+143748600_SC,1814,1882,back pain,42,51,P
+143748600_SC,1882,1900,MI,14,16,N
+145980160,57,74,PROSTATE CANCER,0,15,P
+145980160,177,194,Prostate cancer,0,15,P
+145980160,325,455,nocturia,104,112,P
+145980160,325,455,urinary frequency,65,82,P
+145980160,325,455,stranguria,91,101,P
+145980160,455,572,a nodule,107,115,U
+145980160,455,572,prominence on the left,66,88,P
+145980160,455,572,an asymmetric prostate,38,60,P
+145980160,572,631,a firm left-sided lobe,35,57,P
+145980160,631,714,a hypoechoic left-sided mass in the peripheral zone,30,81,P
+145980160,714,807,moderately to poorly differentiated Grade III-IV adenocarcinoma on the left,16,91,P
+145980160,882,927,impotence,34,43,P
+145980160,949,1085,non-insulin diabetes mellitus,16,45,P
+145980160,949,1085,right eye cataract,86,104,P
+145980160,1096,1122,allergic,6,14,P
+145980160,1306,1376,jugular venous distention,28,53,N
+145980160,1306,1376,thyromegaly,57,68,N
+145980160,1431,1491,murmurs .,51,60,N
+145980160,1491,1559,organomegaly,54,66,N
+145980160,1491,1559,non-tender,25,35,N
+145980160,1491,1559,masses,44,50,N
+145980160,1559,1595,costovertebral angle tenderness,3,34,N
+145980160,1685,1765,a firm nodule,10,23,P
+145980160,1778,1811,"clubbing ,",3,13,N
+145980160,1778,1811,cyanosis,14,22,N
+145980160,1778,1811,edema,26,31,N
+145980160,2062,2169,positive white blood cell screen,46,78,P
+145980160,2062,2169,marked occult blood,22,41,P
+145980160,2440,2497,afebrile,7,15,N
+145980160,2542,2620,a low grade temperature,44,67,P
+145980160,2840,2910,slightly diaphoretic,19,39,P
+145980160,2840,2910,some tachycardia,45,61,P
+145980160,2982,3133,anterolateral changes,128,149,P
+145980160,2982,3133,tachycardia,71,82,P
+145980160,2982,3133,diaphoresis,54,65,P
+145980160,3133,3190,chest pain,22,32,N
+145980160,3133,3190,symptoms,10,18,N
+145980160,3133,3190,myocardial ischemia,36,55,N
+145980160,3190,3222,changes,23,30,N
+145980160,3354,3415,his low grade temperature,25,50,P
+156406283,176,339,hypertension,83,95,P
+156406283,339,589,primary hemisensory loss on the left,212,248,P
+156406283,339,589,myocardial infarction,98,119,P
+156406283,339,589,left face and arm greater than leg hemiplegia,162,207,P
+156406283,339,589,ankylosing spondylitis,61,83,P
+156406283,339,589,adult onset diabetes mellitus,29,58,P
+156406283,713,779,a mild central dull headache,36,64,P
+156406283,713,779,slurred,17,24,P
+156406283,779,855,numb on that side,57,74,P
+156406283,855,1067,superficial mass effect,187,210,N
+156406283,855,1067,a 1x2 thalamic capsular hemorrhage,144,178,P
+156406283,1105,1162,visual symptoms,14,29,N
+156406283,1105,1162,cortical-type symptoms,33,55,N
+156406283,1327,1368,known drug allergies,19,39,N
+156406283,1426,1502,cancer,68,74,O
+156406283,1426,1502,diabetes mellitus,35,52,O
+156406283,1589,1723,acute distress,43,57,N
+156406283,1589,1723,bruits,126,132,N
+156406283,1589,1723,afebrile,60,68,N
+156406283,1744,1806,a I/VI systolic ejection murmur,29,60,P
+156406283,1859,1931,non-tender,25,35,N
+156406283,1859,1931,obese,38,43,P
+156406283,1931,1998,stiff,19,24,P
+156406283,1931,1998,sore,29,33,P
+156406283,1931,1998,localizing tenderness,44,65,N
+156406283,2180,2460,decreased shrug on the left,251,278,P
+156406283,2180,2460,extinction,53,63,N
+156406283,2180,2460,lower left facial decreased sensation to temperature,117,169,P
+156406283,2955,3041,clonus,66,72,P
+156406283,3241,3338,old Q wave inferior myocardial infarction,54,95,P
+156406283,3338,3499,shift,154,159,N
+156406283,3338,3499,mild distortion,128,143,P
+156406283,3338,3499,1.5 to 2 centimeter bleed in the right thalamus,41,88,P
+156406283,3598,3688,movement in the hand,49,69,N
+156406283,3870,3887,hypertension,3,15,P
+156406283,4112,4165,Muscle spasms,0,13,P
+156406283,4165,4187,diabetes mellitus,3,20,P
+156406283,4585,4675,allergic,28,36,P
+156406283,4696,4758,hypertension,28,40,P
+156406283,4696,4758,Right thalamic hemorrhage,0,25,P
+156406283,4696,4758,diabetes mellitus,43,60,P
+176318078_a,59,74,MITRAL STENOSIS,0,15,P
+176318078_a,177,192,Mitral stenosis,0,15,P
+176318078_a,214,349,Tricuspid regurgitation,0,23,P
+176318078_a,214,349,chronic ventricular ectopy,72,98,P
+176318078_a,214,349,heart failure,26,39,P
+176318078_a,214,349,chronic obstructive lung disease,101,133,P
+176318078_a,214,349,chronic atrial fibrillation,42,69,P
+176318078_a,373,408,Epistaxis,0,9,C
+176318078_a,536,629,rheumatic fever,62,77,P
+176318078_a,629,670,chronic atrial fibrillation,12,39,P
+176318078_a,670,832,bleeding from the mouth and nose,20,52,C
+176318078_a,832,875,recurrent syncope,12,29,P
+176318078_a,875,918,progressive heart failure,16,41,P
+176318078_a,918,991,atrial fibrillation,16,35,P
+176318078_a,918,991,ventricular bigemini,51,71,P
+176318078_a,1152,1273,diabetes,32,40,N
+176318078_a,1152,1273,hypertension,16,28,N
+176318078_a,1273,1318,heart disease,30,43,O
+176318078_a,1318,1396,chronic obstructive pulmonary disease,39,76,P
+176318078_a,1461,1526,a &quot; tumor &quot;,42,63,P
+176318078_a,1706,1749,headache,33,41,C
+176318078_a,1870,1892,Neck veins distended,0,20,P
+176318078_a,1951,1976,Right ventricular heave,0,23,P
+176318078_a,1987,2046,accentuation,39,51,P
+176318078_a,1987,2046,narrowly physiologically split,3,33,P
+176318078_a,2046,2069,opening snap,9,21,N
+176318078_a,2046,2069,S3,3,5,N
+176318078_a,2069,2128,Grade II systolic murmur at the left lower sternal border,0,57,P
+176318078_a,2128,2200,Grade II decrescendo diastolic murmur at the left lower sternal border,0,70,P
+176318078_a,2200,2230,Diastolic rumble at the apex,0,28,P
+176318078_a,2230,2272,Liver slightly pulsatile,0,24,P
+176318078_a,2230,2272,enlarged,32,40,N
+176318078_a,2272,2335,weak dorsalis pedis pulses,35,61,P
+176318078_a,2335,2363,Superficial varicose veins,0,26,P
+176318078_a,2363,2373,edema,3,8,N
+176318078_a,2479,2682,atrial fibrillation,25,44,P
+176318078_a,2479,2682,moderate ventricular response,47,76,P
+176318078_a,2479,2682,right axis deviation,118,138,P
+176318078_a,2479,2682,right ventricular hypertrophy,141,170,P
+176318078_a,2479,2682,incomplete right bundle branch block,79,115,P
+176318078_a,2479,2682,apical infarction,184,201,U
+176318078_a,2682,2825,"left atrial , right ventricular and pulmonary arterial enlargement",19,85,P
+176318078_a,2682,2825,"small , bilateral effusions",114,141,P
+176318078_a,2682,2825,interstitial edema,90,108,P
+176318078_a,2842,2962,complication,46,58,N
+176318078_a,2962,3049,tricuspid regurgitation,62,85,P
+176318078_a,3049,3088,tricuspid valve gradient,13,37,N
+176318078_a,3088,3147,markedly elevated,30,47,P
+176318078_a,3147,3253,markedly elevated,39,56,P
+176318078_a,3147,3253,a very large mitral valve gradient,70,104,P
+176318078_a,3253,3299,aortic valve gradient,23,44,N
+176318078_a,3387,3526,minimal mitral valve calcification,10,44,P
+176318078_a,3387,3526,2+ mitral regurgitation into a large left atrium,89,137,P
+176318078_a,3526,3651,minimal aortic valve calcification,10,44,P
+176318078_a,3526,3651,mild ______________ thickening,47,77,P
+176318078_a,3526,3651,mild aortic regurgitation,98,123,P
+176318078_a,3651,3719,mild atherosclerosis of the mid left anterior descending,10,66,P
+176318078_a,3844,4024,epistaxis,169,178,P
+176318078_a,4024,4214,nasal hemorrhage,61,77,H
+176318078_a,4024,4214,bleeding source,17,32,N
+176318078_a,4670,4765,marked hyperkalemia,62,81,C
+176746010_WGH,405,421,URI,11,14,U
+176746010_WGH,405,421,FLANK PAIN,0,10,P
+176746010_WGH,458,544,urinary tract infection,47,70,P
+176746010_WGH,555,578,Urinary Tract Infection,0,23,P
+176746010_WGH,955,1049,uncontrolled pains,46,64,H
+176746010_WGH,955,1049,high fevers,21,32,H
+176746010_WGH,955,1049,other concerns,68,82,H
+176746010_WGH,955,1049,vomiting,35,43,H
+188543380,42,70,CHRONIC MYELOGENOUS LEUKEMIA,0,28,P
+188543380,173,178,CML,0,3,P
+188543380,234,261,INTRAPARENCHYMAL BLEED,3,25,P
+188543380,289,397,an elevated platelet count,69,95,P
+188543380,397,423,CML,21,24,P
+188543380,697,845,a drug reaction,131,146,P
+188543380,697,845,fevers,35,41,P
+188543380,697,845,neutropenia,46,57,P
+188543380,697,845,a diffuse erythroderm,98,119,P
+188543380,845,930,pulmonary infiltrates,42,63,P
+188543380,845,930,some hemoptysis,68,83,P
+188543380,930,1067,blood,38,43,P
+188543380,930,1067,blood in alveoli,90,106,N
+188543380,930,1067,DAH,132,135,N
+188543380,1067,1186,agitation,19,28,P
+188543380,1067,1186,increased respiratory distress,59,89,P
+188543380,1067,1186,change in mental status,31,54,P
+188543380,1186,1337,respiratory distress,61,81,P
+188543380,1186,1337,the changing mental status,30,56,P
+188543380,1186,1337,worsening mucositis,130,149,P
+188543380,1337,1482,agitated,85,93,P
+188543380,1482,1604,this continued agitation,11,35,P
+188543380,1482,1604,an intraparenchymal hemorrhage,90,120,P
+188543380,1604,1706,the severity of the bleed,38,63,P
+188543380,1706,1810,dead,86,90,P
+194442600_RWH,57,94,RIGHT CAPSULAR PUTAMENAL HEMORRHAGE,0,35,P
+194442600_RWH,197,234,Right capsular putamenal hemorrhage,0,35,P
+194442600_RWH,256,270,hypertension,0,12,P
+194442600_RWH,298,402,hypertension,66,78,P
+194442600_RWH,402,539,difficulty in talking,114,135,P
+194442600_RWH,539,650,slurred,18,25,P
+194442600_RWH,539,650,weakness and numbness of her arm and leg,69,109,P
+194442600_RWH,650,732,diplopia,35,43,N
+194442600_RWH,650,732,headache,24,32,N
+194442600_RWH,650,732,any other neurological symptoms,49,80,N
+194442600_RWH,732,864,a mild left hemiparesis,107,130,P
+194442600_RWH,1098,1129,PE,27,29,O
+194442600_RWH,1232,1322,afebrile,80,88,N
+194442600_RWH,1232,1322,anxious,42,49,P
+194442600_RWH,1328,1340,lesions,3,10,N
+194442600_RWH,1347,1387,anicteric,29,38,N
+194442600_RWH,1347,1387,atraumatic,16,26,N
+194442600_RWH,1393,1413,bruits,12,18,N
+194442600_RWH,1420,1467,rub,32,35,N
+194442600_RWH,1420,1467,gallop,39,45,N
+194442600_RWH,1420,1467,murmur,23,29,N
+194442600_RWH,1506,1604,hepatosplenomegaly,78,96,N
+194442600_RWH,1506,1604,nontender,30,39,N
+194442600_RWH,1506,1604,nondistended,42,54,N
+194442600_RWH,1617,1650,edema,26,31,N
+194442600_RWH,1617,1650,"clubbing ,",3,13,N
+194442600_RWH,1617,1650,cyanosis,14,22,N
+194442600_RWH,1704,1774,dysarthric,58,68,P
+194442600_RWH,1704,1774,phasic or praxic problems,30,55,N
+194442600_RWH,2088,2129,a left central facial paresis,10,39,P
+194442600_RWH,2177,2208,a left arm pronator,10,29,P
+194442600_RWH,2414,2535,"a mild diminution of light touch , pinprick , position , and vibration sense in the left side",26,119,P
+194442600_RWH,2546,2684,a mild dysmetria on the left side,70,103,P
+194442600_RWH,2546,2684,diminished,47,57,P
+194442600_RWH,2684,2723,The walk was paretic in the left side,0,37,P
+194442600_RWH,3502,3595,ST-segment abnormalities,67,91,N
+194442600_RWH,3617,3845,intra-parenchymal hematoma,150,176,P
+194442600_RWH,3617,3845,mild local mass effect,182,204,P
+194442600_RWH,3617,3845,3 centimeter hyperdensity,45,70,P
+194442600_RWH,3617,3845,surrounding edema,209,226,P
+194442600_RWH,3845,3886,hemorrhage,18,28,N
+194442600_RWH,3930,4001,hemorrhage,12,22,P
+194442600_RWH,3930,4001,slightly more edema and mass effect,34,69,P
+194442600_RWH,4022,4055,pulmonary emboli,15,31,N
+194442600_RWH,4072,4227,the hematoma,26,38,P
+194442600_RWH,4072,4227,hypertension,58,70,P
+194442600_RWH,4072,4227,hypertension,141,153,P
+194442600_RWH,4072,4227,cerebellar hemorrhage,116,137,P
+194442600_RWH,4227,4390,a small vascular malformation,98,127,U
+194442600_RWH,4227,4390,the hemorrhage,147,161,P
+194442600_RWH,4457,4529,problem,63,70,N
+194442600_RWH,4529,4702,arm and leg weakness,51,71,P
+194442600_RWH,4529,4702,sensory deficit,76,91,P
+194442600_RWH,4529,4702,a mild leftsided face,27,48,P
+194442600_RWH,4754,4891,Her hypertension,0,16,P
+194442600_RWH,4989,5219,hypertension,42,54,P
+194442600_RWH,4989,5219,secondary cause,23,38,P
+194442600_RWH,5219,5375,renal artery stenosis,105,126,P
+194442600_RWH,5219,5375,lymphocytic ? chromocytoma,75,101,P
+194442600_RWH,5219,5375,secondary causes,10,26,N
+194442600_RWH,5219,5375,hypertension,30,42,P
+212512774_WGH,265,311,Second Degree Laceration,22,46,P
+212512774_WGH,333,400,Abnormal Laboratory Result,0,26,P
+212512774_WGH,333,400,Abnormal Pap Test,29,46,P
+212512774_WGH,333,400,Monilial Vaginitis,49,67,P
+212512774_WGH,675,705,Premature Rupture Of Membranes,0,30,P
+212512774_WGH,727,902,murmur,146,152,N
+212512774_WGH,727,902,masses,66,72,N
+212512774_WGH,727,902,Gravid,161,167,P
+212512774_WGH,727,902,wheezing,117,125,N
+212512774_WGH,937,954,Mild irreg. ctx,0,15,P
+212512774_WGH,954,1050,copious amounts clear fluid,67,94,P
+212512774_WGH,1050,1085,fern positive,20,33,P
+212512774_WGH,1085,1250,advanced gest UTERUS Gravid,130,157,P
+212512774_WGH,1531,1563,premature rupture of membranes,0,30,P
+223159990,403,458,FEVER,48,53,P
+223159990,616,718,LINE SEPSIS,89,100,P
+245096078,182,365,vertigo,174,181,P
+245096078,182,365,vertigo,109,116,P
+245096078,182,365,double vision,130,143,P
+245096078,182,365,dysarthria,146,156,P
+245096078,435,526,aneurysm,81,89,U
+245096078,435,526,basilar artery disease,43,65,P
+245096078,593,672,thrombosis at the mid basilar artery,41,77,P
+245096078,747,916,high cholesterol,28,44,P
+245096078,747,916,angina,88,94,P
+245096078,747,916,coronary artery disease,47,70,P
+245096078,747,916,myocardial infarction,111,132,N
+245096078,747,916,Hypertension,0,12,P
+245096078,1014,1055,known drug allergies,19,39,N
+245096078,1453,1500,afebrile,8,16,N
+245096078,1533,1575,ectopy,34,40,N
+245096078,1575,1662,minimal radiation to the carotids,52,85,P
+245096078,1575,1662,A II / VI systolic ejection murmur,0,34,P
+245096078,1671,1706,hepatosplenomegaly,15,33,N
+245096078,1719,1768,edema,42,47,N
+245096078,1719,1768,clubbing,19,27,N
+245096078,1719,1768,cyanosis,30,38,N
+245096078,1835,2041,chest pain,62,72,P
+245096078,2362,2507,right beading nystagmus,120,143,P
+245096078,2673,2742,Seventh nerve weakness,0,22,P
+245096078,3262,3395,ST depression in V4 to V6,59,84,P
+245096078,3395,3469,mildly elevated,16,31,P
+245096078,3469,3524,some left lower lobe atelectasis,21,53,P
+245096078,3784,3875,A small intimal tear,0,20,P
+245096078,3784,3875,sequelae,81,89,N
+245096078,3875,4081,acute sepsis,192,204,N
+245096078,3875,4081,an acute drop,97,110,P
+245096078,4081,4151,substantial decrement in neurologic function,24,68,P
+245096078,4151,4206,&quot; locked in &quot;,30,53,P
+245096078,4610,4747,drowsy,7,13,P
+245096078,4747,4947,severe memory deficits,8,30,P
+245096078,5228,5507,"infarction in bilateral basis pontis , mid brain , the superior cerebellar areas , left thalamus , bilateral temporal lobes medially and inferiorly and left posterior communicating artery",90,277,P
+245096078,5507,5603,rising white blood counts,69,94,P
+245096078,5507,5603,fevers,16,22,P
+245096078,5603,5670,a progressing left lower lobe infiltrate,25,65,P
+245096078,5670,5773,fevers,59,65,P
+245096078,5773,5927,Klebsiella pneumoniae,16,37,P
+245096078,5773,5927,bug,112,115,P
+245096078,5927,6067,A left pleural effusion,0,23,P
+245096078,5927,6067,empyema,131,138,P
+245096078,6194,6331,bad thrush,18,28,P
+245096078,6377,6537,the thrush,98,108,P
+245096078,6537,6630,afebrile,13,21,N
+245096078,6872,7003,common bile duct dilatation,78,105,N
+245096078,6872,7003,active cholecystitis,109,129,N
+245096078,6872,7003,gallstones,45,55,P
+245096078,7003,7147,her liver enzyme elevation,19,45,P
+245096078,7147,7227,a steady decline,16,32,P
+245096078,7227,7377,hypoproliferation,98,115,P
+245096078,7227,7377,anemia,67,73,P
+245096078,7227,7377,chronic disease,77,92,P
+245096078,7227,7377,her anemia,39,49,P
+245096078,7675,7736,low sodiums,20,31,P
+245096078,7736,7898,any problems,138,150,N
+245096078,7736,7898,her pulmonary process,54,75,P
+245096078,7736,7898,her central nervous system process,16,50,P
+245096078,8288,8534,her deficit,154,165,P
+245096078,8666,8756,angina,24,30,P
+245096078,8666,8756,myocardial infarction,39,60,N
+245096078,8756,8869,brief chest pain,13,29,P
+245096078,8869,9025,T wave inversions in the lateral leads,61,99,P
+245096078,8869,9025,an increase,119,130,P
+245096078,9025,9127,chest pain,77,87,N
+245096078,9127,9309,congestive heart failure,90,114,N
+245096078,9127,9309,chest pain,160,170,N
+245096078,9391,9511,recently elevated liver enzymes,87,118,P
+245096078,9391,9511,her acute disease,65,82,P
+245096078,9661,10307,pain,592,596,H
+245096078,10328,10423,&quot; top of the basilar &quot; syndrome,52,93,P
+245096078,10328,10423,basilar thrombosis,29,47,P
+245096078,10328,10423,Basilar artery stenosis,0,23,P
+245096078,10423,10548,"recent infarct to pons , mid brain , left thalamus , bilateral temporal lobes and left visual cortex",9,109,P
+245096078,10609,10672,Left lower lobe pneumonia,0,25,P
+245096078,10672,10709,Gallstones,0,10,P
+245096078,10709,10743,liver enzyme elevation,10,32,P
+245096078,10743,10798,iron deficient,39,53,N
+245096078,10743,10798,Anemia,0,6,P
+245096078,10798,10841,Low potassium,0,13,P
+245096078,10841,10887,Low sodium,0,10,P
+245096078,10887,10923,coronary artery disease,11,34,P
+245096078,10923,10931,Thrush,0,6,P
+245096078,10931,10949,High cholesterol,0,16,P
+245317863_WGH,434,442,RLQ PAIN,0,8,P
+245317863_WGH,479,553,kidney stones,47,60,P
+245317863_WGH,564,599,recently passed kidney stone,7,35,U
+245317863_WGH,793,872,your kidney stones,59,77,U
+245317863_WGH,925,986,your symptoms,17,30,H
+245317863_WGH,925,986,a fever,52,59,H
+262912613,168,194,LEFT KNEE OSTEOARTHRITIS,0,24,P
+262912613,274,392,left knee pain,93,107,P
+262912613,274,392,osteoarthritis,48,62,P
+262912613,465,553,a left femoral condyle osteonecrotic defect,17,60,P
+262912613,465,553,degenerative meniscus,65,86,P
+262912613,553,607,rest pain,43,52,N
+262912613,607,646,difficulties,25,37,N
+262912613,728,764,Pneumonia,0,9,P
+262912613,764,788,Hepatitis,0,9,P
+262912613,788,859,Anxiety neurosis,0,16,P
+262912613,967,991,ITCHING,15,22,C
+262912613,1158,1269,slight valgus instability,84,109,P
+262912613,1158,1269,valgus,31,37,P
+262912613,1269,1340,a mild effusion,54,69,P
+262912613,1777,1885,slightly agitated,8,25,N
+262912613,1928,2004,difficulties voiding,54,74,N
+262912613,2004,2106,agitation,91,100,P
+262912613,2763,2844,edema,31,36,N
+262912613,2763,2844,her wound,45,54,P
+270045381,46,78,LEFT PROXIMAL HUMERUS FRACTURE,0,30,P
+270045381,243,275,Left proximal humerus fracture,0,30,P
+270045381,297,756,congestive heart failure,245,269,P
+270045381,297,756,blindness in the right eye,359,385,P
+270045381,297,756,diabetic retinopathy,333,353,P
+270045381,297,756,"chronic , stable angina pectoris",153,185,P
+270045381,297,756,Fournier &apos;s gangrene,188,213,U
+270045381,297,756,glaucoma,322,330,P
+270045381,297,756,silent myocardial infarction,54,82,P
+270045381,297,756,necrotizing fasciitis,221,242,U
+270045381,297,756,Adult-onset diabetes mellitus,0,29,P
+270045381,297,756,left rib fracture,418,435,P
+270045381,297,756,a rib fracture,305,319,P
+270045381,876,1069,diabetes mellitus,65,82,P
+270045381,876,1069,congestive heart failure,128,152,P
+270045381,876,1069,a humeral fracture,173,191,P
+270045381,1138,1335,a comminuted fracture of the proximal left humerus,27,77,P
+270045381,1335,1389,The fracture,0,12,P
+270045381,1389,1526,shortness of breath,114,133,N
+270045381,1389,1526,bigeminy,50,58,P
+270045381,1389,1526,chest pain,100,110,N
+270045381,1615,1864,ischemia,83,91,P
+270045381,1615,1864,a myocardial infarction,28,51,P
+270045381,1864,1965,arrhythmia,33,43,P
+270045381,1965,2034,arrhythmia,57,67,P
+270045381,2034,2168,glaucoma,124,132,P
+270045381,2034,2168,diabetic retinopathy,99,119,P
+270045381,2168,2339,stress,163,169,C
+270045381,2168,2339,chest tightness ( pressure ),96,124,C
+270045381,2168,2339,chest pain,25,35,N
+270045381,2339,2427,chest pain,19,29,C
+270045381,2427,2511,short of breath,67,82,C
+270045381,2511,2575,slightly short of breath,15,39,C
+270045381,2575,2747,chest pain,73,83,N
+270045381,2575,2747,head trauma with fall,149,170,N
+270045381,2575,2747,shortness of breath,89,108,N
+270045381,2575,2747,loss of consciousness,122,143,N
+270045381,2766,2828,chills,13,19,N
+270045381,2766,2828,fevers,3,9,N
+270045381,2766,2828,shortness of breath,41,60,N
+270045381,2766,2828,chest pain,25,35,N
+270045381,2828,2919,stable three-pillow orthopnea,16,45,P
+270045381,2828,2919,occasional paroxysmal nocturnal dyspnea,50,89,P
+270045381,2919,2961,clear sputum,28,40,P
+270045381,2919,2961,a chronic cough,7,22,P
+270045381,2961,3061,hemoptysis,3,13,N
+270045381,2961,3061,hematemesis,16,27,N
+270045381,2961,3061,black or tarry stools,47,68,N
+270045381,2961,3061,abdominal pain,30,44,N
+270045381,2961,3061,frequency/urgency,81,98,N
+270045381,2961,3061,dysuria,71,78,N
+270045381,3083,3156,cardiac arrhythmia,13,31,P
+270045381,3156,3299,silent myocardial infarction,47,75,P
+270045381,3156,3299,coronary artery disease,11,34,P
+270045381,3299,3447,"chronic , stable angina pectoris",34,66,P
+270045381,3447,3526,congestive heart failure,11,35,P
+270045381,3526,3572,Diabetes mellitus,0,17,P
+270045381,3572,3628,Fournier &apos;s gangrene,0,25,U
+270045381,3572,3628,necrotizing fasciitis,33,54,U
+270045381,3628,3638,Glaucoma,0,8,P
+270045381,3638,3696,Diabetic retinopathy,0,20,P
+270045381,3638,3696,blind in right eye,38,56,P
+270045381,3766,3785,Left rib fracture,0,17,P
+270045381,3834,3874,glaucoma,21,29,P
+270045381,3874,3905,retinopathy,18,29,P
+270045381,4189,4214,known drug allergies,3,23,N
+270045381,4387,4510,renal failure,108,121,O
+270045381,4387,4510,multiple myeloma,87,103,O
+270045381,4532,4613,his left humeral fracture,54,79,P
+270045381,4711,4877,blind in that eye,82,99,P
+270045381,4711,4877,Right-sided ptosis,0,18,P
+270045381,4711,4877,cataract,131,139,P
+270045381,4711,4877,cataract,55,63,P
+270045381,4933,4969,lesions,27,34,N
+270045381,4969,4994,Mild right facial droop,0,23,P
+270045381,5012,5031,slurred speech,3,17,N
+270045381,5040,5108,murmur,29,35,N
+270045381,5123,5174,diffusely wheezy,15,31,P
+270045381,5174,5269,Abdomen distended,0,17,P
+270045381,5174,5269,mild tenderness on the left,20,47,P
+270045381,5174,5269,nohepatosplenomegaly,73,93,N
+270045381,5282,5335,1+ edema of the ankles,0,22,P
+270045381,5335,5355,calf tenderness,3,18,N
+270045381,5394,5509,the patient &apos;s broken humeral fracture,70,113,P
+270045381,5921,5984,Elevated left hemidiaphragm,0,27,P
+270045381,5984,6095,acute pulmonary disease,71,94,N
+270045381,5984,6095,Postoperative changes of the sternum and media stinum,0,53,P
+270045381,6095,6248,a severely comminuted fracture of the proximal left humerus,66,125,P
+270045381,6095,6248,proximal distraction,131,151,P
+270045381,6248,6412,a fracture,66,76,U
+270045381,6248,6412,A lucency and irregularity of the glenoid,0,41,P
+270045381,6412,6527,the severely comminuted fracture of the proximal left humerus,52,113,P
+270045381,6527,6625,Two major fracture fragments,0,28,P
+270045381,6625,6715,The fracture fragments,0,22,P
+270045381,6715,6830,the fracture fragment,63,84,P
+270045381,6715,6830,Innumerable smaller fracture fragments,0,38,P
+270045381,6860,6896,scapular fractures,3,21,N
+270045381,6901,7067,old inferior myocardial infarction,130,164,U
+270045381,6901,7067,intraventricular conduction delay,43,76,P
+270045381,7122,7158,Ventricular bigeminy,0,20,P
+270045381,7205,7282,a severely comminuted fracture of the proximal left humerus,16,75,P
+270045381,7560,7607,Brittle bones,0,13,P
+270045381,7711,7809,right facial droop,16,34,P
+270045381,7711,7809,right ptosis,37,49,P
+270045381,7828,7885,chest pain,3,13,N
+270045381,7828,7885,shortness of breath,19,38,N
+270045381,7828,7885,1+ ankle edema,41,55,P
+270045381,7885,8088,bigeminy,90,98,P
+270045381,7885,8088,his fall,62,70,P
+270045381,7885,8088,a myocardial infarction,30,53,N
+270045381,8267,8477,scar,204,208,P
+270045381,8267,8477,ischemia,97,105,N
+270045381,8267,8477,"a moderate-sized , dense , fixed inferior defect",141,189,P
+270045381,8477,8613,mild / moderate ischemia,110,134,P
+270045381,8477,8613,"A small / moderate-sized , mild-intensity , reversible posterior lateral defect",0,79,P
+270045381,8613,8868,thickening of the aortic wall,117,146,P
+270045381,8613,8868,atherosclerotic changes,163,186,P
+270045381,8613,8868,left atrial enlargement,91,114,P
+270045381,8868,8980,the bigeminy,50,62,P
+270045381,8868,8980,myocardial infarction,89,110,N
+270045381,9102,9248,elevated CPKs,34,47,P
+270045381,9248,9421,MB fractionations,0,17,N
+270045381,9442,9544,decreased hematocrit,42,62,P
+270045381,9442,9544,melena,33,39,P
+270045381,9575,9648,clotted blood in the esophagus,41,71,P
+270045381,9648,9720,old blood in the stomach,46,70,P
+270045381,9720,9815,the blood in the esophagus,20,46,P
+270045381,9720,9815,Mallory-Weiss tear,75,93,U
+270045381,9815,9977,a gastric ulcer,80,95,U
+270045381,9815,9977,melena,154,160,P
+270045381,9977,10064,A gastric ulcer,0,15,P
+270045381,10777,10916,atelectasis,96,107,U
+270045381,10777,10916,an elevated left hemidiaphragm,49,79,P
+270045381,10777,10916,splinting on that side,115,137,U
+270045381,11350,11566,moderate occult blood,42,63,P
+270045381,11350,11566,few bacteria,162,174,P
+270045381,11350,11566,moderate bladder epithelial cells,181,214,P
+270045381,11762,11837,volume overloaded,56,73,P
+270045381,11943,12056,slightly hypotensive,19,39,P
+270045381,12614,12794,slightly hyponatremic,28,49,P
+270045381,12614,12794,elevated glucose fingerstick blood sugars,137,178,P
+270045381,13403,13690,affected area,69,82,P
+270045381,13403,13690,pain,281,285,H
+274230067_EH,168,192,LEFT ROTATOR CUFF TEAR,0,22,P
+274230067_EH,220,346,bilateral shoulder pain,75,98,P
+274230067_EH,413,529,increased pain in his left shoulder,79,114,P
+274230067_EH,413,529,a right rotator cuff tear,38,63,P
+274230067_EH,660,671,Back pain,0,9,P
+274230067_EH,812,837,KNOWN DRUG ALLERGIES,3,23,N
+274230067_EH,1023,1087,palpable adenopathy,43,62,N
+274230067_EH,1124,1186,occasional wheezing bilaterally,15,46,P
+274230067_EH,1186,1278,a I / VI systolic ejection murmur,23,56,P
+274230067_EH,1186,1278,jugular venous distention,65,90,N
+274230067_EH,1306,1379,obese,12,17,P
+274230067_EH,1306,1379,nontender,47,56,P
+274230067_EH,1306,1379,nondistended,59,71,P
+274230067_EH,1379,1578,positive joint tenderness,172,197,P
+274230067_EH,1949,1993,intraoperative complications,14,42,N
+274230067_EH,2133,2275,left shoulder pain,122,140,P
+274230067_EH,2518,2601,His wound,0,9,P
+274230067_EH,2518,2601,signs of infection,47,65,N
+274230067_EH,2601,2778,persistently elevated blood sugars,63,97,P
+274230067_EH,2601,2778,newly diagnosed diabetes,151,175,U
+274230067_EH,2778,2930,diabetes,142,150,U
+274230067_EH,2778,2930,the wide excursions,78,97,P
+274230067_EH,3073,3243,occasional spells,22,39,P
+274230067_EH,3073,3243,some orthostatic dizziness,60,86,P
+274230067_EH,3073,3243,jitteriness,44,55,P
+274230067_EH,3243,3496,some underlying diabetic process,219,251,U
+274230067_EH,3243,3496,an autonomic type neuropathy,171,199,U
+274230067_EH,3496,3572,his neurologic conditions,19,44,P
+274230067_EH,3572,3781,a well healed left shoulder wound,82,115,P
+284487129,162,200,INSULIN DEPENDENT DIABETES MELLITUS,3,38,P
+284487129,200,250,ANTERIOR MYOCARDIAL INFARCTION,20,50,P
+284487129,250,279,PULMONARY EDEMA,14,29,P
+284487129,279,302,HYPERCHOLESTEROLEMIA,3,23,P
+284487129,319,560,acute shortness of breath,194,219,P
+284487129,319,560,pulmonary edema,224,239,P
+284487129,319,560,insulin dependent diabetes mellitus,93,128,P
+284487129,319,560,prior anterior myocardial infarction,52,88,P
+284487129,588,739,an acute anterior myocardial infarction,110,149,P
+284487129,739,797,multiple complications,15,37,P
+284487129,797,1032,a high grade left circumflex lesion after the OM,147,195,P
+284487129,797,1032,an occluded RCA,102,117,P
+284487129,797,1032,a three vessel coronary artery disease,58,96,P
+284487129,797,1032,distal left circumflex occlusion,201,233,P
+284487129,797,1032,70%-80% proximal LAD,120,140,P
+284487129,1133,1342,a thin fibrotic septum,88,110,P
+284487129,1133,1342,akinesis,116,124,P
+284487129,1133,1342,moderately severe hypokinesis in all other regions,129,179,P
+284487129,1463,1642,acutely short of breath,129,152,P
+284487129,1642,1705,chest pain,10,20,N
+284487129,1642,1705,palpitations,23,35,N
+284487129,1642,1705,nausea,55,61,N
+284487129,1642,1705,diaphoresis,38,49,N
+284487129,1705,1827,pulmonary edema,49,64,P
+284487129,1827,1884,myocardial infarction,34,55,N
+284487129,1884,1920,ischemic changes,18,34,N
+284487129,2026,2114,retinopathy,59,70,N
+284487129,2026,2114,foot lesions,74,86,N
+284487129,2026,2114,Insulin dependent diabetes mellitus,4,39,P
+284487129,2114,2139,Bilateral cataracts,4,23,P
+284487129,2139,2198,undescended testicle,37,57,P
+284487129,2198,2236,Coronary artery disease,4,27,P
+284487129,2247,2272,known drug allergies,3,23,N
+284487129,2674,2742,myocardial infarction,45,66,O
+284487129,2742,2795,a myocardial infarction,28,51,O
+284487129,2952,2982,jugular venous distention,3,28,N
+284487129,2989,3037,wheezes,30,37,N
+284487129,2989,3037,rales,41,46,N
+284487129,3053,3120,extra heart sounds,32,50,N
+284487129,3053,3120,murmurs,58,65,N
+284487129,3150,3175,edema,3,8,N
+284487129,3293,3351,pulmonary edema,41,56,N
+284487129,3293,3351,infiltrates,22,33,N
+284487129,3450,3525,flat T waves in I and aVL,7,32,P
+284487129,3542,3614,his pulmonary edema,51,70,P
+284487129,3614,3760,his coronary artery disease,57,84,P
+284487129,3882,3945,a large OM,51,61,P
+284487129,3882,3945,an 80% stenosis,31,46,P
+284487129,3945,4014,left-to-left filling,47,67,P
+284487129,3945,4014,occluded,33,41,P
+284487129,4014,4121,a 50% LAD stenosis,12,30,P
+284487129,4014,4121,a 100% large DT stenosis,33,57,P
+284487129,4232,4380,his high right-sided filling pressure,6,43,P
+284487129,4594,4748,his low ejection fraction,33,58,P
+289811204,56,84,"RIGHT HIP , OSTEOARTHRITIS",0,26,P
+289811204,185,213,"Right hip , osteoarthritis",0,26,P
+289811204,241,389,right hip pain,91,105,P
+289811204,389,433,Her pain,0,8,P
+289811204,501,542,rest pain,22,31,C
+289811204,672,727,difficulty with shoes and socks and foot care,8,53,P
+289811204,727,797,The patient &apos;s pain,0,24,P
+289811204,797,847,right hip osteoarthritis,24,48,P
+289811204,973,1074,left ankle and knee fractures,63,92,P
+289811204,973,1074,Hypertension,0,12,P
+289811204,973,1074,peptic ulcer disease,24,44,U
+289811204,1074,1122,E. coli,33,40,P
+289811204,1074,1122,Recent urinary tract infection,0,30,P
+289811204,1122,1144,Recent herpes zoster,0,20,P
+289811204,1318,1359,known drug allergies,19,39,N
+289811204,1465,1520,acute distress,39,53,N
+289811204,1616,1656,murmur,32,38,N
+289811204,2183,2220,leg length discrepancy,13,35,N
+289811204,2396,2698,trace white blood cells,245,268,P
+289811204,2396,2698,slight occult red blood cells,271,300,P
+289811204,2698,2831,intraventricular conduction delay,70,103,P
+289811204,2698,2831,poor R wave progression,108,131,P
+289811204,2831,2869,acute ischemic changes,14,36,N
+289811204,2869,2959,acute cardiac or pulmonary disease,54,88,N
+289811204,2869,2959,borderline cardiomegaly,23,46,P
+289811204,3116,3215,the patient &apos;s hypertension,27,59,P
+289811204,3215,3339,the patient &apos;s low potassium level,6,45,P
+289811204,3938,4196,deep venous thrombosis,234,256,N
+289811204,3938,4196,postoperatively hypokalemia,21,48,P
+289811204,4424,4503,Right hip osteoarthritis,0,24,P
+289811204,4503,4517,Hypertension,0,12,P
+289811204,4517,4555,Postoperative hypokalemia,0,25,N
+289811204,4555,4619,Postoperative confusion,0,23,N
+289811204,5225,5350,hypokalemic,112,123,H
+297228405_DH,375,387,VAG BLEEDING,0,12,P
+297228405_DH,398,428,dysfunctional uterine bleeding,0,30,P
+297228405_DH,448,522,thickened endometrium,37,58,P
+297228405_DH,545,574,pain,25,29,H
+297228405_DH,593,680,your uterine bleeding,57,78,P
+297228405_DH,801,890,any worsening pain,39,57,H
+297228405_DH,801,890,vomiting,60,68,H
+297228405_DH,801,890,fevers,72,78,H
+297228405_DH,890,992,any fainting episodes,47,68,H
+297228405_DH,992,1060,this bleeding,53,66,P
+306968218_YC,454,707,PAIN,44,48,H
+306968218_YC,454,707,PAIN,249,253,H
+306968218_YC,454,707,PAIN,137,141,H
+306968218_YC,454,707,Constipation,208,220,H
+306968218_YC,454,707,Constipation,94,106,H
+306968218_YC,787,827,Known Allergies,25,40,N
+306968218_YC,844,860,Repeat C / S PPS,0,16,P
+306968218_YC,891,966,IUP,48,51,P
+306968218_YC,983,1069,IUP,69,72,P
+306968218_YC,1069,1128,insulin dependent gestational diabetic,0,38,P
+306968218_YC,1069,1128,prior C / S,41,52,P
+306968218_YC,1069,1128,RSAP,55,59,P
+320422564,49,68,BILIARY OBSTRUCTION,0,19,P
+320422564,164,217,RECTAL CARCINOMA,3,19,P
+320422564,217,248,METASTATIC COLON CARCINOMA,3,29,P
+320422564,248,265,HYPERTENSION,3,15,P
+320422564,265,304,AORTIC STENOSIS,3,18,P
+320422564,304,332,URINARY TRACT INFECTION,3,26,P
+320422564,332,348,CHOLANGITIS,3,14,P
+320422564,348,359,ANEMIA,3,9,P
+320422564,387,489,biliary obstruction,81,100,P
+320422564,387,489,metastatic rectal cancer,37,61,P
+320422564,623,849,dilated ducts,89,102,P
+320422564,623,849,his biliary tree,208,224,P
+320422564,1417,1450,colon carcinoma,16,31,O
+320422564,1610,1679,acute distress,53,67,N
+320422564,1721,1811,a II / VI systolic murmur at the right sternal border,35,88,P
+320422564,1820,1867,nontender,11,20,N
+320422564,1951,1971,edema,13,18,N
+320422564,2283,2392,bilious material,68,84,P
+320422564,2392,2476,nausea,64,70,N
+320422564,2392,2476,vomiting,74,82,N
+320422564,2392,2476,belly pain,46,56,N
+320422564,2653,2710,any problems,43,55,N
+332803550,58,95,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,0,37,P
+332803550,198,235,Chronic obstructive pulmonary disease,0,37,P
+332803550,257,376,cataract,34,42,P
+332803550,257,376,diffuse fibrocystic breast disease,60,94,P
+332803550,257,376,trigeminal neuralgia,97,117,P
+332803550,257,376,osteoporosis,45,57,P
+332803550,257,376,Steroid complications,0,21,P
+332803550,404,661,severe lobular emphysema,112,136,P
+332803550,404,661,chronic obstructive pulmonary disease,58,95,P
+332803550,404,661,progressive shortness of breath,147,178,P
+332803550,732,877,steroid dependent,21,38,P
+332803550,966,1032,asbestos exposure,22,39,N
+332803550,966,1032,tuberculosis exposure,43,64,N
+332803550,1054,1215,trigeminal neuralgia,25,45,P
+332803550,1054,1215,total abdominal hysterectomy,131,159,P
+332803550,1054,1215,fibrocystic breast disease,72,98,P
+332803550,1054,1215,endometriosis,101,114,P
+332803550,1226,1532,disorientation,140,154,P
+332803550,1226,1532,gastrointestinal intolerance,11,39,P
+332803550,1226,1532,gastrointestinal symptoms,159,184,P
+332803550,1226,1532,edema,216,221,P
+332803550,1226,1532,rash,207,211,P
+332803550,1226,1532,rash,110,114,P
+332803550,1226,1532,edema,100,105,P
+332803550,1226,1532,itching,249,256,P
+332803550,1226,1532,gastrointestinal symptoms,261,286,P
+332803550,1657,1735,scattered expiratory crackles,47,76,P
+332803550,1657,1735,her diffuse expiratory wheezes,12,42,P
+332803550,1735,1832,paresthesias,38,50,P
+332803550,1832,1882,fibrocystic changes,29,48,P
+332803550,3209,3307,clockwise rotation present,70,96,P
+332803550,3209,3307,a short PR interval,29,48,P
+332803550,3209,3307,delta wave,57,67,P
+332803550,3746,3918,mild cataracts,22,36,P
+332803550,3746,3918,a subtle temporal disc pallor OD,85,117,P
+332803550,3746,3918,optic neuritis,156,170,P
+332803550,3918,3992,acute pathology,3,18,N
+332803550,3918,3992,treatment,36,45,N
+332803550,3992,4217,the trigeminal pain,95,114,P
+332803550,3992,4217,the patient &apos;s discomfort,193,223,P
+332803550,3992,4217,sinus problems,53,67,N
+332803550,3992,4217,the sphenoid,154,166,P
+332803550,4334,4469,mild adjustment related anxiety,39,70,P
+332803550,4555,4674,her condition,69,82,P
+333521954,434,450,CHEST PAIN,0,10,P
+333521954,434,450,SOB,13,16,P
+333521954,461,488,R Lung Mass,0,11,P
+333521954,461,488,cancer,21,27,U
+333521954,592,644,pain,28,32,H
+337702516_WGH,223,344,recurrent biliary colic,96,119,P
+337702516_WGH,372,431,recurrent biliary colic,34,57,P
+337702516_WGH,431,529,ultrasound proven gallstones,12,40,P
+337702516_WGH,529,743,nausea,183,189,P
+337702516_WGH,529,743,symptoms,23,31,N
+337702516_WGH,529,743,right upper quadrant epigastric pain,120,156,P
+337702516_WGH,529,743,classic biliary colic pain,88,114,P
+337702516_WGH,529,743,vomiting,204,212,N
+337702516_WGH,846,915,Episodes,0,8,P
+337702516_WGH,915,1021,chills,24,30,N
+337702516_WGH,915,1021,melena,98,104,N
+337702516_WGH,915,1021,bright red blood per rectum,67,94,N
+337702516_WGH,915,1021,fevers,15,21,N
+337702516_WGH,915,1021,respiratory symptoms,33,53,N
+337702516_WGH,915,1021,diarrhea,56,64,N
+337702516_WGH,1090,1154,gallbladder,29,40,O
+337702516_WGH,1090,1154,pancreatic disease,44,62,O
+337702516_WGH,1154,1194,weight loss,27,38,N
+337702516_WGH,1194,1207,anorexia,3,11,N
+337702516_WGH,1207,1277,cholecystitis,55,68,N
+337702516_WGH,1207,1277,six gallstones,32,46,P
+337702516_WGH,1277,1326,liver disease,22,35,N
+337702516_WGH,1277,1326,hepatitis,38,47,N
+337702516_WGH,1758,1781,known drug allergies,3,23,N
+337702516_WGH,1904,1994,apparent distress,71,88,N
+337702516_WGH,1994,2034,rash,25,29,N
+337702516_WGH,1994,2034,anicteric,7,16,N
+337702516_WGH,2034,2107,left TM scarring,16,32,P
+337702516_WGH,2034,2107,drainage,63,71,N
+337702516_WGH,2034,2107,acute inflammation,41,59,N
+337702516_WGH,2128,2157,lymphadenopathy,3,18,N
+337702516_WGH,2181,2211,bruits,15,21,N
+337702516_WGH,2181,2211,JVD,25,28,N
+337702516_WGH,2256,2328,rub,57,60,N
+337702516_WGH,2256,2328,gallop,64,70,N
+337702516_WGH,2256,2328,murmur,48,54,N
+337702516_WGH,2341,2407,hepatosplenomegaly,38,56,N
+337702516_WGH,2341,2407,nontender,20,29,N
+337702516_WGH,2341,2407,mass,60,64,N
+337702516_WGH,2407,2439,guarding,22,30,N
+337702516_WGH,2407,2439,rebound,11,18,N
+337702516_WGH,2754,2811,complication,43,55,N
+337702516_WGH,2846,2898,afebrile,16,24,N
+337702516_WGH,3070,3131,pain,55,59,H
+346176858_SC,471,590,Pain,31,35,H
+346176858_SC,471,590,Pain,115,119,H
+346176858_SC,471,590,Constipation,70,82,H
+346176858_SC,625,740,Pain,111,115,H
+346176858_SC,855,858,NKA,0,3,N
+346176858_SC,875,888,labor at term,0,13,P
+346176858_SC,1451,1476,observed abnormalities,3,25,N
+348301810,172,192,ENDOMETRIAL CANCER,0,18,P
+348301810,320,501,grade I adenocarcinoma,157,179,P
+348301810,320,501,postmenopausal spotting,42,65,P
+348301810,752,778,scars,19,24,N
+348301810,752,778,Abdomen obese,0,13,P
+348301810,820,847,edema,20,25,N
+348301810,1038,1160,superficial invasion,62,82,P
+351853846_WGH,52,67,GAIT DISORDER,0,13,P
+351853846_WGH,243,258,Gait disorder,0,13,P
+351853846_WGH,286,426,difficulty walking,103,121,P
+351853846_WGH,286,426,right-sided greater than left-sided weakness,54,98,P
+351853846_WGH,426,584,right-sided arm and leg weakness,113,145,P
+351853846_WGH,426,584,ataxia,150,156,P
+351853846_WGH,718,786,the episode,29,40,P
+351853846_WGH,786,915,malaise,82,89,P
+351853846_WGH,786,915,specific deficits,98,115,N
+351853846_WGH,915,1124,other symptoms,124,138,P
+351853846_WGH,915,1124,diffuse and mainly frontal headaches,148,184,P
+351853846_WGH,915,1124,mild neck soreness,189,207,P
+351853846_WGH,915,1124,small spells of &quot; imbalance,45,77,P
+351853846_WGH,1124,1215,diplopia,13,21,N
+351853846_WGH,1124,1215,speech abnormality,38,56,N
+351853846_WGH,1124,1215,sensory change,60,74,N
+351853846_WGH,1124,1215,visual loss,24,35,N
+351853846_WGH,1352,1535,depression,15,25,P
+351853846_WGH,1673,1699,a rash,18,24,C
+351853846_WGH,2122,2238,acute distress,25,39,N
+351853846_WGH,2276,2318,carotid or cervical bruits,14,40,N
+351853846_WGH,2318,2390,murmurs,63,70,N
+351853846_WGH,2464,2591,hematomas in the bilaterally shins,91,125,P
+351853846_WGH,2464,2591,clubbing,29,37,N
+351853846_WGH,2464,2591,cyanosis,40,48,N
+351853846_WGH,2464,2591,edema,51,56,N
+351853846_WGH,2464,2591,rash,62,66,N
+351853846_WGH,2645,2875,singing or humming along,63,87,P
+351853846_WGH,2645,2875,slightly inappropriate,15,37,P
+351853846_WGH,2645,2875,the deficits,174,186,P
+351853846_WGH,2645,2875,indifference,158,170,P
+351853846_WGH,3276,3314,nystagmus,13,22,N
+351853846_WGH,3276,3314,ptosis,30,36,N
+351853846_WGH,3576,3596,drift,13,18,N
+351853846_WGH,3628,3757,slightly slow fine finger motility,8,42,P
+351853846_WGH,3915,3966,jaw jerk,13,21,N
+351853846_WGH,3966,4098,slow bilaterally,27,43,P
+351853846_WGH,4272,4371,ataxia,81,87,N
+351853846_WGH,4272,4371,tremor,91,97,N
+351853846_WGH,4551,4641,intracranial process,68,88,N
+351853846_WGH,4672,4864,her gait disorder,29,46,P
+351853846_WGH,4672,4864,anisocoria,100,110,P
+351853846_WGH,4672,4864,notable findings,58,74,P
+351853846_WGH,4864,5047,infarction,141,151,N
+351853846_WGH,4864,5047,other pathologic processes,155,181,N
+351853846_WGH,4864,5047,arterial dissections,117,137,N
+351853846_WGH,5350,5610,markedly unstable,54,71,P
+351853846_WGH,5350,5610,her gait,29,37,P
+351853846_WGH,5350,5610,weakness,122,130,N
+351853846_WGH,5350,5610,dysmetria,249,258,N
+351853846_WGH,5350,5610,reproducible upper extremity or lower extremity ataxia,191,245,N
+351853846_WGH,5650,5743,acutely suicidal,23,39,N
+351853846_WGH,5743,5842,her own symptomatology,75,97,P
+373254497_PUMC,450,471,PELVIC PAIN,10,21,P
+373254497_PUMC,450,471,ABD PAIN/,0,9,P
+373254497_PUMC,508,583,abdominal pain,47,61,P
+373254497_PUMC,594,629,Abdominal pain,0,14,P
+373254497_PUMC,629,655,ovarian cyst,14,26,P
+373254497_PUMC,781,922,worsening abdominal pain,31,55,H
+373254497_PUMC,781,922,other worrisome symptoms,71,95,H
+373254497_PUMC,781,922,discharge,58,67,H
+373254497_PUMC,781,922,fevers,22,28,H
+384729825,379,432,SDH,48,51,P
+384729825,589,702,SDH,108,111,P
+388755206_SC,420,563,PAIN,139,143,H
+388755206_SC,646,692,Known Allergies,31,46,N
+388755206_SC,1060,1097,Non-reassuring fetal status,0,27,P
+388755206_SC,1380,1390,Post dates,0,10,P
+388755206_SC,1414,1435,bradycardia,10,21,P
+388755206_SC,1478,1503,observed abnormalities,3,25,N
+388755206_SC,1623,1851,heavy bleeding,156,170,H
+388755206_SC,1623,1851,worsening abdominal pain,129,153,H
+388755206_SC,1623,1851,any other concern,176,193,H
+388755206_SC,1623,1851,fever above 100.5,109,126,H
+402389409_WGH,459,551,trauma,72,78,P
+402389409_WGH,551,643,bruises,71,78,P
+402389409_WGH,551,643,fractures,57,66,P
+402389409_WGH,551,643,sprains,47,54,P
+402389409_WGH,654,702,muscle contusions,31,48,P
+402389409_WGH,722,752,fracture,22,30,N
+402389409_WGH,775,851,pain,32,36,H
+402389409_WGH,1007,1059,sore areas,18,28,P
+402389409_WGH,1059,1190,worsening pain,35,49,H
+402389409_WGH,1059,1190,any other concerns,64,82,H
+402389409_WGH,1059,1190,trouble breathing,15,32,H
+402389409_WGH,1059,1190,vomiting,52,60,H
+405507617,249,311,Down &apos;s syndrome,39,60,P
+405507617,249,311,Alzheimer &apos;s disease,0,25,P
+405507617,328,472,Down &apos;s syndrome,46,67,P
+405507617,328,472,falling,86,93,P
+405507617,328,472,a decrease in her activities,98,126,P
+405507617,500,722,increased falling,86,103,P
+405507617,500,722,Down &apos;s syndrome,46,67,P
+405507617,500,722,gait unsteadiness,108,125,P
+405507617,500,722,an increased inability,130,152,P
+405507617,722,775,Alzheimer &apos;s,17,34,P
+405507617,775,999,enlarged lateral ventricles,59,86,P
+405507617,775,999,normal pressure hydrocephalus,117,146,U
+405507617,1021,1222,heart disease,150,163,N
+405507617,1021,1222,Altzheimer &apos;s disease,36,62,P
+405507617,1021,1222,Down &apos;s syndrome,76,97,P
+405507617,1021,1222,Down &apos;s syndrome,12,33,P
+405507617,1021,1222,an abnormal EEG,184,199,P
+405507617,1021,1222,multiple falls,130,144,P
+405507617,1340,1375,known drug allergies,13,33,N
+405507617,1453,1609,some urinary accidents,98,120,P
+405507617,1453,1609,a decrease in her language,69,95,P
+405507617,1453,1609,a poor gait,143,154,P
+405507617,1453,1609,increased falls,123,138,P
+405507617,1453,1609,decreased ability,12,29,P
+405507617,1631,1696,Down &apos;s,51,63,P
+405507617,1770,1824,bilateral esotropia,33,52,P
+405507617,1906,1975,non-tender,33,43,N
+405507617,1988,2069,swelling,27,35,P
+405507617,2075,2110,back folliculitis,16,33,P
+405507617,2313,2361,bilateral esotropia,27,46,P
+405507617,2621,2795,a tendency to fall back,107,130,P
+405507617,2621,2795,a wide based gait,57,74,P
+405507617,2621,2795,shuffling short steps,80,101,P
+405507617,2621,2795,her feet externally rotated,24,51,P
+405507617,2795,2880,large ventricles,67,83,P
+405507617,2967,3206,severely agitated,178,195,P
+405507617,4039,4102,organisms,47,56,N
+405507617,4039,4102,polys,34,39,N
+405507617,4324,4445,changing gait,85,98,P
+405868244_YC,426,509,Constipation,34,46,H
+405868244_YC,426,509,Pain,79,83,H
+405868244_YC,544,683,Upset Stomach,126,139,H
+405868244_YC,813,829,"pregnancy , term",0,16,P
+405868244_YC,1070,1082,Laceration,0,10,P
+405868244_YC,1082,1103,"Perineal , 1st degree",0,21,P
+405868244_YC,1242,1284,first degree perineal laceration,10,42,P
+405868244_YC,1397,1422,observed abnormalities,3,25,N
+412141256,183,292,unresponsiveness,91,107,P
+412141256,183,292,focal left-sided seizure,62,86,P
+412141256,292,458,mild aortic stenosis,83,103,P
+412141256,292,458,ischemic cardiomyopathy,25,48,P
+412141256,292,458,a right middle cerebral artery territory stroke,108,155,P
+412141256,458,598,unresponsive,54,66,P
+412141256,458,598,left tonic-clonic movements,72,99,P
+412141256,598,702,seizures,61,69,P
+412141256,734,788,poor airway protection,30,52,P
+412141256,734,788,unresponsive,12,24,P
+412141256,842,870,flaccid bilaterally,7,26,P
+412141256,870,904,oculocephalic reflexes,10,32,N
+412141256,904,971,unresponsive,53,65,P
+412141256,1068,1143,generalized slowing without ictal events,33,73,P
+412141256,1143,1169,carotid bruits,10,24,N
+412141256,1169,1287,positional tremors of the left upper extremity,30,76,P
+412141256,1169,1287,stertorous breathing,7,27,P
+412141256,1169,1287,a spastic left hemiparesis in flexion,79,116,P
+412141256,1329,1384,paresthetic,42,53,P
+412141256,1329,1384,flaccid,30,37,P
+412141256,1516,1664,carotid pulse,83,96,N
+412141256,1516,1664,unresponsive,47,59,P
+412141256,1516,1664,heart sounds,68,80,N
+412141256,1516,1664,respiratory excursions,99,121,N
+412141256,1516,1664,pupillary reactions,127,146,N
+412141256,1742,1804,Left middle cerebral artery territory cerebral infarction,3,60,P
+412141256,1804,1823,Cardiomyopathy,3,17,P
+412141256,1823,1884,previous right middle cerebral artery stroke,15,59,P
+424729395_DH,259,305,Abnormal Fetal Heart Rate / Rhythm,0,34,P
+424729395_DH,327,357,Abnormal Pap Test,0,17,P
+424729395_DH,614,626,Active Labor,0,12,P
+424729395_DH,1198,1212,active labor,0,12,P
+424729395_DH,1458,1477,fetal bradycardia,0,17,P
+424729395_DH,1547,1572,nuchal cord,0,11,P
+425680098_SC,177,250,a right breast mass,35,54,P
+425680098_SC,177,250,a discharge,60,71,P
+425680098_SC,315,384,nipple changes,22,36,P
+425680098_SC,315,384,discomfort,41,51,P
+425680098_SC,453,521,a new shawdown,24,38,P
+425680098_SC,676,701,known drug allergies,3,23,N
+425680098_SC,756,920,apparent masses,101,116,N
+425680098_SC,756,920,scarring supra-areolar and infra-areolar,122,162,P
+425680098_SC,920,965,A biopsy scar on the right breast,0,33,P
+433651389,49,82,MENTAL STATUS CHANGE,0,20,P
+433651389,49,82,CELLULITIS,23,33,P
+433651389,185,208,MENTAL STATUS CHANGES,0,21,P
+433651389,225,245,AORTIC STENOSIS,3,18,P
+433651389,245,270,MITRAL REGURGITATION,3,23,P
+433651389,270,291,FALL,15,19,P
+433651389,291,359,CEREBROVASCULAR ACCIDENT,42,66,P
+433651389,291,359,TRANSIENT ISCHEMIC ATTACK,14,39,P
+433651389,359,391,RIGHT LOWER EXTREMITY WOUND,3,30,P
+433651389,391,415,ATRIAL FIBRILLATION,3,22,P
+433651389,443,614,a right lower extremity cellulitis,61,95,P
+433651389,443,614,worsening cellulitis,131,151,P
+433651389,443,614,new confusion,156,169,P
+433651389,614,857,Nafcillin sensitive Staphylococcus aureus cellulitis of the right leg,120,189,P
+433651389,614,857,severe aortic stenosis,29,51,P
+433651389,857,950,a right leg fluid collection,15,43,P
+433651389,1013,1193,the cellulitis,139,153,P
+433651389,1193,1274,combative,43,52,P
+433651389,1193,1274,confused,30,38,P
+433651389,1497,1680,"Aortic stenosis , severe",3,27,P
+433651389,1680,1735,congestive heart failure,29,53,P
+433651389,1776,1837,Mitral regurgitation,3,23,P
+433651389,1837,1872,atrial fibrillation,14,33,P
+433651389,1872,1911,cerebrovascular disease,14,37,P
+433651389,1911,1928,Hypertension,3,15,P
+433651389,1928,1982,temporal arteritis,14,32,P
+433651389,1982,2005,colitis,14,21,P
+433651389,2005,2045,vertebral body fractures,14,38,P
+433651389,2478,2519,known drug allergies,19,39,N
+433651389,3025,3109,a leg ulcer,33,44,P
+433651389,3025,3109,cellulitis,49,59,P
+433651389,3109,3141,spider angiomata,14,30,N
+433651389,3141,3178,thyromegaly,24,35,N
+433651389,3224,3506,a two out of six high pitched murmur,181,217,P
+433651389,3224,3506,a sustained PMI,52,67,P
+433651389,3224,3506,near complete obliteration of the second heart sound,125,177,P
+433651389,3548,3638,a blowing holosystolic murmur,15,44,P
+433651389,3638,3667,S3,13,15,N
+433651389,3667,3811,1+ carotid impulses,37,56,P
+433651389,3667,3811,transmitted cardiac murmurs,115,142,P
+433651389,3811,3957,masses,109,115,N
+433651389,3811,3957,non-tender,59,69,N
+433651389,3811,3957,non-distended,72,85,N
+433651389,3811,3957,organomegaly,91,103,N
+433651389,3957,4091,a small ulcer,90,103,P
+433651389,3957,4091,erythema of the right calf,58,84,P
+433651389,4091,4207,quite sedated,55,68,P
+433651389,4923,5019,infiltrate,54,64,N
+433651389,4923,5019,congestive heart failure,70,94,N
+433651389,5019,5089,bleed,63,68,N
+433651389,5089,5199,trace microscopic hematuria,20,47,P
+433651389,5089,5199,1+ bacteria,97,108,P
+433651389,5242,5373,argumentative,62,75,P
+433651389,5242,5373,uncooperative with procedures,100,129,P
+433651389,5242,5373,confused,80,88,P
+433651389,5373,5638,acute bleed,91,102,N
+433651389,5373,5638,xanthrochromasia,247,263,N
+433651389,5638,5800,her agitation,58,71,P
+433651389,5638,5800,infection,95,104,U
+433651389,5638,5800,her metabolic condition,137,160,P
+433651389,5977,6200,abnormality,59,70,N
+433651389,5977,6200,degenerative joint disease,171,197,P
+433651389,5977,6200,obvious fracture,205,221,N
+433651389,5977,6200,bleed,122,127,N
+433651389,6357,6394,Right lower extremity cellulitis,3,35,P
+433651389,6394,6538,the wound,64,73,P
+433651389,6394,6538,some erythema,89,102,P
+433651389,6394,6538,true cellulitis,127,142,N
+433651389,6538,6673,infection,124,133,P
+433651389,6685,6765,mitral regurgitation,58,78,P
+433651389,6685,6765,critical aortic stenosis,29,53,P
+433651389,6838,6859,fall,15,19,P
+433651389,6951,7018,deficits,32,40,N
+433651389,7018,7042,Atrial fibrillation,3,22,P
+433651389,7086,7120,Abnormal liver function tests,3,32,P
+433651389,7120,7280,cholestatic picture,139,158,P
+433651389,7120,7280,mildly elevated alkaline phosphatase,84,120,P
+433651389,7120,7280,elevated bilirubins,45,64,P
+455343475_PUMC,373,437,R THUMB INJURY,48,62,P
+493597270,41,55,ACUTE LEUKEMIA,0,14,P
+493597270,165,215,acute leukemia,34,48,P
+493597270,215,361,bruising,136,144,P
+493597270,215,361,increased weakness,113,131,P
+493597270,498,549,ALL,46,49,P
+493597270,615,663,nausea,17,23,N
+493597270,615,663,vomiting,26,34,N
+493597270,615,663,headache,3,11,N
+493597270,615,663,diarrhea,38,46,N
+493597270,663,724,Some shortness of breath,0,24,C
+493597270,663,724,allergies,30,39,P
+493597270,724,739,chest pain,3,13,N
+493597270,858,1139,depression,72,82,P
+493597270,858,1139,hypercholesterolemia,259,279,P
+493597270,858,1139,pleural thickening,97,115,P
+493597270,858,1139,anxiety,87,94,P
+493597270,858,1139,chronic left bundle branch block,131,163,P
+493597270,858,1139,allergies,60,69,P
+493597270,858,1139,left wrist fracture,224,243,P
+493597270,858,1139,asbestosis,118,128,P
+493597270,1150,1274,penicillin reaction,53,72,U
+493597270,1150,1274,The patient &apos;s allergies,0,29,P
+493597270,1274,1342,her reaction,36,48,P
+493597270,1342,1395,platelet reaction,34,51,P
+493597270,1411,1495,colon cancer,70,82,O
+493597270,1596,1718,apparent distress,103,120,N
+493597270,1807,1859,atraumatic,40,50,N
+493597270,1902,1943,decreased hearing bilaterally,10,39,P
+493597270,1943,2024,a partial upper plate,58,79,P
+493597270,2024,2082,lymphadenopathy,41,56,N
+493597270,2124,2197,a diffuse 2/6 systolic murmur,42,71,P
+493597270,2197,2291,nondistended,37,49,N
+493597270,2197,2291,hepatosplenomegaly,74,92,N
+493597270,2197,2291,guarding,58,66,N
+493597270,2197,2291,nontender,23,32,N
+493597270,2318,2470,pale blue two centimeter macules,118,150,P
+493597270,2318,2470,a dark two centimeter ecchymosis,51,83,P
+493597270,3074,3130,neutropenic,18,29,P
+493597270,3130,3262,increased crackles,112,130,P
+493597270,3130,3262,pulmonary symptoms,83,101,P
+493597270,3262,3340,Staphylococcusaureus,56,76,P
+493597270,3590,3698,elevated liver enzymes,51,73,P
+493597270,3759,3840,urinary retention,32,49,P
+493597270,3840,3918,drug rash,32,41,U
+493597270,3918,3981,constipated,19,30,P
+493597270,4268,4337,breathing difficulties,45,67,H
+493597270,4474,4534,constipation,46,58,H
+493597270,4584,4638,skin irritation,37,52,H
+493597270,4638,4678,itching,31,38,H
+493597270,4721,4772,gas pain,41,49,H
+493597270,4920,4989,cough,62,67,H
+498710998,162,183,Carotid stenosis,3,19,P
+498710998,183,203,Aortic stenosis,3,18,P
+498710998,203,231,Coronary artery disease,3,26,P
+498710998,248,464,aortic stenosis,125,140,P
+498710998,248,464,chest pain,145,155,P
+498710998,464,824,exertional angina,29,46,P
+498710998,464,824,chest pain,51,61,P
+498710998,464,824,light-headedness,78,94,P
+498710998,464,824,chest pain,217,227,P
+498710998,464,824,a dull pressure in her neck,233,260,C
+498710998,464,824,light-headedness,196,212,P
+498710998,824,944,diaphoresis,82,93,P
+498710998,824,944,light-headedness,16,32,P
+498710998,824,944,nausea,112,118,P
+498710998,824,944,shortness of breath,58,77,P
+498710998,944,1055,vomiting,15,23,N
+498710998,944,1055,the episodes,38,50,P
+498710998,1055,1196,The pain,0,8,P
+498710998,1055,1196,light-headedness,13,29,P
+498710998,1196,1311,hypercholesterolemia,21,41,P
+498710998,1196,1311,hypertension,44,56,P
+498710998,1196,1311,diabetes,87,95,N
+498710998,1311,1625,right heart wall motion abnormali-ties,225,263,N
+498710998,1311,1625,left ventricular hypertrophy,162,190,P
+498710998,1311,1625,aortic stenosis,42,57,P
+498710998,1625,1712,uterine fibroids,26,42,P
+498710998,1712,1797,known bilateral carotid disease,8,39,P
+498710998,1797,1920,glaucoma,21,29,P
+498710998,1797,1920,claudication in her legs,60,84,U
+498710998,1797,1920,hypertension,109,121,P
+498710998,2048,2142,afebrile,32,40,N
+498710998,2142,2223,bilateral arcussenilis,30,52,P
+498710998,2223,2359,JVD,19,22,N
+498710998,2223,2359,a slow carotid upstroke bilaterally,35,70,P
+498710998,2223,2359,transmitted murmur,116,134,U
+498710998,2223,2359,bilateral carotid bruits,84,108,U
+498710998,2404,2565,gallop,140,146,N
+498710998,2404,2565,systolic murmur at the right upper sternal border,85,134,P
+498710998,2565,2622,nontender,23,32,N
+498710998,2636,2724,cyanosis,23,31,N
+498710998,2636,2724,clubbing,12,20,N
+498710998,2636,2724,edema,35,40,N
+498710998,2880,3008,left ventricular hyper-trophy,55,84,P
+498710998,2880,3008,poor anterior progression of R-waves,90,126,P
+498710998,3025,3288,70% stenosis of her left circumflex artery,126,168,P
+498710998,3025,3288,50% stenosis of the left anterior descending,171,215,P
+498710998,3025,3288,10% stenosis of the right coronary artery,220,261,P
+498710998,3288,3420,left internal carotid stenosis of 90%,29,66,P
+498710998,3288,3420,right internal carotid artery &quot; critical stenosis &quot;,69,130,P
+498710998,3761,3920,some left upper extremity weakness,79,113,P
+498710998,3920,4082,her left upper extremity weakness,127,160,P
+498710998,4082,4215,infarction,108,118,N
+498710998,4215,4266,diffuse small vessel disease,15,43,P
+498710998,4266,4373,atrial fibrillation,40,59,P
+498710998,4373,4552,some noted right upper and right lower extremity discoordination,113,177,P
+498710998,4373,4552,the left upper extremity weakness,77,110,P
+498710998,4373,4552,a new event,48,59,U
+498710998,4585,4672,some elements of aphasia,61,85,P
+498710998,4585,4672,the right-sided symptoms,10,34,P
+498710998,4672,4933,significant stenosis of the left carotid artery,123,170,P
+498710998,4933,5241,aphasia,184,191,N
+498710998,4933,5241,the residual deficit,234,254,P
+498710998,4933,5241,some left upper extremity weakness,272,306,P
+498710998,5873,6123,agitation,213,222,H
+498710998,5873,6123,confusion,239,248,H
+500472963,383,441,ABD PAIN,48,56,P
+500472963,599,703,PERFORATION,91,102,P
+503651854_WGH,446,463,head trauma,0,11,P
+503651854_WGH,689,791,vomiting,30,38,H
+503651854_WGH,689,791,nausea,21,27,H
+503651854_WGH,689,791,headache,41,49,H
+503651854_WGH,689,791,other concerns,86,100,H
+503651854_WGH,689,791,visual / mental status changes,52,82,H
+517414339,54,75,HYPERPARATHYROIDISM,0,19,P
+517414339,252,273,hyperparathyroidism,0,19,P
+517414339,336,353,hypertension,3,15,P
+517414339,353,377,atrial fibrillation,3,22,P
+517414339,377,421,hypertrophic obstructive cardiomyopathy,3,42,P
+517414339,421,440,osteoarthritis,3,17,P
+517414339,440,477,right cheek basal cell carcinoma,3,35,P
+517414339,477,490,glaucoma,3,11,P
+517414339,490,534,non-insulin dependent diabetes mellitus,3,42,P
+517414339,769,872,her hyperparathyroidism,78,101,P
+517414339,872,1090,hypertrophic obstructive cardiomyopathy,48,87,P
+517414339,872,1090,hypertension,167,179,P
+517414339,872,1090,chronic atrial fibrillation,137,164,P
+517414339,1090,1313,a high calcium,168,182,P
+517414339,1313,1391,an elevated PTH,61,76,P
+517414339,1313,1391,hyperparathyroidism,25,44,P
+517414339,1391,1434,masses in her neck,23,41,N
+517414339,1434,1516,generalized hoarseness in her voice,21,56,P
+517414339,1516,1611,some difficulties with swallowing,60,93,P
+517414339,1516,1611,some dysphagia,22,36,P
+517414339,1961,2018,hypertension,30,42,P
+517414339,1961,2018,hypertension,3,15,P
+517414339,2018,2085,atrial fibrillation,3,22,P
+517414339,2085,2129,hypertrophic obstructive cardiomyopathy,3,42,P
+517414339,2129,2234,osteoarthritis,3,17,P
+517414339,2234,2299,right cheek basal cell carcinoma,3,35,P
+517414339,2299,2323,glaucoma,14,22,P
+517414339,2323,2403,non insulin dependent diabetes mellitus,3,42,P
+517414339,2403,2416,shingles,3,11,P
+517414339,2492,2538,polyps,38,44,P
+517414339,2610,2635,known drug allergies,3,23,N
+517414339,3018,3081,parathyroid or thyroid diseases,30,61,O
+517414339,3251,3326,dyspnea on exertion,54,73,C
+517414339,3326,3424,shortness of breath,77,96,C
+517414339,3424,3504,shortness of breath,59,78,C
+517414339,3542,3585,short of breath,9,24,C
+517414339,3607,3679,acute distress,56,70,N
+517414339,3780,3917,irregular border,86,102,P
+517414339,3780,3917,very sluggishly reactive,111,135,P
+517414339,4040,4098,irregularly irregular rhythm,28,56,P
+517414339,4040,4098,III / VI systolic click,0,23,P
+517414339,4414,4556,atrial fibrillation,29,48,P
+517414339,4414,4556,digitalis effect,84,100,P
+517414339,4414,4556,left ventricular hypertrophy,112,140,P
+517414339,4414,4556,slow ventricular response,54,79,P
+517414339,4581,4755,increased calcium,96,113,P
+517414339,4581,4755,hyperparathyroidism,118,137,P
+517414339,4581,4755,dyspnea on exertion,74,93,C
+517414339,4581,4755,cardiac history,56,71,P
+517414339,4881,4984,markedly enlarged,53,70,P
+517414339,4881,4984,an adenoma,91,101,P
+517414339,5092,5211,changes,92,99,N
+517414339,5374,5531,some tingling in her hands,81,107,P
+517414339,5374,5531,some tingling hear her perioral region,117,155,P
+517414339,5604,5640,muscular weakness,11,28,N
+517414339,5863,5959,her ionized calcium decreased,10,39,P
+517414339,6126,6273,tingling in her fingers,35,58,N
+523704694,169,258,Left sided spastic hemiparesis,0,30,P
+523704694,286,571,pain,209,213,P
+523704694,286,571,abdominal pain,269,283,P
+523704694,286,571,increasing left sided weakness,174,204,P
+523704694,286,571,spasticity,219,229,P
+523704694,286,571,difficulty swallowing,243,264,P
+523704694,571,715,spasticity,132,142,P
+523704694,571,715,left sided weakness,108,127,P
+523704694,715,958,abnormal vasculature,81,101,P
+523704694,715,958,hemosiderin deposit,104,123,P
+523704694,715,958,a dural arteriovenous malformation,162,196,P
+523704694,715,958,intermedullary lesion at C1-2 level,22,57,P
+523704694,958,1090,urinary retention,113,130,P
+523704694,958,1090,transient swallowing difficulty,44,75,P
+523704694,958,1090,increasing left sided weakness,78,108,P
+523704694,1190,1356,problematic,151,162,P
+523704694,1479,1556,her functional level,24,44,P
+523704694,1615,1789,a flexure contraction,27,48,P
+523704694,1615,1789,intermitttent pain in the left arm and leg,65,107,P
+523704694,1789,1927,new swallowing difficulty,23,48,P
+523704694,1927,1978,dysuria,11,18,N
+523704694,1927,1978,excessive urinary frequency,22,49,N
+523704694,1978,2153,severe intermittent abdominal pain,51,85,P
+523704694,2153,2263,her hemorrhoids,39,54,P
+523704694,2263,2332,This pain,0,9,P
+523704694,2354,2555,hypertension,93,105,P
+523704694,2354,2555,frequent urinary tract infections,121,154,P
+523704694,2354,2555,neuropathic pain syndrome,157,182,P
+523704694,2354,2555,osteoporosis,187,199,P
+523704694,2354,2555,hypothyroidism,76,90,P
+523704694,2354,2555,atrial fibrillation,54,73,P
+523704694,2354,2555,depression,108,118,P
+523704694,2354,2555,Insulin dependent diabetes mellitus,16,51,P
+523704694,2567,3115,muscle spasm,450,462,H
+523704694,3126,3219,allergic,15,23,P
+523704694,3241,3305,murmur,56,62,N
+523704694,3350,3428,reduced bowel sounds,56,76,P
+523704694,3350,3428,marked suprapubic tenderness,23,51,P
+523704694,3428,3450,reduced,13,20,P
+523704694,3450,3512,nontender,22,31,N
+523704694,3637,3720,nystagmus,72,81,N
+523704694,3817,3890,markedly increased in bot legs,12,42,P
+523704694,3890,3955,markedly increased tone,40,63,P
+523704694,3890,3955,a flexor contracture,15,35,P
+523704694,3955,4000,moderate increased tone,20,43,P
+523704694,4007,4162,reduction in motor power,31,55,P
+523704694,4162,4249,generalized reduction in strength,32,65,P
+523704694,4542,4676,positive tremor reflex on the left,74,108,P
+523704694,4542,4676,absent on the right,113,132,P
+523704694,4789,4871,clonus on the right,12,31,N
+523704694,4789,4871,sustained clonus ( 10-12 beats ) on the left,36,80,P
+523704694,4955,5204,a high cervical spinal sensory level,211,247,P
+523704694,4955,5204,decreased temperature,97,118,P
+523704694,4955,5204,diminished vibration and propioception in the left upper and lower extremity,16,92,P
+523704694,5204,5300,an intention tremor,38,57,P
+523704694,5300,5372,slow,25,29,P
+523704694,5633,5777,Citrobacter,45,56,P
+523704694,5777,5813,P-waves,27,34,P
+523704694,5858,6072,a missing posterior arch at C-1,87,118,P
+523704694,6072,6192,her former vascular malformation,86,118,N
+523704694,6072,6192,recurrence,72,82,N
+523704694,6072,6192,arteriovenous malformations,3,30,N
+523704694,6192,6231,intraspinal lesions,3,22,N
+523704694,6231,6466,enhancing lesions of the spinal cord,183,219,N
+523704694,6231,6466,extrinsic compressive lesions,120,149,N
+523704694,6466,6618,normal vascular distribution of the head and neck,52,101,N
+523704694,6466,6618,recurrence of arteriovenous malformation,110,150,N
+523704694,6618,6712,spasticity,82,92,P
+523704694,6785,6857,muscle spasm,58,70,P
+523704694,6857,6938,left arm and leg pain,58,79,P
+523704694,7314,7519,spasticity,142,152,P
+523704694,7314,7519,functional capacity,73,92,P
+544907529_RWH,364,440,ABD PAIN,66,74,P
+544907529_RWH,364,440,EPIGASTRIC PAIN,48,63,P
+544907529_RWH,587,708,CHOLECYSTITIS,106,119,P
+555509347_PUMC,262,308,Second Degree Laceration,22,46,P
+555509347_PUMC,330,423,Low Lying Placenta,0,18,P
+555509347_PUMC,330,423,Urinary Tract Infection,57,80,P
+555509347_PUMC,698,710,Active Labor,0,12,P
+555509347_PUMC,1184,1198,active labor,0,12,P
+555509347_PUMC,1460,1478,chorioamnionitis,0,16,P
+555509347_PUMC,1548,1561,nuchal cord,0,11,P
+574700124_RWH,384,442,ABD PAIN,48,56,P
+596437842,169,208,ACQUIRED IMMUNODEFICIENCY SYNDROME,3,37,P
+596437842,208,243,PNEUMOCYSTIS CARINII PNEUMONIA,3,33,P
+596437842,243,283,ADULT RESPIRATORY DISTRESS SYNDROME,3,38,P
+596437842,311,594,pneumonia,153,162,P
+596437842,311,594,adult respiratory distress syndrome,175,210,P
+596437842,311,594,Pneumocystis carinii pneumonia,103,133,P
+596437842,311,594,acquired immunodeficiency syndrome,64,98,P
+596437842,594,732,acquired immunodeficiency syndrome,47,81,P
+596437842,594,732,Pneumocystis carinii pneumonia,94,124,P
+596437842,840,960,a positive toluidine blue study,87,118,P
+596437842,1236,1363,diarrhea,117,125,P
+596437842,1236,1363,malaise,105,112,P
+596437842,1544,1640,increased shortness of breath,53,82,P
+596437842,1544,1640,malaise,87,94,P
+596437842,1640,1729,newly palpable liver edge,62,87,P
+596437842,1640,1729,jaundice,49,57,P
+596437842,1729,1917,a cholestatic picture,40,61,P
+596437842,2020,2060,HIV positive,3,15,P
+596437842,2060,2075,Recent PCP,3,13,P
+596437842,2111,2140,Venereal disease history,3,27,P
+596437842,2140,2156,PPD anergic,3,14,P
+596437842,2297,2482,mild respiratory distress,69,94,P
+596437842,2506,2603,an ulcer under his tongue,70,95,P
+596437842,2506,2603,the oropharynx with extensive thrush,27,63,P
+596437842,2506,2603,icteric sclerae,9,24,P
+596437842,2609,2664,cervical adenopathy,10,29,N
+596437842,2671,2734,tubular breath sounds,4,25,P
+596437842,2743,2811,gallops,59,66,N
+596437842,2743,2811,rubs,49,53,N
+596437842,2743,2811,murmurs,39,46,N
+596437842,2811,2857,costovertebral angle tenderness,13,44,N
+596437842,2866,2955,mid epigastric and right upper quadrant tenderness,37,87,P
+596437842,3072,3103,guaiac positive stools,7,29,P
+596437842,3145,3200,yellowish discharge,34,53,P
+596437842,3145,3200,1/2 cm ulcer,16,28,P
+596437842,3725,3779,bilateral nodular infiltrates,23,52,P
+596437842,3796,3937,his cholestatic jaundice picture,40,72,P
+596437842,3796,3937,his pulmonary process,96,117,P
+596437842,3937,4081,a Bactrim failure,91,108,U
+596437842,3937,4081,PCP,113,116,P
+596437842,4222,4354,gram negative rods,112,130,P
+596437842,4222,4354,community acquired pneumonias,78,107,P
+596437842,4388,4612,several opportunistic infections of the liver,106,151,U
+596437842,4388,4612,his liver abnormalities,12,35,P
+596437842,4388,4612,these abnormalities,203,222,P
+596437842,4388,4612,viral hepatitis,55,70,U
+596437842,4612,4697,Epstein-Barr virus,19,37,P
+596437842,4612,4697,CMV,11,14,P
+596437842,4612,4697,toxoplasma,64,74,P
+596437842,4697,4735,ova,19,22,P
+596437842,4697,4735,parasites,27,36,P
+596437842,5586,5761,a cholestatic picture,94,115,P
+596437842,5586,5761,his liver function test abnormalities,26,63,P
+596437842,5761,5843,obstruction,69,80,N
+596437842,5761,5843,liver disease,48,61,N
+596437842,5905,6032,positive herpes simplex virus,55,84,P
+596437842,5905,6032,The patient &apos;s penile ulcer,0,32,P
+596437842,6032,6156,a toluidine blue,78,94,P
+596437842,6032,6156,many pneumocysts,100,116,P
+596437842,6398,6457,baratroma,29,38,N
+596437842,6785,6940,decreasing counts,31,48,P
+596437842,7242,7412,continued worsening pulmonary status,7,43,P
+598403789_DH,370,429,HEMATURIA,48,57,P
+598403789_DH,591,717,HEMATURIA,115,124,P
+614746156,168,254,painless jaundice,60,77,P
+614746156,254,438,noninsulin dependent diabetes mellitus,95,133,P
+614746156,254,438,painless jaundice,157,174,P
+614746156,438,535,an increased appetite,74,95,P
+614746156,438,535,a 23 pound weight loss,14,36,P
+614746156,535,606,&quot; feeling down &quot;,43,69,P
+614746156,535,606,fatigue,31,38,P
+614746156,606,670,personality changes,15,34,P
+614746156,606,670,increased irritability,40,62,P
+614746156,670,717,night sweats,15,27,N
+614746156,717,789,abdominal pain,56,70,N
+614746156,717,789,nausea,43,49,N
+614746156,717,789,melena,19,25,N
+614746156,717,789,hematochezia,28,40,N
+614746156,789,845,occasionally constipated,30,54,P
+614746156,845,867,tenesmus,12,20,N
+614746156,867,1058,yellow,87,93,P
+614746156,1080,1171,Type II diabetes mellitus,3,28,P
+614746156,1171,1191,Vocal cord polyps,3,20,P
+614746156,1191,1240,AVN,26,29,U
+614746156,1191,1240,osseous necrosis,33,49,U
+614746156,1240,1268,hyperkalemia,14,26,P
+614746156,1268,1287,RTA type 4,9,19,U
+614746156,1343,1400,hives,50,55,C
+614746156,1343,1400,allergic,15,23,P
+614746156,1548,1605,CHF,52,55,O
+614746156,1755,1872,painless jaundice,70,87,P
+614746156,1755,1872,fatigue,108,115,P
+614746156,1755,1872,weight loss,90,101,P
+614746156,1872,2001,primary colorectal adenocarcinoma,63,96,U
+614746156,1872,2001,multiple liver metastases,102,127,U
+622086964,231,247,Ovarian cancer,0,14,P
+622086964,269,370,obesity,24,31,P
+622086964,269,370,Hypertension,0,12,P
+622086964,269,370,hemorrhoids,60,71,P
+622086964,269,370,whooping cough,74,88,P
+622086964,269,370,heart murmur,45,57,P
+622086964,269,370,asthma,15,21,P
+622086964,397,580,mass,144,148,P
+622086964,397,580,adhesions,121,130,P
+622086964,643,811,progressive abdominal distention,77,109,P
+622086964,643,811,urinary frequency,136,153,P
+622086964,643,811,crampy abdominal pain,112,133,P
+622086964,643,811,diarrhea,158,166,P
+622086964,811,1070,urinary symptoms,115,131,P
+622086964,811,1070,abdominal GERD,96,110,P
+622086964,1070,1191,clear mass,75,85,P
+622086964,1070,1191,extensive fluid,55,70,P
+622086964,1191,1307,a relatively small mass,45,68,P
+622086964,1191,1307,a large fluid filled abdomen,11,39,P
+622086964,1307,1408,an elevated CA,22,36,P
+622086964,1430,1568,Hypertension,0,12,P
+622086964,1430,1568,asthma,15,21,P
+622086964,1430,1568,whooping cough,111,125,P
+622086964,1430,1568,obesity,59,66,P
+622086964,1430,1568,heart murmur,80,92,P
+622086964,1430,1568,hemorrhoids,95,106,P
+622086964,1591,1678,a renal calculus,35,51,P
+622086964,1694,1757,dyspareunia,50,61,N
+622086964,1918,1971,ulceration,22,32,P
+622086964,1971,2090,throat constriction,86,105,C
+622086964,1971,2090,some shortness of breath,57,81,C
+622086964,1971,2090,food allergies,13,27,C
+622086964,2106,2174,colon cancer,15,27,O
+622086964,2272,2486,adhesions,152,161,P
+622086964,2272,2486,mass,175,179,P
+622086964,2486,2635,poorly differentiated adenocarcinoma,70,106,P
+622086964,2486,2635,serous carcinoma of the ovary,118,147,U
+622086964,2635,2730,low urine output,77,93,P
+622086964,2818,2886,any complications,49,66,N
+622086964,2915,3009,moderate E. coli,76,92,P
+622086964,3275,3324,shortness of breath,28,47,P
+622086964,3324,3475,pulmonary edema,99,114,N
+622086964,3324,3475,left pleural effusion,38,59,P
+622086964,3324,3475,small right pleural effusion,64,92,P
+622086964,3324,3475,left lower lobe consolidations,119,149,P
+622086964,3475,3570,afebrile,16,24,N
+622086964,3570,3742,some emesis,39,50,P
+622086964,3570,3742,nausea,27,33,P
+622086964,3570,3742,no relief,90,99,P
+622086964,3570,3742,bilious fluid,157,170,P
+622086964,3827,3935,persistent pleural effusion,45,72,P
+622086964,3827,3935,pneumonia,97,106,U
+622086964,3827,3935,dyspnea,30,37,P
+622086964,3827,3935,atelectasis,78,89,U
+622086964,3967,4063,high residuals,60,74,P
+622086964,4327,4478,complication,137,149,N
+622086964,4641,4813,nausea,94,100,H
+622086964,4641,4813,nausea,130,136,H
+622086964,4641,4813,anxiety,61,68,H
+622086964,4641,4813,pain,30,34,H
+622086964,4943,5041,asthma symptoms,81,96,H
+622086964,4943,5041,wheezing,68,76,H
+627258104,39,56,PANCREATIC CANCER,0,17,P
+627258104,155,272,his pancreatic cancer,94,115,P
+627258104,300,534,diabetes,45,53,P
+627258104,300,534,pancreatic cancer,139,156,P
+627258104,300,534,coronary artery disease,56,79,P
+627258104,300,534,hepatitis C,82,93,P
+627258104,300,534,asthma,100,106,P
+627258104,534,572,a pulmonary nodule,18,36,P
+627258104,572,649,a 3.0 to 4.0 centimeter lesion in the pancreatic head,22,75,P
+627258104,649,804,a long segment of distal narrowing of the common bileduct,31,88,P
+627258104,804,877,a loculated pleural effusion,43,71,P
+627258104,919,957,a desaturation,22,36,P
+627258104,1013,1122,a left apicalpneumothorax,40,65,P
+627258104,1221,1298,30 pound weight loss in six weeks,42,75,P
+627258104,1298,1500,some constipation,19,36,P
+627258104,1298,1500,lighter colored stools,67,89,P
+627258104,1298,1500,dyspnea,181,188,C
+627258104,1298,1500,orthopnea,167,176,P
+627258104,1298,1500,increased shortness of breath,135,164,P
+627258104,1298,1500,darkened urine,92,106,P
+627258104,1298,1500,fatigue,111,118,P
+627258104,1500,1547,night sweats,33,45,N
+627258104,1500,1547,chills,23,29,N
+627258104,1500,1547,fevers,14,20,N
+627258104,1569,1623,recently diagnosed pancreatic cancer,16,52,P
+627258104,1623,1633,Diabetes,0,8,P
+627258104,1633,1647,Hypertension,0,12,P
+627258104,1647,1653,Gout,0,4,P
+627258104,1653,1675,Hypercholesterolemia,0,20,P
+627258104,1675,1730,Coronary artery disease,0,23,P
+627258104,1675,1730,congestive heart failure,29,53,P
+627258104,1730,1738,Asthma,0,6,P
+627258104,1738,1751,Hepatitis C,0,11,P
+627258104,1751,1762,Psoriasis,0,9,P
+627258104,2238,2279,heart failure,26,39,O
+627258104,2279,2319,hypertension,26,38,O
+627258104,2279,2319,diabetes,13,21,O
+627258104,2319,2347,stomach cancer,12,26,O
+627258104,2382,2408,afebrile,16,24,N
+627258104,2504,2569,mild respiratory distress,38,63,P
+627258104,2569,2610,lymphadenopathy,24,39,N
+627258104,2610,2744,atraumatic,24,34,N
+627258104,2744,2795,diffuse crackles bilaterally,10,38,P
+627258104,2795,2920,positive systolic murmur at the left upper sternal border,45,102,P
+627258104,2795,2920,irregular PVCs,11,25,P
+627258104,2920,3009,mildly tender epigastrium and right lower quadrant,37,87,P
+627258104,2920,3009,tympanitic,24,34,P
+627258104,2920,3009,distended,12,21,P
+627258104,3009,3033,rebound,3,10,N
+627258104,3009,3033,guarding,14,22,N
+627258104,3033,3094,2+ bilateral lower extremity edema to knees,16,59,P
+627258104,3094,3119,clubbing,3,11,N
+627258104,3094,3119,cyanosis,15,23,N
+627258104,3119,3209,slurred and slow speech,50,73,P
+627258104,3119,3209,distractable,76,88,P
+627258104,3654,3745,an elevated bilirubin,16,37,P
+627258104,3654,3745,decreased output,56,72,P
+627258104,3853,3940,signs,16,21,P
+627258104,3853,3940,an elevated white count,62,85,P
+627258104,3853,3940,symptoms,26,34,P
+627258104,3853,3940,SBP,46,49,P
+627258104,3991,4077,rare gram negative rods,61,84,P
+627258104,4209,4378,those white cells,116,133,P
+627258104,4209,4378,his cancer,157,167,P
+627258104,4209,4378,SBP,38,41,P
+627258104,4462,4553,the pocket,39,49,P
+627258104,4553,4684,SBP,126,129,P
+627258104,4698,4777,shortness of breath,58,77,P
+627258104,4777,4841,His apical pneumothorax,0,23,N
+627258104,4841,4885,pleurodesis,31,42,P
+627258104,4885,5184,third space fluids,279,297,P
+627258104,4885,5184,hypotensive,139,150,P
+627258104,4885,5184,pulmonary edema,209,224,P
+627258104,4885,5184,restrictive deficit,63,82,U
+627258104,4885,5184,persistent abdomen distention,15,44,P
+627258104,5273,5326,volume overload,36,51,P
+627258104,5326,5416,his fluid,79,88,P
+627258104,5435,5543,bradycardia,19,30,P
+627258104,5435,5543,subsequent fall in blood pressure,39,72,N
+627258104,5543,5589,a myocardial infarction,21,44,N
+627258104,5589,5665,mild mitral regurgitation,49,74,P
+627258104,5665,5758,bradycardia,32,43,P
+627258104,5772,5782,Diabetes,0,8,P
+627258104,5782,5849,the side effect profile,42,65,C
+627258104,5921,5995,anemic,38,44,P
+627258104,5921,5995,an elevated PT INR,54,72,P
+627258104,6054,6114,his coagulopathy,42,58,P
+627258104,6175,6330,bilateral deep venous thromboses,60,92,P
+627258104,6464,6518,a prerenal state,36,52,P
+627258104,6518,6633,increased volume overload,46,71,H
+627258104,6518,6633,his hypoalbunemic state,90,113,P
+627258104,6734,6879,his disease process,39,58,P
+627258104,6901,6986,clinical SBP,71,83,P
+627258104,6986,7053,SBP,62,65,P
+627258104,7105,7209,pancreatic cancer,41,58,P
+627258104,7209,7393,his rapid clinical decline,16,42,P
+627258104,7209,7393,his decline,140,151,P
+627258104,7393,7489,His pain,0,8,P
+627258104,7393,7489,breakthrough pain,77,94,P
+627258104,7489,7600,progressively more somnolent,14,42,P
+627258104,8005,8762,itching,323,330,H
+627258104,8005,8762,anxiety,715,722,H
+627258104,8005,8762,bowel movements,490,505,N
+627258104,8005,8762,pain around Foley site,644,666,H
+627258104,8005,8762,mouth discomfort,401,417,H
+627258104,8762,8807,very somnolent,17,31,C
+627258104,8807,8957,indigestion,56,67,H
+627258104,8957,9073,affected area,65,78,P
+627258104,9073,9197,nsomnia,115,122,H
+627258104,9197,9244,nasal dryness,32,45,H
+627258104,9244,9350,pain,100,104,H
+627258104,9403,9442,breakthrough pain,20,37,P
+627258104,9442,9504,itching,53,60,H
+627258104,9504,9602,wheeze,90,96,H
+638157550_SC,48,57,gastritis,0,9,P
+638157550_SC,484,498,H.Pylori,4,12,P
+638157550_SC,2005,2014,Gastritis,0,9,P
+638157550_SC,2014,2103,gastritis,80,89,P
+638157550_SC,2103,2309,ischemia,151,159,P
+638157550_SC,2103,2309,CAD,131,134,O
+638157550_SC,2103,2309,High Cholesterol,99,115,P
+638157550_SC,2103,2309,ND ische,198,206,P
+638157550_SC,2103,2309,HTN,95,98,P
+638157550_SC,2103,2309,Obesity,87,94,P
+638157550_SC,2494,2608,mod severe midepigastric pain,83,112,P
+638157550_SC,2608,2728,this pain,27,36,P
+638157550_SC,2728,2855,intermittent post-prandial nausea / satiety,17,60,P
+638157550_SC,2855,2935,the pain,14,22,P
+638157550_SC,2935,2963,Her pain,0,8,P
+638157550_SC,2963,3017,fever/chills,34,46,P
+638157550_SC,2963,3017,BRBPR/melena,19,31,P
+638157550_SC,2963,3017,emesis,10,16,P
+638157550_SC,2963,3017,sob,49,52,P
+638157550_SC,3017,3118,gastritis,69,78,N
+638157550_SC,3017,3118,stricture,81,90,N
+638157550_SC,3017,3118,ulcer,94,99,N
+638157550_SC,3118,3204,H. Pylori positive,19,37,P
+638157550_SC,3311,3390,obstruction,40,51,N
+638157550_SC,3606,3782,post prandial pain,70,88,P
+638157550_SC,3606,3782,biliary dyskinesia,141,159,P
+638157550_SC,3857,3987,vomiting,30,38,H
+638157550_SC,3857,3987,increasing pain with food,52,77,H
+638157550_SC,3857,3987,fevers,3,9,H
+638157550_SC,3857,3987,nausea,21,27,H
+638157550_SC,3857,3987,diarrhea,41,49,H
+638157550_SC,3857,3987,chills,12,18,H
+638157550_SC,4154,4241,H. Pylori,43,52,P
+641557794_WGH,239,270,Non-toxic multinodular goiter,0,29,P
+641557794_WGH,292,333,Left thyroid occult papillary carcinoma,0,39,P
+641557794_WGH,333,475,migraine,100,108,P
+641557794_WGH,333,475,Chronic lymphocytic thyroiditis,0,31,P
+641557794_WGH,333,475,Droperidol allergy,122,140,C
+641557794_WGH,333,475,asthma,91,97,P
+641557794_WGH,550,626,a non-toxic multinodular goiter,43,74,P
+641557794_WGH,626,726,pressure discomfort in the neck,67,98,P
+641557794_WGH,626,726,a right lower dominant nodule,32,61,P
+641557794_WGH,626,726,symptoms,18,26,P
+641557794_WGH,726,759,dyspnea,11,18,N
+641557794_WGH,726,759,dysphagia,22,31,N
+641557794_WGH,777,823,thyroid cancer,30,44,O
+641557794_WGH,894,988,exophthalmos,80,92,N
+641557794_WGH,1222,1350,associated cervical lymphadenopathy,91,126,N
+641557794_WGH,1222,1350,a multinodular goiter,32,53,P
+641557794_WGH,1350,1395,bruit,38,43,N
+641557794_WGH,1440,1469,stridor,20,27,N
+641557794_WGH,1469,1534,murmur,57,63,N
+641557794_WGH,1534,1597,masses,55,61,N
+641557794_WGH,1534,1597,organomegaly,39,51,N
+641557794_WGH,1534,1597,non-tender,18,28,N
+641557794_WGH,1654,1783,a 3.3 centimeter right lobe microfollicular adenoma,57,108,P
+641557794_WGH,1783,1804,papillary carcinoma,0,19,P
+641557794_WGH,1783,1804,papillary carcinoma,0,19,P
+641557794_WGH,1804,1912,any middle compartment lymphadenopathy,25,63,N
+641557794_WGH,1804,1912,the tumor,77,86,N
+655358166_WGH,261,307,Second Degree Laceration,22,46,P
+655358166_WGH,329,424,Abnormal Pap Test,0,17,P
+655358166_WGH,329,424,Bacterial Vaginitis,33,52,P
+655358166_WGH,657,670,Labor,8,13,P
+655358166_WGH,657,670,Srom,0,4,P
+655358166_WGH,692,1212,white d / c at introitus,245,269,P
+655358166_WGH,692,1212,distinct masses,55,70,N
+655358166_WGH,692,1212,inverted,86,94,P
+655358166_WGH,692,1212,lesions,235,242,N
+655358166_WGH,692,1212,ext lesions,509,520,N
+655358166_WGH,692,1212,palp masses,420,431,N
+655358166_WGH,692,1212,sml amt thin white d / c,284,308,P
+655358166_WGH,692,1212,srom,374,378,P
+655358166_WGH,1418,1433,srom,0,4,P
+655358166_WGH,1418,1433,labor,8,13,P
+655358166_WGH,1695,1701,srom,0,4,P
+688127038_EH,46,58,TCA overdose,0,12,P
+688127038_EH,686,734,Known Allergies,33,48,N
+688127038_EH,751,763,TCA overdose,0,12,P
+688127038_EH,763,855,TCA overdose,80,92,P
+688127038_EH,855,967,depression ( depression ),87,112,P
+688127038_EH,1076,1245,anxiety,26,33,P
+688127038_EH,1076,1245,tremulous,115,124,P
+688127038_EH,1076,1245,TCA and celexa overdose,89,112,P
+688127038_EH,1076,1245,prior suicide attempt,53,74,P
+688127038_EH,1076,1245,depression,38,48,P
+688127038_EH,1076,1245,light-headed,127,139,P
+688127038_EH,1292,1385,acute medical issues,49,69,N
+688127038_EH,1385,1408,actively suicidal,4,21,N
+693008750,378,435,WHEEZES,48,55,P
+693008750,602,709,PNEUMONIA,94,103,P
+699905656_SC,292,396,lower back pain,52,67,P
+699905656_SC,396,489,recurrent severe right sided sciatica,54,91,P
+699905656_SC,489,579,a lateral L-1 S-1 disc bulge,38,66,P
+699905656_SC,489,579,small L-4-4 bulge,71,88,P
+699905656_SC,579,632,pain,24,28,P
+699905656_SC,1088,1256,pain,115,119,P
+708739405_DH,305,403,Undesired Fertility,79,98,P
+708739405_DH,305,403,"Isoimmunization , Rh",56,76,P
+708739405_DH,305,403,Depression,30,40,P
+708739405_DH,670,698,Labor,23,28,P
+708739405_DH,670,698,Early Labor,0,11,P
+708739405_DH,777,972,labor,188,193,P
+708739405_DH,777,972,early labor,165,176,P
+708739405_DH,1312,1358,nuchal cord,0,11,P
+723989226,236,282,Severe chronic obstructive pulmonary disease,0,44,P
+723989226,282,303,Respiratory failure,0,19,P
+723989226,303,329,Congestive heart failure,0,24,P
+723989226,329,357,Right lower lobe pneumonia,0,26,P
+723989226,357,398,Atonic bladder,0,14,P
+723989226,398,407,Anxiety,0,7,P
+723989226,407,432,Coronary artery disease,0,23,P
+723989226,432,483,colon cancer,11,23,P
+723989226,511,731,pneumonia,209,218,P
+723989226,511,731,respiratory insuffiencey,160,184,P
+723989226,511,731,severe chronic obstructive pulmonary disease,38,82,P
+723989226,911,1043,discomfort,88,98,P
+723989226,1043,1190,discomfort,84,94,P
+723989226,1043,1190,some blood at the site,107,129,P
+723989226,1327,1411,slight shortness of breath,31,57,P
+723989226,1411,1487,increasing shortness of breath,44,74,P
+723989226,1487,1634,confused,28,36,P
+723989226,1487,1634,shortness of breath,106,125,P
+723989226,1487,1634,disoriented,47,58,P
+723989226,1634,1748,change in cough,88,103,N
+723989226,1634,1748,chills,76,82,N
+723989226,1634,1748,fevers,64,70,N
+723989226,1634,1748,recent upper respiratory infections,23,58,N
+723989226,1634,1748,sputum,106,112,N
+723989226,1748,1779,chest pain,19,29,N
+723989226,1779,1793,orthopnea,3,12,N
+723989226,1793,1826,paroxysmal nocturnal dyspnea,3,31,N
+723989226,1912,2039,moderate respiratory distress,96,125,P
+723989226,2609,2796,scarring in both lungs,163,185,P
+723989226,2609,2796,his usual severe bilateral emphysema_____,116,157,P
+723989226,2609,2796,new changes,75,86,P
+723989226,2796,2879,new air space opacifications in the left apex and the right lower lobe,11,81,P
+723989226,2879,2968,asymmetric pulmonary edema,61,87,U
+723989226,2879,2968,pneumonia,48,57,U
+723989226,2990,3027,Associated medical problems,0,27,P
+723989226,3027,3069,Atonic bladder,3,17,P
+723989226,3069,3081,Anxiety,3,10,P
+723989226,3081,3154,angina,45,51,P
+723989226,3081,3154,Coronary artery disease,3,26,P
+723989226,3154,3211,colon cancer,14,26,P
+723989226,3536,3604,moderate respiratory distress,37,66,P
+723989226,3704,3745,moderate respiratory distress,10,39,P
+723989226,3829,3892,masses,55,61,N
+723989226,3829,3892,jugular venous distention,22,47,N
+723989226,3892,3969,crackles in the bases,54,75,P
+723989226,3892,3969,decreased breath sounds,19,42,P
+723989226,3969,4003,wheezes,14,21,N
+723989226,3969,4003,rhonchi,25,32,N
+723989226,4003,4071,murmur,42,48,N
+723989226,4003,4071,S3,64,66,N
+723989226,4071,4125,masses palpable,37,52,N
+723989226,4071,4125,nontender,19,28,N
+723989226,4446,4620,creatinine phosphokinase isoenzymes too low,83,126,P
+723989226,4691,4850,significant changes,138,157,N
+723989226,4691,4850,sinus tachycardia,25,42,P
+723989226,5047,5132,gram negative pneumonia,60,83,U
+723989226,5524,5599,his respiratory status,42,64,P
+723989226,5599,5778,the opacities,33,46,P
+723989226,5599,5778,pulmonary edema,92,107,P
+723989226,5599,5778,some abnormality in the right lower lobe,137,177,P
+723989226,5778,5843,pneumonia,54,63,U
+723989226,5965,6067,a serious pneumonia,81,100,N
+723989226,6067,6219,The patient &apos;s respiratory status,0,38,P
+723989226,6219,6295,his respiratory status,17,39,P
+723989226,6395,6615,mild epigastric discomfort,81,107,P
+723989226,6395,6615,peptic ulcer disease,198,218,P
+723989226,6615,6738,gastroesophageal reflux disease,90,121,U
+723989226,6615,6738,gastritis,77,86,U
+723989226,6738,6823,nausea,25,31,N
+723989226,6738,6823,vomiting,34,42,N
+723989226,6738,6823,gastrointestinal bleeding,58,83,N
+723989226,6823,6943,The patient &apos;s abdominal pain,0,34,P
+723989226,7563,7687,severe chronic obstructive pulmonary disease,71,115,P
+745431641_WGH,469,471,CP,0,2,P
+745431641_WGH,508,579,chest pain,47,57,P
+745431641_WGH,590,611,Noncardiac chest pain,0,21,P
+745431641_WGH,631,701,ischemia,60,68,N
+745431641_WGH,847,1005,nausea,66,72,H
+745431641_WGH,847,1005,worsening chest pain,21,41,H
+745431641_WGH,847,1005,any other problems,138,156,H
+745431641_WGH,847,1005,dizziness/numbness,114,132,H
+745431641_WGH,847,1005,vomiting,75,83,H
+745431641_WGH,847,1005,fever,86,91,H
+745431641_WGH,847,1005,weakness,103,111,H
+745431641_WGH,847,1005,chills,94,100,H
+745431641_WGH,847,1005,shortness of breath,44,63,P
+745701560_WGH,500,511,Anxiety NOS,0,11,P
+767751445_ELMVH,51,80,NSTEMI,23,29,P
+767751445_ELMVH,51,80,COPD exacerbation,0,17,P
+767751445_ELMVH,2855,2876,NKA,0,3,N
+767751445_ELMVH,2876,2893,COPD exacerbation,0,17,P
+767751445_ELMVH,2924,3001,COPD exacerbation,48,65,P
+767751445_ELMVH,2924,3001,NSTEMI,71,77,P
+767751445_ELMVH,3086,3200,poor appetite,92,105,P
+767751445_ELMVH,3086,3200,severe COPD,0,11,P
+767751445_ELMVH,3086,3200,unexplained hct drop,71,91,P
+767751445_ELMVH,3086,3200,Pneumonia,12,21,P
+767751445_ELMVH,3200,3227,STEROID PSYCHOSIS,0,17,P
+767751445_ELMVH,3303,3349,a demand ischemic episode,21,46,P
+767751445_ELMVH,3388,3414,COPD exacerpation,9,26,P
+767751445_ELMVH,3421,3502,troponin leak,23,36,P
+767751445_ELMVH,3421,3502,COPD exacerpation,0,17,P
+767751445_ELMVH,3421,3502,demand ischemia,64,79,P
+767751445_ELMVH,3421,3502,NSTEMI,44,50,U
+767751445_ELMVH,3509,3597,worsening SOB,10,23,P
+767751445_ELMVH,3509,3597,sore throat,29,40,P
+767751445_ELMVH,3509,3597,cough productive of yellow / green sputum,45,86,P
+767751445_ELMVH,3597,3637,worsening dyspnea,21,38,P
+767751445_ELMVH,3597,3637,Fatigue,0,7,P
+767751445_ELMVH,3637,3764,1mm lateral ST depressions,67,93,P
+767751445_ELMVH,3637,3764,slight troponin and MB leak,98,125,P
+767751445_ELMVH,3764,3927,pleuricy,79,87,N
+767751445_ELMVH,3764,3927,V/HA,7,11,N
+767751445_ELMVH,3764,3927,N,3,4,N
+767751445_ELMVH,3764,3927,sweats,19,25,N
+767751445_ELMVH,3764,3927,shoulder pain,134,147,N
+767751445_ELMVH,3764,3927,paresthesias,102,114,N
+767751445_ELMVH,3764,3927,D,14,15,N
+767751445_ELMVH,3764,3927,LEE,93,96,N
+767751445_ELMVH,3764,3927,abdominal pain,43,57,N
+767751445_ELMVH,3764,3927,chills,31,37,N
+767751445_ELMVH,3764,3927,numbness,120,128,N
+767751445_ELMVH,3764,3927,chest pain,63,73,N
+767751445_ELMVH,3764,3927,jaw pain,153,161,N
+767751445_ELMVH,3934,4067,osteoporosis,104,116,P
+767751445_ELMVH,3934,4067,R renal artery stenosis,78,101,P
+767751445_ELMVH,3934,4067,COPD,0,4,P
+767751445_ELMVH,3934,4067,PVD,72,75,P
+767751445_ELMVH,3934,4067,chronic pericardial effusion,41,69,P
+767751445_ELMVH,3934,4067,presbylaryngis,119,133,P
+767751445_ELMVH,4117,4302,Bibasilar rales,88,103,P
+767751445_ELMVH,4117,4302,NAD,37,40,P
+767751445_ELMVH,4117,4302,oral lesions,73,85,N
+767751445_ELMVH,4383,4439,small pleural effusion,0,22,P
+767751445_ELMVH,4383,4439,acute changes,43,56,N
+767751445_ELMVH,4496,4540,demand,36,42,P
+767751445_ELMVH,4496,4540,a NSTEMI,14,22,P
+767751445_ELMVH,4617,4682,PTT,16,19,P
+767751445_ELMVH,4617,4682,enzyme leak,32,43,P
+767751445_ELMVH,4682,4734,leak,42,46,P
+767751445_ELMVH,4758,4784,evidence of failure,7,26,N
+767751445_ELMVH,4801,4852,exacerbation,7,19,U
+767751445_ELMVH,4801,4852,URI,34,37,U
+767751445_ELMVH,4801,4852,pneumonia,40,49,U
+767751445_ELMVH,5074,5092,MVI,0,3,P
+767751445_ELMVH,5366,5434,cardiac troponin leak,30,51,P
+767751445_ELMVH,5434,5517,COPD exacerbation,30,47,P
+779878634,204,266,pancreatic adenocarcinoma,35,60,P
+779878634,266,330,significant GI bleeding,39,62,P
+779878634,349,409,increased abdominal discomfort,28,58,P
+779878634,349,409,fatigue,16,23,P
+779878634,520,654,slightly decreased,44,62,P
+779878634,661,731,oral lesions,56,68,N
+779878634,661,731,Evidence of anemia,0,18,P
+779878634,661,731,being pale,24,34,P
+779878634,757,796,CVA or spinal tenderness,13,37,N
+779878634,836,949,mildly tender in the epigastrium,31,63,P
+779878634,836,949,tenderness,101,111,N
+779878634,836,949,mass,93,97,N
+779878634,836,949,hepatosplenomegaly,72,90,N
+779878634,962,1004,cyanosis,20,28,N
+779878634,962,1004,Trace edema,0,11,P
+779878634,962,1004,clubbing,32,40,N
+779878634,1106,1149,a GI bleed,31,41,P
+779878634,1193,1258,multiple angio ectasias throughout the stomach,17,63,P
+779878634,1433,1498,the bleeding,51,63,P
+779878634,1498,1570,his bleeding,29,41,P
+779878634,1570,1641,his GI bleed,57,69,P
+779878634,1672,1749,no longer responsive,55,75,P
+779878634,1672,1749,a change in mental status,21,46,P
+779878634,1894,2019,death,13,18,P
+779878634,1894,2019,his known metastatic pancreatic cancer,85,123,P
+779878634,1894,2019,GI bleeding,40,51,P
+788268693_DH,405,419,R ELBOW INJURY,0,14,P
+788268693_DH,456,548,bruises,71,78,H
+788268693_DH,456,548,sprains,47,54,H
+788268693_DH,456,548,fractures,57,66,H
+788268693_DH,606,620,R elbow strain,0,14,P
+788268693_DH,640,682,effusion,22,30,N
+788268693_DH,640,682,fracture,34,42,N
+788268693_DH,705,755,pain,46,50,H
+788268693_DH,774,907,your symptoms,89,102,P
+788268693_DH,1094,1139,sore areas,11,21,P
+788268693_DH,1139,1198,your symptoms,31,44,P
+814743340_RWH,246,258,Chest pain,0,10,P
+814743340_RWH,280,369,hypertension,26,38,P
+814743340_RWH,280,369,hyperlipidemia,41,55,P
+814743340_RWH,280,369,Coronary artery disease,0,23,P
+814743340_RWH,280,369,diabetes type 2,72,87,P
+814743340_RWH,280,369,sleep apnea,58,69,P
+814743340_RWH,512,655,chest pain,120,130,P
+814743340_RWH,512,655,non ST elevation MI,73,92,P
+814743340_RWH,512,655,CAD,57,60,P
+814743340_RWH,702,770,hypertension,20,32,P
+814743340_RWH,702,770,diabetes,35,43,P
+814743340_RWH,702,770,high cholesterol,50,66,P
+814743340_RWH,770,892,a 40% RCA,94,103,P
+814743340_RWH,770,892,hazy,116,120,P
+814743340_RWH,770,892,a non ST elevation MI,17,38,P
+814743340_RWH,1020,1056,a 99% stenosis,20,34,P
+814743340_RWH,1056,1090,other noted disease,13,32,N
+814743340_RWH,1090,1192,occasional chest pain,29,50,C
+814743340_RWH,1090,1192,emotional stress,56,72,C
+814743340_RWH,1192,1361,radiation to the left shoulder,73,103,P
+814743340_RWH,1192,1361,intermittent substernal chest pain,33,67,P
+814743340_RWH,1427,1492,short of breath,15,30,C
+814743340_RWH,1492,1525,diaphoresis,10,21,N
+814743340_RWH,1492,1525,nausea,25,31,N
+814743340_RWH,1749,1780,pain-free,20,29,N
+814743340_RWH,1935,2047,hyperacute T-wave anteriorly,62,90,P
+814743340_RWH,1935,2047,progression,99,110,N
+814743340_RWH,1935,2047,his pain,16,24,N
+814743340_RWH,2142,2184,hyperlipidemia,26,40,P
+814743340_RWH,2142,2184,hypertension,11,23,P
+814743340_RWH,2142,2184,Diabetes,0,8,P
+814743340_RWH,2465,2496,anxiety,22,29,P
+814743340_RWH,2580,2658,an MI,26,31,N
+814743340_RWH,2658,2882,widely patent diagonal 1,172,196,P
+814743340_RWH,2658,2882,AF,94,96,N
+814743340_RWH,2658,2882,mild CAD in the left coronary artery symptom,125,169,P
+814743340_RWH,2658,2882,widely patent RCA stent,99,122,P
+814743340_RWH,2944,2990,a PE,40,44,U
+814743340_RWH,3014,3081,a DVT in both legs,47,65,U
+814743340_RWH,3100,3183,desaturation into the 80% range,35,66,P
+814743340_RWH,3183,3372,pulmonary nodule,157,173,P
+814743340_RWH,3372,3438,this nodule,27,38,P
+814743340_RWH,3438,3595,nodes in his neck,138,155,P
+814743340_RWH,3438,3595,intermittent right neck swelling,31,63,P
+814743340_RWH,3595,3721,any swelling,50,62,N
+814743340_RWH,3595,3721,the swelling,100,112,N
+814743340_RWH,3843,3871,chest pain,16,26,N
+814743340_RWH,3871,3902,ischemia,21,29,N
+814743340_RWH,3902,3973,ischemia,61,69,N
+814743340_RWH,4013,4054,mild posterior vasal thinning,10,39,P
+814743340_RWH,4155,4185,MVP,25,28,N
+814743340_RWH,4185,4223,trace mitral regurgitation,10,36,P
+814743340_RWH,4223,4263,LA dilatation,25,38,N
+814743340_RWH,4263,4293,aortic stenosis,13,28,N
+814743340_RWH,4293,4331,trace aortic insufficiency,10,36,P
+814743340_RWH,4410,4451,LV hypertrophy,25,39,N
+814743340_RWH,4451,4507,segmental wall-motion abnormality,21,54,N
+814743340_RWH,4507,4554,pericardial effusion,25,45,N
+814743340_RWH,4554,4591,dilated,28,35,N
+814743340_RWH,4639,4793,75 respiratory events,80,101,P
+814743340_RWH,4639,4793,apnea,116,121,P
+814743340_RWH,4821,4969,obstruction,25,36,U
+814743340_RWH,4821,4969,partial obstructive events,120,146,P
+814743340_RWH,4821,4969,obstruction to airflow,50,72,U
+814743340_RWH,4821,4969,some obstructive apnea,84,106,P
+814743340_RWH,5634,5693,murmur,51,57,N
+814743340_RWH,5702,5788,masses,51,57,N
+814743340_RWH,5702,5788,guarding,37,45,N
+814743340_RWH,5788,5857,bruit,62,67,N
+814743340_RWH,5788,5857,hematoma,50,58,N
+814743340_RWH,5788,5857,status post catheterization,12,39,P
+814743340_RWH,5857,5911,edema,47,52,N
+814743340_RWH,6230,6332,acid reflux,89,100,P
+814743340_RWH,6332,6450,his chest discomfort,63,83,C
+814743340_RWH,6332,6450,anxious,109,116,P
+814743340_RWH,6501,6668,his anxiety level,148,165,P
+814743340_RWH,6694,6763,chest pain,57,67,H
+814743340_RWH,7008,7050,anxiety,33,40,H
+814743340_RWH,7335,7448,anxiety,104,111,P
+817406016_RWH,361,413,CP,48,50,P
+817406016_RWH,560,682,CP,118,120,P
+825330116,52,81,ACUTE MYOCARDIAL INFARCTION,0,27,P
+825330116,183,212,Acute myocardial infarction,0,27,P
+825330116,234,262,Coronary artery disease,3,26,P
+825330116,262,319,unstable angina ( postmyocardial infarction angina ),3,55,P
+825330116,319,349,Parkinson &apos;s disease,3,28,P
+825330116,819,1050,Parkinson &apos;s disease,54,79,P
+825330116,819,1050,a revolving anterolateral wall myocardial infarction,165,217,P
+825330116,1140,1293,severe retrosternal chest pain,121,151,P
+825330116,1293,1383,a new right bundle branch block,29,60,P
+825330116,1293,1383,left anterior hemiblock,65,88,P
+825330116,1468,1601,a myocardial infarction,53,76,P
+825330116,1601,1768,complete heart block,41,61,P
+825330116,1601,1768,hypotension,66,77,P
+825330116,1768,1837,congestive heart failure,14,38,P
+825330116,1980,2041,a dominant right coronary artery,8,40,P
+825330116,1980,2041,minor disease,46,59,P
+825330116,2041,2091,a 20% stenosis,34,48,P
+825330116,2091,2216,intraluminal thrombus,102,123,P
+825330116,2091,2216,a filling defect,69,85,P
+825330116,2091,2216,a severe 80% proximal stenosis,33,63,P
+825330116,2216,2264,a minor 40% stenosis,26,46,P
+825330116,2264,2385,a dilated left ventricle,34,58,P
+825330116,2264,2385,"an area of anterolateral , apical , and septal akinesis",64,119,P
+825330116,2587,2702,a positive family history,54,79,O
+825330116,2587,2702,coronary artery disease,21,44,P
+825330116,2587,2702,an elevated cholesterol level,84,113,P
+825330116,2587,2702,Her risk factors,0,16,P
+825330116,2724,2807,Parkinson &apos;s disease,56,81,P
+825330116,2829,2926,acute distress,81,95,N
+825330116,3147,3264,anapical impulse in the fifth left intercostal space,33,85,P
+825330116,3329,3364,gallops,26,33,N
+825330116,3329,3364,murmurs,11,18,N
+825330116,3404,3456,edema,45,50,N
+825330116,3506,3758,left atrial enlargement,53,76,P
+825330116,3506,3758,left axis deviation,79,98,P
+825330116,3506,3758,poor R-wave progression,101,124,P
+825330116,3506,3758,an old anteroseptal wall myocardial infarction,204,250,U
+825330116,3758,3843,lateral myocardial infarction,54,83,P
+825330116,3758,3843,prominent Q-waves in AVL,11,35,P
+825330116,3843,3892,non-specific ST-T wave abnormalities,11,47,P
+825330116,3958,4076,Parkinson &apos;s disease,91,116,P
+825330116,4305,4488,intraluminal thrombus,78,99,P
+825330116,4305,4488,a greater than 10% loss in the initial gain,107,150,P
+825330116,4488,4628,a less than 10% residual narrowing,104,138,P
+837898389,159,208,RIGHT LOWER EXTREMITY PSEUDOMONAS CELLULITIS,3,47,P
+837898389,208,243,PAROXYSMAL ATRIAL FIBRILLATION,3,33,P
+837898389,243,264,CORD COMPRESSION,3,19,P
+837898389,264,302,STEROID INDUCED DIABETES MELLITUS,3,36,P
+837898389,302,319,PLASMACYTOMA,3,15,P
+837898389,319,347,POOR NUTRITIONAL STATUS,3,26,P
+837898389,347,403,THROMBOCYTOPENIA,3,19,P
+837898389,403,424,MULTIPLE MYELOMA,3,19,P
+837898389,486,535,multiple myeloma,20,36,P
+837898389,813,863,lower back pain,33,48,P
+837898389,931,1091,diffuse spinal column involvement,61,94,P
+837898389,931,1091,lesions in T4 and T8,100,120,P
+837898389,931,1091,cord compression,129,145,N
+837898389,1225,1360,mid back pain,57,70,P
+837898389,1360,1490,numbness in the lower extremities,95,128,U
+837898389,1360,1490,noticeably increasing bilateral lower extremity weakness,25,81,P
+837898389,1490,1544,difficulty rising from a chair,22,52,P
+837898389,1544,1673,a right posterior lateral epidural mass,63,102,P
+837898389,1673,1713,cord compression,22,38,U
+837898389,1911,2039,the pain,118,126,P
+837898389,1911,2039,right lower extremity pain,59,85,P
+837898389,2039,2188,red,107,110,P
+837898389,2039,2188,swollen,113,120,P
+837898389,2039,2188,increasingly painful,127,147,P
+837898389,2188,2328,the right lower extremity swelling,79,113,P
+837898389,2188,2328,chronic bilateral lower extremity swelling,11,53,P
+837898389,2328,2431,some fecal incontinence,22,45,P
+837898389,2328,2431,urinary incontinence,81,101,N
+837898389,2431,2610,dysarthria,93,103,N
+837898389,2431,2610,chest pain,144,154,N
+837898389,2431,2610,nausea,123,129,N
+837898389,2431,2610,headache,47,55,N
+837898389,2431,2610,vomiting,133,141,N
+837898389,2431,2610,arm weakness,58,70,N
+837898389,2431,2610,changes in vision,73,90,N
+837898389,2431,2610,abdominal pain,106,120,N
+837898389,2431,2610,shortness of breath,158,177,N
+837898389,2828,2904,Pseudomonas aeruginosa,52,74,P
+837898389,2904,3035,his sepsis,119,129,P
+837898389,3035,3207,a Pseudomonas sepsis picture,142,170,P
+837898389,3369,3390,Multiple myeloma,3,19,P
+837898389,3390,3425,Paroxysmal atrial fibrillation,3,33,P
+837898389,3425,3460,Plasmacytoma of T9 through T12,3,33,P
+837898389,3460,3492,Chronic renal insufficiency,3,30,P
+837898389,3492,3527,Chronically low platelet count,3,33,P
+837898389,3581,3600,Hypothyroidism,3,17,P
+837898389,3616,3648,diabetes mellitus,13,30,O
+837898389,3710,3768,a rash,50,56,C
+837898389,3781,3976,pain,157,161,H
+837898389,4130,4171,oral lesions,27,39,N
+837898389,4130,4171,atraumatic,11,21,N
+837898389,4171,4210,bruits,31,37,N
+837898389,4210,4258,murmur,40,46,N
+837898389,4258,4329,a few fine crackles at the left base,33,69,P
+837898389,4329,4430,non-distended,8,21,N
+837898389,4329,4430,hepatosplenomegaly,71,89,N
+837898389,4329,4430,non-tender,55,65,N
+837898389,4329,4430,masses,93,99,N
+837898389,4430,4516,guaiac positive brown stool,21,48,P
+837898389,4430,4516,perirectal lesions,54,72,N
+837898389,4430,4516,erythema,76,84,N
+837898389,4516,4658,swollen,70,77,P
+837898389,4516,4658,extremely tender,124,140,P
+837898389,4516,4658,tense,49,54,P
+837898389,4516,4658,purple-red,57,67,P
+837898389,4658,4767,pitting edema of both lower extremities,10,49,P
+837898389,4658,4767,cellulitis of the left lower extremity,69,107,N
+837898389,4767,4974,mildly inattentive,168,186,P
+837898389,4767,4974,drowsy,47,53,P
+837898389,4997,5053,positive asterixis,25,43,P
+837898389,5175,5323,no reflexes at the ankles,85,110,P
+837898389,5494,5552,positive granular casts,33,56,P
+837898389,5552,5613,infiltrates,24,35,N
+837898389,5613,5753,an epidural mass,47,63,P
+837898389,5753,5779,CSF density,13,24,N
+837898389,5779,5837,These findings,0,14,P
+837898389,5779,5837,the cord compression,36,56,P
+837898389,5903,6015,The patient &apos;s clinical situation,0,38,P
+837898389,5903,6015,a Pseudomonas cellulitis,64,88,P
+837898389,5903,6015,subsequent sepsis,93,110,P
+837898389,6015,6128,Pseudomonas,54,65,P
+837898389,6128,6260,Pseudomonas aeruginosa,108,130,P
+837898389,6128,6260,the wound,42,51,P
+837898389,6260,6509,The organism,0,12,P
+837898389,6509,6680,the organism &apos;s susceptibility,88,123,P
+837898389,6964,7148,erythema along the lateral right lower extremity,134,182,P
+837898389,7498,7648,extreme pain,26,38,P
+837898389,7498,7648,pain control during dressing changes,112,148,P
+837898389,7648,7745,his Pseudomonas cellulitis,69,95,P
+837898389,7745,7845,erythema,42,50,P
+837898389,7845,7938,this erythema,13,26,P
+837898389,7957,8066,his sepsis,88,98,P
+837898389,8066,8173,rapid AF,22,30,P
+837898389,8173,8244,atrial fibrillation,26,45,P
+837898389,8244,8344,decreased global EF,79,98,P
+837898389,8244,8344,septic,65,71,P
+837898389,8344,8427,his paroxysmal atrial fibrillation,47,81,P
+837898389,8427,8547,tachycardia,37,48,N
+837898389,8427,8547,blood pressure alteration,52,77,N
+837898389,8691,8743,a plasmacytoma,16,30,P
+837898389,8822,8910,the plasmacytoma,70,86,P
+837898389,8910,9139,infectious,128,138,N
+837898389,8910,9139,The patient &apos;s lesion,0,26,P
+837898389,8910,9139,plasmacytoma,167,179,P
+837898389,9154,9219,a cord compression,26,44,P
+837898389,9294,9386,increasing lower extremity edema,58,90,N
+837898389,9564,9615,steroid induced diabetes mellitus,16,49,P
+837898389,9939,10135,improving septic pictures,39,64,P
+837898389,10135,10253,respiratory compromise,64,86,H
+837898389,10135,10253,increasing pulmonary edema,90,116,P
+837898389,10267,10331,hypoalbuminemia,47,62,P
+837898389,10267,10331,a poor nutritional status,16,41,P
+837898389,10540,10564,ELEVATED PT and PTT,3,22,P
+837898389,10637,10721,a low platelet count,62,82,P
+837898389,10789,10894,his bleeding risk,86,103,P
+837898389,11095,11671,adrenal insufficiency,187,208,U
+837898389,11095,11671,breakthrough pain,479,496,H
+839999049_YC,48,71,Obstructive Sleep Apnea,0,23,P
+839999049_YC,1376,1594,Known Allergies,203,218,N
+839999049_YC,1611,1619,MI,6,8,U
+839999049_YC,1650,1721,Obstructive Sleep Apnea,48,71,P
+839999049_YC,1738,1847,HTN,69,72,P
+839999049_YC,1738,1847,sinus bradycardia,92,109,P
+839999049_YC,1952,2009,MI,53,55,U
+839999049_YC,1952,2009,CP,40,42,P
+839999049_YC,2009,2032,significant cardiac,4,23,P
+839999049_YC,2036,2056,HTN,5,8,P
+839999049_YC,2056,2101,epigastric pain,14,29,P
+839999049_YC,2056,2101,SOB,32,35,C
+839999049_YC,2101,2132,ischemia,21,29,N
+839999049_YC,2132,2227,mild dilatation,29,44,P
+839999049_YC,2132,2227,significant valvular disease,52,80,N
+839999049_YC,2291,2422,pauses,73,79,P
+839999049_YC,2291,2422,sinus bradycardia,51,68,P
+839999049_YC,2291,2422,desaturations in the 70 &apos;s,98,129,P
+843566350_RWH,401,422,MIGRAINES,0,9,P
+843566350_RWH,459,528,headache,47,55,H
+843566350_RWH,539,547,Headache,0,8,P
+853262744,369,422,SOB,48,51,P
+853262744,580,700,SOB,115,118,P
+869436718_SC,426,474,PAIN,44,48,H
+869436718_SC,642,715,PAIN,69,73,H
+869436718_SC,750,877,Constipation,82,94,H
+869436718_SC,750,877,PAIN,123,127,H
+869436718_SC,1252,1261,Pregnancy,0,9,P
+869436718_SC,1511,1522,Undelivered,0,11,P
+869436718_SC,1577,1606,Multiple gestation,9,27,P
+869436718_SC,1577,1606,Breech,0,6,P
+869436718_SC,1927,1952,observed abnormalities,3,25,N
+879492218_YC,48,57,PNEUMONIA,0,9,P
+879492218_YC,189,210,Shortness of breath,0,19,P
+879492218_YC,238,449,shortness of breath,146,165,P
+879492218_YC,238,449,a dry cough,188,199,P
+879492218_YC,449,605,shortness of breath,105,124,C
+879492218_YC,605,708,short of breath,78,93,C
+879492218_YC,708,784,a dry and nonproductive cough,31,60,P
+879492218_YC,784,833,fevers,14,20,N
+879492218_YC,784,833,chills,23,29,N
+879492218_YC,784,833,night sweats,35,47,N
+879492218_YC,833,869,vomiting,12,20,N
+879492218_YC,833,869,nausea,3,9,N
+879492218_YC,833,869,diarrhea,26,34,N
+879492218_YC,869,960,some weight loss,12,28,P
+879492218_YC,1346,1414,withdrawal symptoms,47,66,N
+879492218_YC,1606,1631,known drug allergies,3,23,N
+879492218_YC,2098,2123,bone cancer,12,23,O
+879492218_YC,2255,2343,acute distress,72,86,N
+879492218_YC,2343,2387,sclerae,20,27,P
+879492218_YC,2433,2532,right axillary lymphadenopathy,67,97,U
+879492218_YC,2433,2532,lymphadenopathy,3,18,N
+879492218_YC,2532,2596,coarse rhonchi,19,33,P
+879492218_YC,2532,2596,some bibasilar crackles,39,62,P
+879492218_YC,2665,2757,a flat jugular venous pressure,60,90,P
+879492218_YC,2665,2757,tachycardic,41,52,P
+879492218_YC,2757,2818,edema,54,59,N
+879492218_YC,2757,2818,clubbing,40,48,N
+879492218_YC,2757,2818,cyanosis,29,37,N
+879492218_YC,2818,2855,rashes,29,35,N
+879492218_YC,2855,2911,hepatosplenomegaly,12,30,N
+879492218_YC,3175,3201,Sinus tachycardia,0,17,P
+879492218_YC,3229,3275,consolidation,31,44,P
+879492218_YC,3229,3275,Diffuse interstitial process,0,28,P
+879492218_YC,3337,3443,PCP,101,104,U
+879492218_YC,3337,3443,an atypical pneumonia,76,97,U
+879492218_YC,3557,3641,AFB,79,82,N
+879492218_YC,3557,3641,tuberculosis,21,33,N
+879492218_YC,3641,3707,bibasilar diffuse infiltrates,16,45,P
+879492218_YC,3920,4023,HIV,73,76,N
+879492218_YC,4152,4346,chronic inhalational injury,147,174,U
+879492218_YC,4152,4346,organizing pneumonia,90,110,P
+879492218_YC,4152,4346,BOOP,138,142,U
+879492218_YC,4152,4346,Micro,30,35,N
+879492218_YC,4478,4540,his cough,51,60,P
+879492218_YC,4612,4744,CHF,39,42,U
+879492218_YC,4612,4744,pulmonary hypertension,108,130,N
+879492218_YC,4612,4744,trace TR,60,68,P
+879492218_YC,4612,4744,LVH,52,55,P
+879492218_YC,5271,5404,chest pain,109,119,H
+879492218_YC,5271,5404,any further troubles,74,94,H
+879492218_YC,5271,5404,fevers,125,131,H
+888428725_RWH,380,436,SOB,51,54,P
+888428725_RWH,380,436,CP,48,50,P
+888428725_RWH,583,715,MI,128,130,U
+888428725_RWH,583,715,CP,117,119,P
+891864133_RWH,388,404,HEMMOROIDS,6,16,U
+891864133_RWH,415,448,perianal and perivaginal pruritis,0,33,P
+891864133_RWH,654,735,positive,13,21,H
+910458031,161,207,METASTATIC ADENOCARCINOMA OF UNKNOWN PRIMARY,0,44,P
+910458031,228,264,INTRAUTERINE PREGNANCY AT 23 WEEKS,0,34,P
+910458031,264,279,HYPERCALCEMIA,0,13,P
+910458031,279,311,INFERIOR VENA CAVA OBSTRUCTION,0,30,P
+910458031,311,346,IMPENDING SPINAL CORD COMPRESSION,0,33,P
+910458031,367,536,diffuse metastatic adenocarcinoma of unknown primary,115,167,P
+910458031,367,536,a 22 week intrauterine pregnancy,41,73,P
+910458031,564,683,a left clavicular mass,95,117,P
+910458031,683,738,the mass,15,23,P
+910458031,738,843,a 3 x 7 cm left mid clavicular mass,58,93,P
+910458031,843,917,this mass,26,35,P
+910458031,843,917,giant cell tumor,56,72,P
+910458031,917,1070,a benign tumor,45,59,P
+910458031,1070,1195,significant discomfort in this region,86,123,P
+910458031,1070,1195,the mass,15,23,P
+910458031,1288,1401,an aggressive adenocarcinoma,41,69,P
+910458031,1440,1649,internal mammary lymphadenopathy,175,207,P
+910458031,1440,1649,diffuse bilateral pulmonary metastases,75,113,P
+910458031,1440,1649,"metastases to the sternum , rib , multiple spinal levels",116,172,P
+910458031,1649,1900,"diffuse metastatic lesions of the liverspine , ribs and most of the lymph nodes",170,249,P
+910458031,1900,1955,obvious GIor pancreatic tumor,13,42,N
+910458031,1955,2022,a very firm nodule,16,34,P
+910458031,2022,2134,adenocarcinoma,96,110,P
+910458031,2134,2256,the pregnancy,107,120,P
+910458031,2134,2256,her cancer,77,87,P
+910458031,2256,2364,mid thoracic back pain,84,106,P
+910458031,2256,2364,progressive shortness of breath,48,79,P
+910458031,2364,2474,incontinence of bowel or bladder,76,108,N
+910458031,2364,2474,abnormal sensation,32,50,N
+910458031,2364,2474,tingling,64,72,N
+910458031,2364,2474,motor weakness,15,29,N
+910458031,2364,2474,numbness,53,61,N
+910458031,2474,2512,sweats,30,36,N
+910458031,2474,2512,chills,20,26,N
+910458031,2474,2512,fevers,11,17,N
+910458031,2512,2573,constipation,47,59,P
+910458031,2512,2573,GI or GU symptoms,18,35,N
+910458031,2622,2681,pain,35,39,P
+910458031,2692,2717,KNOWN DRUG ALLERGIES,3,23,N
+910458031,2733,2808,metastatic prostate cancer,47,73,O
+910458031,2808,2869,cervical cancer,44,59,O
+910458031,2998,3061,this pregnancy,47,61,P
+910458031,3239,3337,a right posterior parietal scalp nodle,19,57,P
+910458031,3337,3449,a 1 cm firm nodule at the left upper thoracic region,10,62,P
+910458031,3449,3522,a 1 cm firm nodule,10,28,P
+910458031,3568,3608,jugular venous distention,13,38,N
+910458031,3608,3638,lymphadenopathy,13,28,N
+910458031,3638,3671,CVA tenderness,17,31,N
+910458031,3671,3705,scapular tenderness,13,32,N
+910458031,3705,3747,mild lower thoracic tenderness,10,40,P
+910458031,3781,3813,wheezes,23,30,N
+910458031,3781,3813,rales,14,19,N
+910458031,3813,3836,egophony,13,21,N
+910458031,3836,3897,tachycardic,17,28,P
+910458031,3897,3984,a II / VI systolic ejection murmur,10,44,P
+910458031,3984,4004,heave,13,18,N
+910458031,4004,4024,gravid,12,18,P
+910458031,4051,4093,nontender,31,40,N
+910458031,4245,4297,1+ bipedal edema,21,37,P
+910458031,4825,4894,her pregnancy,43,56,P
+910458031,4894,5168,foraminal obstruction,251,272,P
+910458031,4894,5168,a T3 lesion,180,191,P
+910458031,4894,5168,multiple metastatic lesions in the vertebral bodies,126,177,P
+910458031,4894,5168,the patient &apos;s disease,30,57,P
+910458031,5168,5310,An epidural mass,0,16,P
+910458031,5310,5656,an isolated splenic metastases,314,344,P
+910458031,5310,5656,bilateral pulmonary nodules,58,85,P
+910458031,5310,5656,narrowing of the intra hepatic IVC,149,183,P
+910458031,5310,5656,multiple bony metastases,283,307,P
+910458031,5310,5656,distention of the azygous system,188,220,P
+910458031,5310,5656,IVC obstruction,235,250,P
+910458031,5310,5656,liver metastases,254,270,P
+910458031,5310,5656,bilateral pleural effusions,90,117,P
+910458031,5310,5656,extensive liver metastases,120,146,P
+910458031,5310,5656,ascites,273,280,P
+910458031,5656,5838,"increased uptake in the left chest wall , left anterior ribs four to six",21,93,P
+910458031,5656,5838,increased uptake in the left and right lateral skull,100,152,P
+910458031,5838,5953,a metastatic lesion,23,42,P
+910458031,5838,5953,intracranial abnormalities,87,113,N
+910458031,5953,6116,dominant masses,146,161,N
+910458031,5953,6116,the primary tumor,26,43,P
+910458031,5953,6116,suspicious microcalcifications,108,138,N
+910458031,6116,6225,pancreatic mass,70,85,N
+910458031,6116,6225,suspicious GI masses,44,64,N
+910458031,6116,6225,a 2 cm ovarian cyst,88,107,P
+910458031,6225,6308,a high grade adenocarcinoma,54,81,P
+910458031,6541,6556,Hypercalcemia,0,13,P
+910458031,6822,6839,IVC obstruction,0,15,P
+910458031,6839,6945,obstruction of the intrahepatic IVC,69,104,P
+910458031,6839,6945,extensive hepatic metastases,16,44,P
+910458031,6945,7033,ascites,79,86,P
+910458031,6945,7033,marked bilateral lower extremity and presacral edema,21,73,P
+910458031,7033,7116,The patient &apos;s low serum albumin,0,37,P
+910458031,7033,7116,her extensive edema,62,81,P
+910458031,7116,7149,Hypoxia,0,7,P
+910458031,7116,7149,shortness of breath,12,31,P
+910458031,7149,7292,increased shortness of breath,112,141,P
+910458031,7292,7474,shortness of breath,161,180,P
+910458031,7292,7474,increased work of respiration,112,141,P
+910458031,7292,7474,bilateral pleural effusions,72,99,P
+910458031,7292,7474,the patient &apos;s extensive pulmonary metastases,17,67,P
+910458031,7474,7509,Impending spinal cord compression,0,33,P
+910458031,7509,7586,back pain,16,25,P
+910458031,7509,7586,any focal neurological signs,47,75,N
+910458031,7586,7672,an impending cord compression,35,64,P
+910458031,7798,7951,her malignancy,137,151,P
+910458031,8610,8712,the patient &apos;s medical and oncological issues,23,73,P
+915093496_RWH,237,261,Undesired fertility,3,22,P
+915093496_RWH,261,285,Undesired adiposity,3,22,P
+915093496_RWH,817,851,Spontaneous vaginal delivery,0,28,P
+915093496_RWH,907,985,sexually transmitted disease,14,42,N
+915093496_RWH,1043,1068,known drug allergies,3,23,N
+915093496_RWH,1182,1193,masses,3,9,N
+915093496_RWH,1299,1332,nondistended,19,31,N
+915093496_RWH,1299,1332,nontender,7,16,N
+915093496_RWH,1360,1467,nontender,96,105,N
+915093496_RWH,1475,1500,masses,3,9,N
+915093496_RWH,1475,1500,tenderness,13,23,N
+915093496_RWH,1694,1786,The estimated blood loss,0,24,P
+915093496_RWH,1984,2090,persistent pain,89,104,P
+915093496_RWH,2090,2158,complaints,56,66,N
+915093496_RWH,2158,2181,afebrile,13,21,N
+917989835_RWH,738,742,PTSD,0,4,P
+917989835_RWH,925,999,overwhelming,27,39,P
+917989835_RWH,925,999,symptoms,3,11,P
+920798564,47,80,RENAL FAILURE,20,33,P
+920798564,47,80,PROSTATE CANCER,0,15,P
+920798564,183,204,ACUTE RENAL FAILURE,0,19,P
+920798564,204,226,SIGNIFICANT PROBLEMS,0,20,P
+920798564,226,253,METASTATIC PROSTATE CA,3,25,P
+920798564,253,309,STATUS POST LEFT NEPHROSTOMY,26,54,P
+920798564,253,309,OBSTRUCTIVE UROPATHY,3,23,P
+920798564,309,326,HYPERTENSION,3,15,P
+920798564,326,337,ANEMIA,3,9,P
+920798564,337,373,GASTROESOPHAGEAL REFLUX DISEASE,3,34,P
+920798564,390,619,persistent hematuria,101,121,P
+920798564,390,619,prostate CA,38,49,P
+920798564,619,647,PRESENT ILLNESS,11,26,P
+920798564,647,772,adenocarcinoma of the prostate,85,115,P
+920798564,772,878,persistent urinary retention,76,104,P
+920798564,939,1065,failure to thrive,82,99,P
+920798564,939,1065,decreased hematocrit,104,124,P
+920798564,1065,1115,elevated BUN,21,33,P
+920798564,1180,1302,body weight loss,104,120,P
+920798564,1180,1302,urinary incontinence,79,99,P
+920798564,1302,1469,prostate CA in the pelvic area,135,165,P
+920798564,1302,1469,obstructive uropathy,107,127,U
+920798564,1302,1469,his renal failure,22,39,P
+920798564,1302,1469,bilateral hydronephrosis,68,92,P
+920798564,1469,1573,the increasing creatinine,11,36,P
+920798564,1573,1707,the patient &apos;s hematocrit dropped,30,68,P
+920798564,1707,1831,hematuria,64,73,P
+920798564,1831,1877,hyperkalemia,32,44,P
+920798564,1877,2061,the persistent blood in the urine,7,40,P
+920798564,1877,2061,vascular injuries,165,182,U
+920798564,2154,2222,fever,51,56,N
+920798564,2154,2222,constipation,16,28,P
+920798564,2154,2222,dysuria,34,41,P
+920798564,2154,2222,chills,60,66,N
+920798564,2222,2232,cough,3,8,N
+920798564,2232,2247,chest pain,3,13,N
+920798564,2247,2314,epigastric pain,29,44,P
+920798564,2247,2314,body weight loss,49,65,P
+920798564,2247,2314,palpitations,3,15,N
+920798564,2314,2327,headache,3,11,N
+920798564,2327,2341,bone pain,3,12,N
+920798564,2363,2380,Hypertension,3,15,P
+920798564,2380,2416,Gastroesophageal reflux disease,3,34,P
+920798564,2416,2427,Anemia,3,9,P
+920798564,2427,2443,Prostate CA,3,14,P
+920798564,2443,2454,ALLERGIES,0,9,P
+920798564,2454,2479,known drug allergies,3,23,N
+920798564,3016,3111,acute distress,79,93,N
+920798564,3259,3290,Isocoric cataract bilaterally,0,29,P
+920798564,3297,3328,Mucous membranes slightly dry,0,29,P
+920798564,3328,3344,oral ulcers,3,14,N
+920798564,3424,3440,thyromegaly,3,14,N
+920798564,3440,3511,some basilar crackles at the right lung base,25,69,P
+920798564,3511,3608,tachycardia,16,27,P
+920798564,3511,3608,grade II / VI systolic ejection murmur at the left sternal border,30,95,P
+920798564,3698,3720,Traced pitting edema,0,20,P
+920798564,3720,3749,cyanosis,3,11,N
+920798564,3720,3749,clubbing,19,27,N
+920798564,3798,3818,calf tenderness,3,18,N
+920798564,4318,4366,cardiomegaly,34,46,N
+920798564,4366,4386,lung infiltrate,3,18,N
+920798564,4386,4507,right hydronephrosis,33,53,P
+920798564,4386,4507,an asymmetrically thickened urinary bladder wall,71,119,P
+920798564,4507,4614,A mass like thickening of the urinary bladder,0,45,P
+920798564,4507,4614,tumor,100,105,U
+920798564,4507,4614,detrusor hypertrophy,67,87,U
+920798564,4614,4726,a cavitary lung lesion in the right lower lobe,19,65,P
+920798564,4614,4726,septic embolus,96,110,U
+920798564,4726,4844,left axis deviation,33,52,P
+920798564,4726,4844,atrial fibrillation,11,30,P
+920798564,4726,4844,nonspecific ST-T changes,61,85,P
+920798564,4726,4844,LVH,55,58,P
+920798564,4726,4844,digitalis affect,100,116,U
+920798564,5096,5335,the patient &apos;s hematuria,38,67,P
+920798564,5096,5335,further damage to the patient &apos;s kidney,193,237,N
+920798564,5335,5504,renal function,135,149,H
+920798564,5504,5612,his electrolyte and metabolic acidosis,68,106,P
+920798564,5781,5862,his metabolic acidosis,57,79,P
+920798564,6014,6123,atrial fibrillation,51,70,P
+920798564,6194,6471,this well advanced prostate CA,245,275,P
+920798564,6852,7362,agitation,184,193,H
+932057504_DH,400,461,AF-RESOLVED,48,59,N
+950452368,47,72,EXTERNAL WOUND INFECTIONS,0,25,P
+950452368,175,200,STERNAL WOUND INFECTION,0,23,P
+950452368,228,384,sternal wound infection,131,154,P
+950452368,384,462,the same diagnosis,58,76,P
+950452368,681,826,status post lymphoma,25,45,P
+950452368,681,826,an insulin-dependent diabetic,114,143,P
+950452368,848,1093,coronary artery disease,199,222,P
+950452368,848,1093,melanoma,79,87,P
+950452368,848,1093,hypertension,136,148,P
+950452368,848,1093,lymphoma,38,46,P
+950452368,848,1093,hypothyroidism,151,165,P
+950452368,848,1093,congestive heart failure,168,192,P
+950452368,848,1093,ulcerative colitis,58,76,P
+950452368,848,1093,Insulin-dependent diabetes mellitus,0,35,P
+950452368,1887,2038,obese,15,20,P
+950452368,1887,2038,I / VI and erythema over the sternal wound,91,133,P
+950452368,1887,2038,a systolic murmur,71,88,P
+950452368,2038,2127,a beefy red cellulitic area,14,41,P
+950452368,2038,2127,The wound,0,9,P
+950452368,2127,2170,purulence,13,22,N
+950452368,2127,2170,discharge,26,35,N
+950452368,2365,2509,Enterococci,99,110,P
+950452368,2365,2509,the wound,133,142,P
+950452368,2365,2509,Staphylococcus,115,129,P
+950452368,2509,2693,the persistent fevers,7,28,P
+950452368,2693,2809,yeast,48,53,P
+950452368,2953,3102,a small complication,3,23,P
+950452368,2953,3102,a left ankle wound,45,63,P
+950452368,3102,3230,difficult ambulation,7,27,P
+950452368,3102,3230,a small ulcer in the sacral area,52,84,P
+950452368,3417,4374,indigestion,492,503,H
+950452368,3417,4374,constipation,284,296,H
+950452368,3417,4374,pain,846,850,H
+950452368,3417,4374,constipation,563,575,H
+950452368,4486,4562,desensitization,59,74,P
+959086752,240,276,Non-healing ulcer on the right leg,0,34,P
+959086752,367,538,peripheral vascular disease,65,92,P
+959086752,538,606,increased rest pain,47,66,C
+959086752,606,748,Her pain,0,8,N
+959086752,606,748,minimally ambulatory,100,120,P
+959086752,748,1052,any trauma,175,185,N
+959086752,748,1052,a non-healing right dorsal foot ulcer,50,87,P
+959086752,748,1052,a pin hole,137,147,P
+959086752,748,1052,similar small ulcers,191,211,P
+959086752,1052,1243,poor distal right extremity perfusion,152,189,P
+959086752,1052,1243,The ulcer,0,9,P
+959086752,1433,1466,chills,25,31,N
+959086752,1433,1466,fevers,15,21,N
+959086752,1466,1519,rest pain in the right foot and ankle,14,51,C
+959086752,1541,1865,goiter,225,231,P
+959086752,1541,1865,Lupus,41,46,P
+959086752,1541,1865,multiple decubiti,61,78,P
+959086752,1541,1865,peripheral vascular disease,81,108,P
+959086752,1541,1865,methicillin resistant Staphylococcus aureus pneumonia,269,322,P
+959086752,1541,1865,Guillain-Barr syndrome,16,38,P
+959086752,1541,1865,left lung fibrosis,236,254,P
+959086752,1960,2241,edema,274,279,H
+959086752,2356,2458,allergic,15,23,P
+959086752,2643,2725,jugular venous distention,55,80,N
+959086752,2643,2725,bruits,43,49,N
+959086752,2725,2821,decreased breath sounds at bilateral bases,6,48,P
+959086752,2725,2821,minimal expiratory crackles on the right,54,94,P
+959086752,2821,2895,non-tender,17,27,N
+959086752,2821,2895,non-distended,30,43,N
+959086752,2895,2976,distal pulses,54,67,N
+959086752,2976,3060,distal pulses,57,70,N
+959086752,3060,3142,a four centimeter ulcer with necrotic base,38,80,P
+959086752,3142,3172,Minimal surrounding erythema,0,28,P
+959086752,3291,3391,a right proximal popliteal occlusion,23,59,P
+959086752,3291,3391,anterior tibial dominant foot vessel,62,98,P
+959086752,3391,3488,Small posterior tibial occlusion on the distal calf,0,51,P
+959086752,3391,3488,a small peroneal,56,72,P
+959086752,3488,3582,masses,52,58,N
+959086752,3488,3582,decubiti,84,92,N
+959086752,3488,3582,gluteal ulcers,66,80,N
+959086752,4206,4365,a hematoma,121,131,P
+959086752,4206,4365,some swelling in her left lower extremity,55,96,P
+959086752,4365,4461,surrounding erythema,24,44,P
+959086752,4503,4671,erythema on her left leg,12,36,P
+959086752,4503,4671,her erythema,130,142,P
+959086752,4701,4838,wounds,8,14,P
+965367286_WGH,368,421,SOB,48,51,P
+974381789,54,75,ATRIAL FIBRILLATION,0,19,P
+974381789,255,276,Atrial fibrillation,0,19,P
+974381789,298,392,multinodular goiter,11,30,P
+974381789,298,392,hypertension,44,56,P
+974381789,467,865,intolerance,385,396,P
+974381789,467,865,infrequent short runs of non-sustained ventricular tachycardia,113,175,P
+974381789,467,865,frequent premature ventricular contractions,65,108,P
+974381789,979,1174,atrial fibrillation,93,112,P
+974381789,979,1174,decreased exercise tolerance,165,193,P
+974381789,979,1174,a rapid ventricular rate,118,142,P
+974381789,1271,1382,mild shortness of breath,85,109,P
+974381789,1271,1382,occasional palpitations,57,80,P
+974381789,1404,1487,hypertension,22,34,P
+974381789,1404,1487,multinodular goiter,37,56,P
+974381789,1697,1794,atrial fibrillation,74,93,P
+974381789,1794,1831,anxious,28,35,P
+974381789,1831,1884,carotid bruits,37,51,N
+974381789,1831,1884,neck vein distension,13,33,N
+974381789,1970,2001,peripheral edema,13,29,N
+974381789,2051,2141,atrial fibrillation,35,54,P
+974381789,2141,2222,diffuse ST segment and T-wave abnormalities,11,54,P
+974381789,2478,2672,asymmetric septal hypertrophy,57,86,N
+974381789,2478,2672,left ventricular hypertrophy,25,53,N
+974381789,3120,3283,QT prolongation,43,58,N
+979440029_RWH,444,456,BODY SHAKING,0,12,P
+979440029_RWH,493,563,back pain,47,56,P
+979440029_RWH,574,600,mechanical fall,11,26,P
+979440029_RWH,574,600,back pain/,0,10,P
+979440029_RWH,726,776,cramps,42,48,P
+989519730_WGH,234,248,Colon cancer,0,12,P
+989519730_WGH,270,373,diverticulitis,11,25,P
+989519730_WGH,270,373,hypertension,89,101,P
+989519730_WGH,394,426,tumor,25,30,P
+989519730_WGH,483,642,colon cancer,91,103,P
+989519730_WGH,483,642,diverticulitis,54,68,P
+989519730_WGH,642,739,An invasive moderately differentiated adenocarcinoma,0,52,P
+989519730_WGH,739,826,flatulence,46,56,P
+989519730_WGH,739,826,increased fatigue,68,85,P
+989519730_WGH,739,826,bloating,33,41,P
+989519730_WGH,826,920,diarrhea,69,77,P
+989519730_WGH,826,920,some discomfort in her left lower abdomen,17,58,P
+989519730_WGH,920,985,weight loss,52,63,N
+989519730_WGH,1007,1199,hypertension,178,190,P
+989519730_WGH,1310,1335,known drug allergies,3,23,N
+989519730_WGH,1476,1501,afebrile,15,23,N
+989519730_WGH,1626,1695,acute distress,53,67,N
+989519730_WGH,1740,1794,rubs,35,39,N
+989519730_WGH,1740,1794,gallops,45,52,N
+989519730_WGH,1740,1794,murmurs,25,32,N
+989519730_WGH,1794,1842,nontender,18,27,N
+989519730_WGH,1794,1842,nondistended,34,46,N
+989519730_WGH,1842,1890,edema,28,33,N
+989519730_WGH,1907,2041,tumor,127,132,P
+989519730_WGH,2041,2114,complications,58,71,N
+989519730_WGH,2157,2217,pain control,46,58,H
+989519730_WGH,2536,2783,pain,152,156,P
+989519730_WGH,2806,2849,pain,37,41,H
+989519730_WGH,2880,2922,pain,36,40,H
+989519730_WGH,2956,3011,constipation,41,53,H
+989519730_WGH,3239,3370,bleeding from the surgical wounds,71,104,H
+989519730_WGH,3239,3370,pus from the wounds,110,129,H
+989519730_WGH,3239,3370,fever greater than 101,46,68,H

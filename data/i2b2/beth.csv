@@ -1,0 +1,4188 @@
+sentence_id,sentence_start,sentence_end,concept,concept_start,concept_end,label
+record-105,117,171,Known Allergies,30,45,N
+record-105,206,255,recent mild angina,17,35,C
+record-105,396,507,abnormal EKG,41,53,P
+record-105,507,602,perfusion defects,76,93,P
+record-105,507,602,abnormal stress test,15,35,P
+record-105,602,692,mild MR,70,77,P
+record-105,602,692,inferior HK,47,58,P
+record-105,602,692,mild LAE,80,88,P
+record-105,602,692,mild LVH,36,44,P
+record-105,692,775,80% LM lesion,41,54,P
+record-105,775,807,Severe systolic HTN,0,19,P
+record-105,879,893,ventral hernia,0,14,P
+record-105,893,987,HTN,0,3,P
+record-105,893,987,right facial droop,16,34,P
+record-105,893,987,GSW,65,68,P
+record-105,893,987,elev. chol.,4,15,P
+record-105,1876,1929,interstitial edema,20,38,N
+record-105,1929,1994,left basilar atelectasis,39,63,P
+record-105,1994,2043,Right basilar atelectasis,0,25,P
+record-105,2043,2086,Bilateral pleural effusions,0,27,P
+record-105,2160,2238,Bibasilar minor atelectasis,3,30,P
+record-105,2238,2268,Persistent pleural effusions,0,28,P
+record-105,2355,2390,mildly dilated,19,33,P
+record-105,2390,2459,spontaneous echo contrast,3,28,N
+record-105,2459,2565,thrombus,32,40,N
+record-105,2459,2565,spontaneous echo contrast,3,28,N
+record-105,2565,2635,mass/thrombus,3,16,N
+record-105,2635,2691,atrial septal defect,3,23,N
+record-105,2691,2769,mild symmetric left ventricular hypertrophy,9,52,P
+record-105,2769,2823,mild symmetric left ventricular hypertrophy,9,52,P
+record-105,2867,2905,left ventricular aneurysm,3,28,N
+record-105,2905,2967,mild regional left ventricular systolic dysfunction,9,60,P
+record-105,2967,3031,mildly depressed,46,62,P
+record-105,3031,3070,ventricular septal defect,12,37,N
+record-105,3070,3148,mild inferior hypokinesis,51,76,P
+record-105,3070,3148,Resting regional wall motion abnormalities,0,42,P
+record-105,3212,3260,mildly dilated,32,46,P
+record-105,3260,3306,simple atheroma,10,25,P
+record-105,3306,3356,simple atheroma,10,25,P
+record-105,3356,3402,simple atheroma,10,25,P
+record-105,3402,3462,simple atheroma,10,25,P
+record-105,3501,3549,mildly thickened,30,46,P
+record-105,3549,3604,vegetations,13,24,N
+record-105,3549,3604,masses,3,9,N
+record-105,3604,3639,aortic valve stenosis,12,33,N
+record-105,3639,3675,Trace aortic regurgitation,0,26,P
+record-105,3675,3723,mildly thickened,30,46,P
+record-105,3723,3774,mass,3,7,N
+record-105,3723,3774,vegetation,11,21,N
+record-105,3774,3812,Trivial mitral regurgitation,0,28,P
+record-105,3812,3846,pericardial effusion,12,32,N
+record-105,3919,3947,AI,11,13,P
+record-105,3919,3947,Trace MR,0,8,P
+record-105,4501,4566,scattered rales,32,47,P
+record-105,4566,4631,Afebrile,0,8,N
+record-105,5647,5747,pain,94,98,H
+record-105,6073,6076,CAD,0,3,P
+record-105,6076,6137,ventral hernia,4,18,P
+record-105,6076,6137,HTN,0,3,P
+record-105,6163,6337,any incisions,107,120,P
+record-106,170,180,Chest pain,0,10,P
+record-106,248,380,substernal chest pain,94,115,C
+record-106,248,380,HTN,38,41,P
+record-106,459,523,SSCP,40,44,P
+record-106,523,559,vomiting,12,20,N
+record-106,523,559,diaphoresis,23,34,N
+record-106,523,559,nausea,3,9,N
+record-106,559,659,new ST depressions in V1-V4,71,98,P
+record-106,866,946,bibasilar crackles,42,60,P
+record-106,866,946,murmur,33,39,N
+record-106,946,1017,sinus brady,11,22,P
+record-106,946,1017,old LAD and new ST depressions in V1-V4,30,69,P
+record-106,1263,1266,HTN,0,3,P
+record-106,1266,1284,Hearing difficulty,0,18,P
+record-106,1284,1320,macular degeneration,16,36,P
+record-106,1284,1320,Blindness,0,9,P
+record-106,1320,1335,R ankle fx,0,10,P
+record-106,1566,1629,NAD,0,3,N
+record-106,1566,1629,blind,22,27,P
+record-106,1669,1701,m/r/g,27,32,N
+record-106,1707,1749,Crackles at base and mid-lungs bilaterally,0,42,P
+record-106,1754,1793,masses,33,39,N
+record-106,1754,1793,NT,7,9,N
+record-106,1754,1793,ND,12,14,N
+record-106,1798,1827,Trace ankle edema bilaterally,0,29,P
+record-106,2096,2223,RBBB,35,39,P
+record-106,2096,2223,ST depressions in V1-V4,56,79,P
+record-106,2096,2223,Q wave in I,42,53,P
+record-106,2096,2223,ST elevation in III,82,101,P
+record-106,2096,2223,aVF,104,107,P
+record-106,2096,2223,TWI in III,110,120,P
+record-106,2096,2223,LVH,29,32,P
+record-106,2096,2223,sinus brady,0,11,P
+record-106,2234,2295,the still mild pulmonary edema,29,59,P
+record-106,2234,2295,slight worsening,9,25,P
+record-106,2295,2321,pneumothorax,12,24,N
+record-106,2321,2361,Small right pleural effusion,0,28,P
+record-106,2391,2452,regional wall motion abnormality,27,59,N
+record-106,3026,3186,HTN,30,33,P
+record-106,3026,3186,ST depressions in V1-V4,118,141,P
+record-106,3026,3186,substernal chest pain,38,59,C
+record-106,3186,3201,NSTEMI,7,13,U
+record-106,3419,3464,Her chest pain,0,14,P
+record-106,3545,3620,atrial fibrillation,34,53,P
+record-106,3760,3835,wall motion abnormalities,48,73,N
+record-106,3835,3978,her afib,86,94,P
+record-106,4301,4485,Bilateral crackles at bases and midlungs,0,40,P
+record-106,4301,4485,elevated JVP,43,55,P
+record-106,4301,4485,trace bilateral ankle edema,58,85,P
+record-106,4301,4485,acute MI,174,182,P
+record-106,4301,4485,pulmonary edema,136,151,U
+record-106,4301,4485,diffuse opacities,101,118,P
+record-106,4545,4613,respiratory difficulty,19,41,N
+record-106,4644,4750,mild pulm edema,34,49,P
+record-106,4750,4817,weight gain,31,42,H
+record-106,4750,4817,shortness of breath,46,65,H
+record-106,4818,4867,mild elevated WBC,30,47,P
+record-106,4818,4867,Leukocytosis-,2,15,P
+record-106,4879,4902,few bacteria,9,21,P
+record-106,4902,4983,afebrile,71,79,N
+record-106,4983,5084,positive,91,99,H
+record-106,5328,5439,constipation,97,109,H
+record-106,6099,6209,indigestion,97,108,H
+record-106,6209,6316,shortness of breath,74,93,H
+record-106,6209,6316,wheezing,97,105,H
+record-106,6316,6387,weight gain,35,46,H
+record-106,6316,6387,shortness of breath,50,69,H
+record-106,6442,6448,NSTEMI,0,6,P
+record-106,6448,6467,Atrial Fibrillation,0,19,P
+record-106,6467,6470,HTN,0,3,P
+record-106,6490,6545,chest pain,16,26,N
+record-106,6701,6842,chest pain,31,41,H
+record-106,6701,6842,shortness of breath,44,63,H
+record-106,6701,6842,vomiting,75,83,H
+record-106,6701,6842,nausea,66,72,H
+record-106,6701,6842,fevers,86,92,H
+record-106,6701,6842,chills,95,101,H
+record-107,112,280,fetal bradycardia,74,91,P
+record-107,280,445,increased blood pressure,123,147,P
+record-107,280,445,proteinuria,152,163,P
+record-107,549,645,vaginal bleeding,46,62,P
+record-107,549,645,fetal bradycardia,67,84,P
+record-107,696,764,spontaneous respiratory effort,36,66,N
+record-107,696,764,limp,19,23,P
+record-107,936,970,rubella,18,25,N
+record-107,1036,1094,mild to moderate respiratory distress,19,56,P
+record-107,1257,1300,defects,34,41,N
+record-107,1257,1300,masses,24,30,N
+record-107,1300,1361,coarse bilaterally,15,33,P
+record-107,1300,1361,moderate retractions,39,59,P
+record-107,1361,1453,murmurs,63,70,N
+record-107,1484,1566,nontender,32,41,N
+record-107,1484,1566,nondistended,44,56,N
+record-107,1484,1566,hepatosplenomegaly,62,80,N
+record-107,1670,1702,clunk,25,30,N
+record-107,1745,1775,lesions,21,28,N
+record-107,1991,2100,some apnea,21,31,P
+record-107,1991,2100,bradycardic spells of prematurity,36,69,P
+record-107,2100,2197,apnea,68,73,N
+record-107,2100,2197,bradycardic events,77,95,N
+record-107,2490,2635,his respiratory distress,73,97,P
+record-107,2910,3008,bands,91,96,N
+record-107,3048,3183,physiologic hyperbilirubinemia,13,43,P
+record-107,3469,3565,an erythematous perianal rash,21,50,P
+record-107,4511,4541,chronic lung disease,8,28,P
+record-107,4541,4686,chronic lung disease,89,109,P
+record-107,4686,4815,influenza,96,105,O
+record-107,4836,4868,Prematurity,3,14,P
+record-107,4868,4906,sepsis,12,18,U
+record-107,4906,4947,prematurity,28,39,P
+record-107,4906,4947,bradycardia,13,24,P
+record-107,4906,4947,Apnea,3,8,P
+record-107,4947,4970,Hyperbilirubinemia,3,21,P
+record-107,4970,4993,Feeding immaturity,3,21,P
+record-108,272,291,Chronic prostatitis,0,19,P
+record-108,359,519,chronic prostatitis,55,74,P
+record-108,519,737,supraventricular tachycardia,145,173,P
+record-108,519,737,coronary artery disease,89,112,P
+record-108,519,737,interstitial cystitis,27,48,P
+record-108,519,737,a progressive mitochondrial myopathy,180,216,P
+record-108,737,826,dribbling,23,32,P
+record-108,737,826,symptoms,11,19,P
+record-108,737,826,stress incontinence,35,54,P
+record-108,737,826,hematuria,57,66,P
+record-108,737,826,dysuria,80,87,N
+record-108,920,979,Coronary artery disease,3,26,P
+record-108,979,1034,Supraventricular tachycardia,3,31,P
+record-108,1034,1061,Mitochondrial myopathy,3,25,P
+record-108,1061,1129,orthostasis,14,25,P
+record-108,1212,1238,Interstitial cystitis,3,24,P
+record-108,1238,1255,Pericarditis,3,15,P
+record-108,1255,1272,Hypertension,3,15,P
+record-108,1272,1297,Hypercholesterolemia,3,23,P
+record-108,1297,1323,Gastrointestinal bleed,4,26,P
+record-108,1404,1423,MI,11,13,O
+record-108,1423,1446,MI,15,17,O
+record-108,1466,1469,NAD,0,3,N
+record-108,1483,1497,m/r/g,9,14,N
+record-108,1508,1571,tympany,30,37,P
+record-108,1508,1571,hyperactive BS,49,63,N
+record-108,1508,1571,HSM,43,46,N
+record-108,1508,1571,+distension,13,24,P
+record-108,1571,1585,c/c/e,9,14,N
+record-108,1605,1669,Q waves in III,37,51,P
+record-108,1669,1689,TWI,0,3,P
+record-108,2745,2875,indigestion/gas pain,108,128,H
+record-108,2875,3002,indigestion,114,125,H
+record-108,3304,3323,Chronic prostatitis,0,19,P
+record-108,3323,3344,Interstitial cystitis,0,21,P
+record-108,3393,3583,chills,157,163,H
+record-108,3393,3583,fevers,135,141,H
+record-108,3393,3583,new and continuing nausea,96,121,H
+record-108,3393,3583,vomiting,124,132,H
+record-108,3393,3583,shortness of breath,169,188,H
+record-108,3393,3583,symptoms,42,50,H
+record-108,3583,3673,swollen,56,63,H
+record-108,3583,3673,red,50,53,H
+record-108,3583,3673,warm,66,70,H
+record-108,3583,3673,your wound,31,41,P
+record-108,3583,3673,pus,85,88,H
+record-108,3917,4070,clear drainage,18,32,H
+record-108,3917,4070,the drainage,110,122,H
+record-108,3917,4070,your wounds,38,49,H
+record-108,4163,4197,constipation,20,32,C
+record-108,4197,4337,constipation,126,138,H
+record-108,4384,4475,your wounds,78,89,P
+record-109,148,283,stage T2 N0,87,98,P
+record-109,148,283,squamous cell carcinoma,39,62,P
+record-109,283,350,invasive squamous cell carcinoma,33,65,P
+record-109,537,602,chronic obstructive pulmonary disease,26,63,P
+record-109,537,602,hypertension,9,21,P
+record-109,625,702,hernia,61,67,P
+record-109,713,762,anaphylaxis,17,28,C
+record-109,788,926,anxiety,127,134,H
+record-109,1174,1212,mouth tumor,25,36,P
+record-109,1310,1387,invasive squamous cell carcinoma,43,75,P
+record-109,1387,1405,complications,3,16,N
+record-109,1594,1626,Estimated blood loss,0,20,P
+record-109,1650,1668,complications,3,16,N
+record-109,1766,1929,complications,148,161,N
+record-109,2387,2509,pain,55,59,H
+record-109,3155,3172,pneumothorax,3,15,N
+record-109,3621,3740,positive biphasic Doppler signals,84,117,P
+record-109,4114,4271,minimal secretions,109,127,P
+record-121,130,215,multiple familial cavernous hemangiomas,44,83,O
+record-121,320,434,an ear ache,14,25,P
+record-121,434,480,dizziness,35,44,P
+record-121,480,539,unsteady on her feet,37,57,P
+record-121,617,838,decreased hearing,126,143,P
+record-121,617,838,static in her ears,165,183,P
+record-121,617,838,dizziness,84,93,P
+record-121,617,838,meniere 's disease,186,204,U
+record-121,878,1023,This unsteady gait,0,18,P
+record-121,878,1023,"a pins and needle feeling in the face , hands and feet bilaterally",77,143,P
+record-121,1023,1094,progressively worse,16,35,P
+record-121,1023,1094,the sound of static,40,59,P
+record-121,1094,1117,very fatigued,8,21,P
+record-121,1117,1241,a 1.5 cm diameter hyperdense mass in the pons,42,87,P
+record-121,1306,1350,multiple cavernous hemangiomas,12,42,P
+record-121,1350,1470,generalized weakness,98,118,P
+record-121,1350,1470,at least two bleeding episodes,12,42,P
+record-121,1470,1582,at least two generalized seizures,12,45,P
+record-121,1781,1821,hemangiomas,27,38,O
+record-121,1915,1986,acute distress,55,69,N
+record-121,1986,2009,anicteric,12,21,N
+record-121,2043,2133,murmurs,63,70,N
+record-121,2043,2133,gallops,81,88,N
+record-121,2043,2133,rubs,73,77,N
+record-121,2133,2173,distended,29,38,P
+record-121,2133,2173,nontender,15,24,N
+record-121,2173,2202,edema,22,27,N
+record-121,2202,2289,mildly drowsy,72,85,P
+record-121,2345,2446,long response latencies,43,66,P
+record-121,2345,2446,slow,22,26,P
+record-121,2446,2548,abulic,94,100,N
+record-121,2642,2667,dysarthria,13,23,N
+record-121,2688,2734,any special neglect,25,44,N
+record-121,2944,3016,sustained gaze holding nystagmus,8,40,P
+record-121,3016,3047,rotary component,13,29,N
+record-121,3047,3096,a mildly widened right palpable fissure,8,47,P
+record-121,3096,3199,decreased excursion of the right mouth,10,48,P
+record-121,3096,3199,flattening of the right nasolabial fold ( mild ),53,101,P
+record-121,3199,3264,subjectively abnormal,16,37,P
+record-121,3264,3314,diminished,12,22,P
+record-121,3363,3401,a mild left pronator drift,10,36,P
+record-121,3401,3529,slow on the left,52,68,P
+record-121,3401,3529,trouble isolating individual finger movements,81,126,P
+record-121,3529,3582,mild finger-to-nose dysmetria on the left,10,51,P
+record-121,3582,3707,mildly diminished in the finger extensors,10,51,P
+record-121,3707,3791,clonus at the ankles bilaterally,50,82,P
+record-121,3791,3823,bilateral upgoing toes,8,30,P
+record-121,3823,3986,mistakes with position sense,9,37,P
+record-121,3986,4062,very unsteady,22,35,P
+record-121,3986,4062,wide based,9,19,P
+record-121,4062,4151,retropulsed,4,15,P
+record-121,4484,4566,multiple foci susceptibility artifact within the brain,26,80,P
+record-121,4622,4751,subacute blood products in the mid to low pons,27,73,P
+record-121,4622,4751,recent hemorrhage into a cavernous angioma,85,127,U
+record-121,4751,4790,some mild surrounding edema,10,37,P
+record-121,4790,4868,tiny foci artifact within the cerebellum and base of the pons,15,76,P
+record-121,4868,5009,"susceptibility artifact in the left temporal lobe , right frontal lobe , and the splenius of the corpus collasum",27,139,P
+record-121,5052,5131,mild enhancement of the pontine hemorrhagic mass,10,58,P
+record-121,5131,5198,areas of restricted diffusion,13,42,N
+record-121,5131,5198,infarction,55,65,N
+record-121,5233,5314,angiomas,71,79,P
+record-121,5369,5522,the surrounding edema,79,100,P
+record-121,5369,5522,developing hydrocephalus,25,49,N
+record-121,5369,5522,suppression of the fourth ventricle,116,151,U
+record-121,5522,5598,the subacute pontine hemorrhage,43,74,P
+record-121,5522,5598,significant change in size,13,39,N
+record-121,5615,5708,cavernous angiomas,73,91,O
+record-121,5708,5812,a subacute bleed in the mid to lower pons,61,102,P
+record-121,5708,5812,several prior bleeding events,12,41,P
+record-121,5812,5900,a slight right-sided predominance,53,86,P
+record-121,5900,6033,right facial weakness,110,131,N
+record-121,5900,6033,the subtle left hand weakness,76,105,N
+record-121,6033,6177,severely ataxic,18,33,P
+record-121,6033,6177,sensory deafferentation,56,79,U
+record-121,6033,6177,crossing pontine cerebellar fibers,108,142,P
+record-121,6505,6584,Familial cavernous hemangiomas,3,33,O
+record-121,6505,6584,a subacute pontine hemorrhage,48,77,P
+record-121,6584,6607,Severe gait ataxia,3,21,P
+record-121,6630,6679,paresthesias,35,47,P
+record-122,120,235,a left facial mass,95,113,P
+record-122,350,593,benign prostatic hypertrophy,62,90,P
+record-122,350,593,prostate cancer,44,59,P
+record-122,350,593,degenerative joint disease,191,217,P
+record-122,350,593,chronic painless hematuria,162,188,P
+record-122,350,593,a murmur,233,241,P
+record-122,350,593,non Hodgkin 's lymphoma,136,159,P
+record-122,350,593,hypothyroidism,93,107,P
+record-122,628,638,Dementia,0,8,P
+record-122,649,674,known drug allergies,3,23,N
+record-122,771,804,afebrile,23,31,N
+record-122,826,860,somewhat cachectic,14,32,P
+record-122,860,991,visible bone,117,129,P
+record-122,860,991,polypoid lesion,39,54,P
+record-122,991,1003,exudate,3,10,N
+record-122,1003,1021,Minimal bleeding,0,16,P
+record-122,1069,1095,Nontender,0,9,N
+record-122,1069,1095,nondistended,12,24,N
+record-122,1112,1199,this left facial lesion,62,85,P
+record-122,1199,1300,his hematuria,38,51,P
+record-122,1300,1444,hematuria,61,70,P
+record-122,1444,1654,the left face squamous cell cancer,75,109,P
+record-122,1444,1654,the defects,183,194,P
+record-122,1654,1755,hoarse,93,99,P
+record-122,1654,1755,complications,40,53,N
+record-122,1755,1809,significant supraglottic edema,22,52,P
+record-122,1888,1983,some supraglottic edema,14,37,P
+record-122,2306,2497,squamous cell cancer,105,125,P
+record-122,2306,2497,positive level II nodes,166,189,P
+record-123,172,256,UE DVT,54,60,P
+record-123,256,319,dyspnea,10,17,P
+record-123,256,319,mental status changes,40,61,P
+record-123,440,501,postop Afib,48,59,P
+record-123,440,501,right upper extremity DVT,18,43,P
+record-123,613,729,RUE DVT,42,49,P
+record-123,804,816,post-op Afib,0,12,P
+record-123,816,819,HTN,0,3,P
+record-123,819,832,renal calculi,0,13,P
+record-123,832,845,sleep apnea,2,13,U
+record-123,845,863,seasonal allergies,0,18,P
+record-123,863,892,spermatocele,17,29,P
+record-123,1029,1092,MI,48,50,O
+record-123,1029,1092,premature CAD,21,34,O
+record-123,1157,1207,slightly confused,33,50,P
+record-123,1207,1234,JVD,24,27,N
+record-123,1245,1273,murmur,20,26,N
+record-123,1287,1313,NT,12,14,N
+record-123,1287,1313,ND,17,19,N
+record-123,1313,1345,edema,27,32,N
+record-123,1469,1490,MRG,18,21,N
+record-123,1504,1528,NT/ND/NABS,14,24,N
+record-123,1528,1559,CCE,28,31,N
+record-123,2231,2305,positive RUE DVT,32,48,P
+record-123,2305,2531,mental status changes,76,97,P
+record-123,2305,2531,loss of short term memory,110,135,P
+record-123,2305,2531,brief unresponsive period,140,165,P
+record-123,2305,2531,dyspnea,57,64,P
+record-123,2531,2596,Pulmonary embolism,45,63,P
+record-123,2531,2596,CVA,24,27,N
+record-123,2707,2822,platelet drop,54,67,P
+record-123,2822,2896,positive,64,72,P
+record-123,2922,3045,all mental status changes,24,49,N
+record-123,4137,4247,pulmonary embolism,67,85,P
+record-123,4137,4247,RUE DVT,88,95,P
+record-123,4137,4247,HIT positive,98,110,P
+record-123,4247,4288,HTN,6,9,P
+record-123,4247,4288,Renal calculi,12,25,P
+record-123,4247,4288,sleep apnea,28,39,P
+record-123,4314,4366,wounds,30,36,P
+record-124,210,220,Chest Pain,0,10,P
+record-124,338,517,progressive right sided chest pain,123,157,P
+record-124,338,517,Crohn 's,13,21,P
+record-124,338,517,short gut syndrome,51,69,P
+record-124,517,616,sharp 10/10 chest pain under the right breast,15,60,P
+record-124,616,672,The pain,0,8,C
+record-124,767,821,SOB,22,25,P
+record-124,767,821,fevers,37,43,P
+record-124,767,821,chills,46,52,P
+record-124,821,878,n/v,25,28,N
+record-124,821,878,abd pain,14,22,N
+record-124,821,878,increased ostomy output,32,55,N
+record-124,878,997,her fever,6,15,P
+record-124,878,997,sx of chest pain,18,34,P
+record-124,878,997,SOB,39,42,P
+record-124,878,997,an elevated WBC count,54,75,P
+record-124,878,997,a PNA,112,117,U
+record-124,1088,1247,multifocal bilateral PNA,123,147,P
+record-124,1088,1247,PE,155,157,N
+record-124,1088,1247,PE,105,107,U
+record-124,1088,1247,PTX,48,51,N
+record-124,1088,1247,PNA,39,42,N
+record-124,1416,1529,Crohn 's disease,3,19,P
+record-124,1416,1529,short gut syndrome,95,113,P
+record-124,1529,1553,Restless leg syndrome,3,24,P
+record-124,1553,1604,Parkinsons,5,15,U
+record-124,1553,1604,EPS side effects,20,36,U
+record-124,1604,1671,Chronic idiopathic pancreatitis,3,34,P
+record-124,1671,1724,Arthritis,3,12,P
+record-124,1724,1784,Degenerative disc disease,3,28,P
+record-124,1812,1876,Depression,14,24,P
+record-124,1812,1876,mania,59,64,U
+record-124,1812,1876,auditory hallucinations,31,54,P
+record-124,1812,1876,Paranoia,3,11,P
+record-124,1876,2004,clotting,92,100,P
+record-124,1876,2004,short gut syndrome,56,74,P
+record-124,2004,2152,a larger cystic lesion in the tail of the pancreas,96,146,P
+record-124,2004,2152,multiple calcifications in the body and tail of the pancreas,30,90,P
+record-124,2152,2217,A second 9 mm cystic lesion,0,27,P
+record-124,2217,2298,chronic pancreatitis,35,55,P
+record-124,2217,2298,pseudocyst formation,61,81,P
+record-124,2510,2574,Mother-Crohn 's,0,15,O
+record-124,2510,2574,breast CA,52,61,O
+record-124,2510,2574,Daugher-IBS,18,29,O
+record-124,2510,2574,colitis,32,39,O
+record-124,2574,2615,DM,30,32,O
+record-124,2574,2615,CAD,38,41,O
+record-124,2574,2615,Stephanie tumor,9,24,O
+record-124,2842,2868,s2 distant,16,26,P
+record-124,2868,2923,dec. air movement,36,53,P
+record-124,2868,2923,crackles at right base,8,30,P
+record-124,2923,2946,tender over right chest,0,23,P
+record-124,2946,2985,obese,6,11,P
+record-124,2946,2985,multiple surgical scars,14,37,P
+record-124,3027,3099,guarding,53,61,N
+record-124,3027,3099,tender,15,21,P
+record-124,3027,3099,rebound,65,72,N
+record-124,3099,3133,tr edema,6,14,P
+record-124,3672,3721,definite pulmonary embolism,6,33,N
+record-124,3721,3818,multifocal pneumonia,75,95,P
+record-124,3721,3818,Peripheral patchy opacities,3,30,P
+record-124,3818,3979,faint ill-defined opacities,27,54,P
+record-124,3818,3979,a multifocal pneumonic process,129,159,U
+record-124,4008,4118,interval worsening in the left lung,26,61,P
+record-124,4008,4118,Multilobar pneumonia,0,20,P
+record-124,4118,4190,delta MS,64,72,P
+record-124,4202,4259,ischemic,47,55,U
+record-124,4202,4259,Left parietal subcortical hypodensity,0,37,P
+record-124,4259,4310,definite changes,3,19,N
+record-124,4379,4561,sob,177,180,P
+record-124,4379,4561,acute onset pleuritic chest pain,118,150,P
+record-124,4379,4561,chills,164,170,P
+record-124,4379,4561,short gut syndrome,60,78,P
+record-124,4379,4561,Crohn 's disease,13,29,P
+record-124,4379,4561,fever,156,161,P
+record-124,4561,4593,Chills,24,30,P
+record-124,4561,4593,Fever,16,21,P
+record-124,4561,4593,Chest pain,3,13,P
+record-124,4593,4756,multifocal consolidation,105,129,P
+record-124,4593,4756,a bacterial PNA,146,161,P
+record-124,4593,4756,The acute onset of chest pain,0,29,P
+record-124,4593,4756,a PE,64,68,U
+record-124,4756,4873,sob,86,89,P
+record-124,4756,4873,chills,77,83,P
+record-124,4756,4873,an elevated WBC count,94,115,P
+record-124,4756,4873,fever,69,74,P
+record-124,4986,5086,Enterococcus,61,73,P
+record-124,4986,5086,Staph Aureus,44,56,P
+record-124,5086,5135,Staph. Aureus,34,47,P
+record-124,5208,5309,hypoxic,17,24,P
+record-124,5441,5542,ARDS,95,99,U
+record-124,5441,5542,diffuse infiltrative process,51,79,P
+record-124,5600,5680,any complications,61,78,N
+record-124,5680,5790,Her O2 requirement,0,18,P
+record-124,5790,5866,her o2 requirement,17,35,P
+record-124,5922,5998,afebrile,21,29,N
+record-124,6164,6201,multiple port-o-cath clots,9,35,P
+record-124,6290,6430,infected line,61,74,U
+record-124,6430,6438,ARF,3,6,P
+record-124,6438,6587,dehydration,59,70,P
+record-124,6438,6587,mild ARI,18,26,P
+record-124,6596,6643,depression,35,45,P
+record-124,6596,6643,paranoia,24,32,P
+record-124,6997,7072,visual and auditory hallucinations,39,73,P
+record-124,7128,7187,unable to sleep,8,23,P
+record-124,7240,7322,delirium,49,57,P
+record-124,7322,7404,polypharmacy,22,34,P
+record-124,7322,7404,recent infection ( pneumonia ),37,67,P
+record-124,7322,7404,insomnia,72,80,P
+record-124,7404,7460,any acute processes,35,54,N
+record-124,7682,7758,her delirium,62,74,P
+record-124,7810,7849,Akithesia,28,37,P
+record-124,7810,7849,Parkinson 's Disease,5,25,U
+record-124,7885,7894,Pain,3,7,P
+record-124,7894,8022,her usual neuropathy pain,15,40,P
+record-124,7894,8022,significant pain,77,93,P
+record-124,7894,8022,the multi-focal PNA,99,118,P
+record-124,8174,8268,her delirium,80,92,P
+record-124,8320,8456,crohn 's disease,39,55,P
+record-124,8320,8456,short gut syndrome,70,88,P
+record-124,9096,9147,nausea,43,49,H
+record-124,9147,9199,nausea,44,50,H
+record-124,10845,10854,Pneumonia,0,9,P
+record-124,10903,11052,any other worrisome symptom,120,147,H
+record-124,10903,11052,any chest pain,71,85,H
+record-124,10903,11052,shortness of breath,88,107,H
+record-124,10903,11052,fevers,110,116,H
+record-13,117,171,Known Allergies,30,45,N
+record-13,229,248,Shortness of Breath,0,19,P
+record-13,508,596,abnormal ETT,52,64,P
+record-13,508,596,worsening shortness of breath.,17,47,P
+record-13,596,635,severe 3 vessel disease,14,37,P
+record-13,698,809,Arthritis,57,66,P
+record-13,698,809,Hyperlipidemia,40,54,P
+record-13,698,809,Hypertension,25,37,P
+record-13,698,809,Carpal tunnel syndrome,0,22,P
+record-13,698,809,Bell's Palsy,73,85,P
+record-13,698,809,HOH,88,91,P
+record-13,882,926,MI,12,14,O
+record-13,973,1000,NAD,24,27,N
+record-13,1000,1028,NC/AT,23,28,N
+record-13,1028,1075,carotid bruits,33,47,N
+record-13,1028,1075,JVD,25,28,N
+record-13,1075,1095,w/r/r,15,20,N
+record-13,1095,1116,c/r/m/g,14,21,N
+record-13,1116,1138,NT/ND,13,18,N
+record-13,1138,1189,varicosities,39,51,N
+record-13,1138,1189,edema,29,34,N
+record-13,1355,1396,mild inferior wall hypokinesis,9,39,P
+record-13,1396,1491,thinning of the mid to distal inferior septum,35,80,P
+record-13,1396,1491,akinesis,9,17,P
+record-13,1396,1491,dyskinesis,20,30,P
+record-13,1491,1555,mildly depressed,46,62,P
+record-13,1619,1668,mildly dilated,33,47,P
+record-13,1668,1728,simple atheroma in the descending thoracic aorta,10,58,P
+record-13,1767,1802,aortic valve stenosis,12,33,N
+record-13,1802,1835,aortic regurgitation,3,23,N
+record-13,1835,1883,mildly thickened,30,46,P
+record-13,1883,1921,Trivial mitral regurgitation,0,28,P
+record-13,2018,2081,Left lower lobe atelectasis,12,39,P
+record-13,2104,2179,Mild postoperative widening of the cardiomediastinal silhouette,0,63,P
+record-13,2179,2196,pneumothorax,3,15,N
+record-13,3340,3418,burst of atrial fibrillation,12,40,P
+record-13,3682,3741,further episodes of AFIB,10,34,N
+record-13,3741,3832,left arm phlebitis,40,58,P
+record-13,4557,4665,pain,102,106,H
+record-13,6098,6157,Coronary artery disease,0,23,P
+record-13,6157,6229,Hypertension,31,43,P
+record-13,6157,6229,Carpal tunnel syndrome,6,28,P
+record-13,6157,6229,Arthritis,63,72,P
+record-13,6157,6229,Hyperlipidemia,46,60,P
+record-13,6311,6380,increased pain,55,69,H
+record-13,6311,6380,redness,31,38,H
+record-13,6311,6380,drainage,41,49,H
+record-13,6311,6380,wounds,8,14,P
+record-13,6311,6380,infection,19,28,H
+record-13,6380,6413,any fever greater than 101,7,33,H
+record-13,6413,6494,any weight gain,7,22,H
+record-13,6494,6551,incisions,48,57,P
+record-13,7017,7051,surgical incision,4,21,P
+record-14,127,237,dehydrated,98,108,P
+record-14,127,237,slurred speech,78,92,C
+record-14,127,237,hypertension,47,59,P
+record-14,237,331,HTLV exposure,32,45,P
+record-14,237,331,paraplegia,8,18,P
+record-14,331,458,cough,93,98,P
+record-14,331,458,white sputum,113,125,P
+record-14,331,458,shortness of breath,71,90,P
+record-14,331,458,vomiting,60,68,P
+record-14,331,458,nausea,51,57,P
+record-14,331,458,general malaise,33,48,P
+record-14,458,530,nausea,15,21,P
+record-14,458,530,pleuritic chest pain,50,70,P
+record-14,559,624,some difficulty,16,31,P
+record-14,825,872,coarse rhonchi,16,30,P
+record-14,872,915,mild pulmonary edema,21,41,P
+record-14,915,997,pulmonary embolism,31,49,N
+record-14,915,997,consolidation,67,80,P
+record-14,997,1318,hypotensive,55,66,P
+record-14,997,1318,hypotension,308,319,P
+record-14,997,1318,her somnolence,289,303,P
+record-14,1450,1484,Positive lupus anti-coagulant,3,32,P
+record-14,1484,1505,Basilar stenosis,3,19,P
+record-14,1505,1542,Prior transient ischemic attacks,3,35,P
+record-14,1590,1672,HTLV,27,31,P
+record-14,1590,1672,Paraplegia,3,13,P
+record-14,1672,1689,Hypertension,3,15,P
+record-14,1689,1786,Chronic diarrhea,3,19,P
+record-14,1689,1786,dehydration,49,60,P
+record-14,1786,1804,Venous stasis,3,16,P
+record-14,1804,1819,Depression,3,13,P
+record-14,1819,1853,Seizure history,4,19,P
+record-14,1899,1926,Chronic muscle spasms,4,25,P
+record-14,1937,2021,dyspepsia,44,53,C
+record-14,1937,2021,a rash,33,39,P
+record-14,2021,2067,sensitivity,23,34,U
+record-14,2231,2330,apparent distress,80,97,N
+record-14,2389,2455,coarse bilateral rhonchi,19,43,P
+record-14,2455,2555,gallops,91,98,N
+record-14,2455,2555,murmurs,73,80,N
+record-14,2455,2555,rubs,83,87,N
+record-14,2555,2594,obese,20,25,P
+record-14,2555,2594,nontender,28,37,N
+record-14,2623,2733,two plus lower extremity edema,24,54,P
+record-14,2934,3110,change,128,134,N
+record-14,2934,3110,recent bleed,108,120,N
+record-14,3110,3186,sinus tachycardia,19,36,P
+record-14,3186,3260,mid-basilar artery high-grade stenosis,34,72,P
+record-14,3277,3403,pneumonia,115,124,U
+record-14,3403,3473,her chronic diarrhea,7,27,P
+record-14,3473,3531,her depression,4,18,P
+record-14,3531,3618,her paraplegia,4,18,P
+record-14,3531,3618,muscle spasticity,34,51,P
+record-14,3765,3868,dysphagia,92,101,P
+record-14,4047,4205,a persistent cough,102,120,P
+record-14,4047,4205,some low grade fevers,125,146,P
+record-14,4205,4362,any dysphagia,142,155,N
+record-14,4362,4537,her positive lupus anti-coagulant status,78,118,P
+record-14,4362,4537,her basilar artery stenosis,146,173,P
+record-14,5883,6047,her neurological deficits,112,137,P
+record-140,123,510,coronary artery disease,67,90,P
+record-140,123,510,substernal chest pain,343,364,C
+record-140,123,510,hypertension,237,249,P
+record-140,123,510,hypercholesterolemia,284,304,P
+record-140,123,510,new onset type 2 diabetes,252,277,P
+record-140,510,684,substernal burning,99,117,C
+record-140,760,871,The pain,0,8,P
+record-140,983,1190,headache,59,67,N
+record-140,983,1190,slight shortness of breath,21,47,P
+record-140,983,1190,nausea,101,107,N
+record-140,983,1190,change in vision,70,86,N
+record-140,983,1190,change in bowel or urinary habits,138,171,N
+record-140,983,1190,vomiting,110,118,N
+record-140,983,1190,sweats,199,205,N
+record-140,983,1190,chills,186,192,N
+record-140,983,1190,fevers,177,183,N
+record-140,983,1190,abdominal pain,121,135,N
+record-140,983,1190,dizziness,89,98,N
+record-140,1295,1463,his pain,123,131,P
+record-140,1295,1463,symptoms,158,166,P
+record-140,1463,1556,ST elevations,38,51,P
+record-140,1463,1556,J point elevations in V2 through V4,56,91,P
+record-140,1639,1769,50% stenosis of first diagonal,98,128,P
+record-140,1639,1769,100% occlusion of the proximal left anterior descending artery,31,93,P
+record-140,2087,2352,Coronary artery disease,3,26,P
+record-140,2352,2372,Type 2 diabetes,3,18,P
+record-140,2372,2397,Hypercholesterolemia,3,23,P
+record-140,2397,2414,Hypertension,3,15,P
+record-140,2430,2557,a myocardial infarction,30,53,O
+record-140,2430,2557,a myocardial infarction,92,115,O
+record-140,2863,2905,Allergies,0,9,C
+record-140,3346,3398,apparent distress,33,50,N
+record-140,3578,3598,lymphadenopathy,3,18,N
+record-140,3671,3738,jugular venous distention,24,49,N
+record-140,3738,3808,bilateral bruits,52,68,P
+record-140,3842,3855,S4,9,11,N
+record-140,3842,3855,S3,3,5,N
+record-140,3855,3885,rubs,13,17,N
+record-140,3855,3885,murmurs,3,10,N
+record-140,3855,3885,gallops,21,28,N
+record-140,3885,3959,nondistended,60,72,N
+record-140,3885,3959,nontender,44,53,N
+record-140,3885,3959,decreased bowel sounds,12,34,P
+record-140,3959,3982,hepatosplenomegaly,3,21,N
+record-140,4004,4030,edema,19,24,N
+record-140,4030,4176,tenderness,134,144,N
+record-140,4944,5055,J point elevations in V2 through V3,74,109,P
+record-140,4944,5055,continued ST elevations,46,69,P
+record-140,5055,5273,moderate systolic dysfunction,73,102,P
+record-140,5055,5273,basal anterior hypokinesis,105,131,P
+record-140,5055,5273,mid anterior akinesis,134,155,P
+record-140,5055,5273,basal anteroseptal hypokinesis,158,188,P
+record-140,5055,5273,mid anteroseptal akinesis,191,216,P
+record-140,5273,5342,apex akinesis,54,67,P
+record-140,5273,5342,inferior apex akinesis,25,47,P
+record-140,5273,5342,Anterior apex akinesis,0,22,P
+record-140,5342,5412,trace mitral regurgitation,8,34,P
+record-140,5342,5412,trace tricuspid regurgitation,39,68,P
+record-140,5424,5960,coronary artery disease,116,139,P
+record-140,5424,5960,acute coronary syndrome,232,255,P
+record-140,5424,5960,type 2 diabetes,60,75,P
+record-140,5424,5960,hypertension,97,109,P
+record-140,5424,5960,high cholesterol,78,94,P
+record-141,111,165,Known Allergies to Drugs,30,54,N
+record-141,216,235,Shortness of Breath,0,19,P
+record-141,428,610,CAD,21,24,P
+record-141,428,610,COPD,51,55,P
+record-141,428,610,T2DM,58,62,P
+record-141,428,610,worsening SOB,136,149,P
+record-141,428,610,AICD pocket infection,69,90,P
+record-141,610,721,worsening SOB,76,89,P
+record-141,905,1004,cloudy,38,44,P
+record-141,905,1004,his worsening SOB,80,97,P
+record-141,1004,1150,several complications,60,81,P
+record-141,1004,1150,an AICD pocket infection,120,144,P
+record-141,1004,1150,very deconditioned,28,46,P
+record-141,1150,1201,N/V/D,19,24,N
+record-141,1150,1201,abdominal pain,27,41,N
+record-141,1150,1201,HA,47,49,N
+record-141,1150,1201,any CP,10,16,N
+record-141,1360,1434,back pain,26,35,P
+record-141,1625,1782,pericardial effusion,111,131,P
+record-141,1625,1782,hematoma,134,142,P
+record-141,1625,1782,pericardial effusion,46,66,P
+record-141,1625,1782,AICD Pocket infection,2,23,P
+record-141,1625,1782,MSSA bacteremia,28,43,P
+record-141,1782,1886,Ischemic colitis,2,18,P
+record-141,1782,1886,ischemic liver,23,37,P
+record-141,1782,1886,air embolism,56,68,P
+record-141,1886,1917,CAD,2,5,P
+record-141,1917,1954,nephropathy,26,37,P
+record-141,1917,1954,neuropathy,11,21,P
+record-141,1917,1954,T2DM,2,6,P
+record-141,1954,1960,COPD,2,6,P
+record-141,1960,1976,Hypothyroidism,2,16,P
+record-141,1976,1981,CVA,2,5,P
+record-141,2002,2018,Hyperlipidemia,2,16,P
+record-141,2018,2024,GERD,2,6,P
+record-141,2024,2037,Chronic LBP,2,13,P
+record-141,2037,2059,Lumbar sympathectomy,2,22,P
+record-141,2255,2277,diabetes,12,20,O
+record-141,2387,2453,Slight confustion,0,17,P
+record-141,2505,2557,increased neck girth,30,50,P
+record-141,2505,2557,JVD,0,3,U
+record-141,2561,2597,+S3,31,34,P
+record-141,2561,2597,Grade II/VI SEM,13,28,P
+record-141,2603,2640,Crackles halfway up lung fields B/L,0,35,P
+record-141,2645,2679,NT/ND,7,12,N
+record-141,2684,2715,pitting edema to knees B/L,3,29,P
+record-141,3440,3592,Congestive heart failure,0,24,P
+record-141,3440,3592,bilateral effusions,30,49,P
+record-141,3440,3592,underlying consolidation in the RLL,76,111,U
+record-141,3714,3746,markedly enlarged,13,30,P
+record-141,3746,3835,a large right and small left pleural effusion,14,59,P
+record-141,3835,3945,congestive heart failure,19,43,P
+record-141,3945,4019,Underlying infectious consolidation in the right lower lobe,0,59,U
+record-141,4037,4072,mildly dilated,19,33,P
+record-141,4072,4126,mild symmetric left ventricular hypertrophy,9,52,P
+record-141,4170,4210,depressed,29,38,P
+record-141,4210,4301,inferior and inferolateral hypokinesis,51,89,P
+record-141,4210,4301,Resting regional wall motion abnormalities,0,42,P
+record-141,4301,4387,mildly impaired,69,84,U
+record-141,4387,4422,mildly dilated,19,33,P
+record-141,4422,4461,mildly dilated,23,37,P
+record-141,4461,4509,mildly thickened,30,46,P
+record-141,4673,4721,mildly thickened,30,46,P
+record-141,4721,4838,a restrictive filling abnormality,45,78,P
+record-141,4721,4838,elevated left atrial pressure,86,115,P
+record-141,4838,4970,Grade III/IV ( severe ) left ventricular diastolic dysfunction,68,130,P
+record-141,4970,5021,mildly thickened,33,49,P
+record-141,5021,5075,mild pulmonary artery systolic hypertension,9,52,P
+record-141,5075,5109,pericardial effusion,12,32,N
+record-141,5240,5275,mildly dilated,19,33,P
+record-141,5395,5443,mildly thickened,30,46,P
+record-141,5443,5491,mildly thickened,30,46,P
+record-141,5491,5525,pericardial effusion,12,32,N
+record-141,5755,5825,pulmonary edema,53,68,P
+record-141,5755,5825,Increasing large right-sided pleural effusion,3,48,P
+record-141,5825,5929,Scattered parenchymal opacities in the left lower lobe,0,54,P
+record-141,5825,5929,superimposed infection,65,87,U
+record-141,5825,5929,atelectasis,91,102,U
+record-141,5929,5962,abscess,24,31,N
+record-141,6018,6080,pulmonary edema,45,60,P
+record-141,6080,6134,A small right pleural effusion,0,30,P
+record-141,6134,6163,Mild cardiomegaly,0,17,P
+record-141,6163,6189,pneumothorax,12,24,N
+record-141,6282,6329,pulmonary edema,30,45,P
+record-141,6362,6534,shift of normally midline structures,76,112,N
+record-141,6362,6534,acute major or minor vascular territorial infarction,118,170,N
+record-141,6362,6534,mass effect,62,73,N
+record-141,6362,6534,intraaxial or extraaxial hemorrhage,24,59,N
+record-141,6534,6617,mildly prominent,29,45,P
+record-141,6669,6820,subtle hypodensities within the periventricular white matter,15,75,P
+record-141,6669,6820,chronic microvascular ischemic changes,102,140,P
+record-141,6820,6876,Extensive carotid artery calcifications,0,39,P
+record-141,7001,7045,acute or chronic infarction,15,42,N
+record-141,7045,7120,Stable microvascular ischemic changes in the periventricular white matter,0,73,P
+record-141,7151,7258,the moderately slow posterior background,20,60,P
+record-141,7151,7258,generalized slowing,86,105,P
+record-141,7151,7258,Abnormal EEG,0,12,P
+record-141,7258,7373,a widespread encephalopathic condition,24,62,P
+record-141,7373,7460,infection,43,52,P
+record-141,7373,7460,metabolic disturbances,14,36,P
+record-141,7460,7549,epileptiform features,66,87,N
+record-141,7460,7549,prominent focal abnormalities,3,32,N
+record-141,7549,7621,occasional irregularities,27,52,P
+record-141,7649,7816,COPD,55,59,P
+record-141,7649,7816,hyperlipidemia,34,48,P
+record-141,7649,7816,T2DM,27,31,P
+record-141,7649,7816,CAD,21,24,P
+record-141,7649,7816,worsening SOB,105,118,P
+record-141,7816,8004,hypotension,119,130,P
+record-141,8004,8065,fluid overloaded,12,28,P
+record-141,8149,8213,CHF exacerbation,46,62,U
+record-141,8442,8516,hypotensive,31,42,P
+record-141,8750,8848,volume overloaded,28,45,P
+record-141,8750,8848,his oxygen requirement,74,96,P
+record-141,8848,9036,volume overloaded,78,95,P
+record-141,8848,9036,elevated CVP,137,149,P
+record-141,8848,9036,an elevated PAD,117,132,P
+record-141,9036,9246,a high CO,12,21,P
+record-141,9036,9246,sepsis,48,54,U
+record-141,9036,9246,low SVR,26,33,P
+record-141,9036,9246,an elevated WBC,74,89,N
+record-141,9036,9246,afebrile,98,106,N
+record-141,9496,9619,inferior and inferolateral hypokinesis,83,121,P
+record-141,9683,9793,peripheral edema,92,108,N
+record-141,9820,9828,Ischemia,0,8,P
+record-141,9828,9935,an initial troponin bump,16,40,P
+record-141,9828,9935,CHF exacerbation,89,105,P
+record-141,9935,10012,further issues,61,75,N
+record-141,10018,10094,completely pacer-dependent,15,41,P
+record-141,10094,10177,post-op afib,24,36,P
+record-141,10177,10279,atrial flutter,25,39,P
+record-141,10387,10453,supratherapeutic,26,42,P
+record-141,10703,10724,SOB,3,6,P
+record-141,10724,10806,CHF exacerbation,14,30,P
+record-141,10806,11018,his massive fluid overload,184,210,P
+record-141,11018,11162,medication non-compliance,73,98,P
+record-141,11265,11305,Metabolic Alkalosis,3,22,P
+record-141,11265,11305,Hypochloremia,25,38,P
+record-141,11305,11392,post-hypercapnia,69,85,U
+record-141,11305,11392,contraction alkalosis,38,59,U
+record-141,11392,11649,agitation,212,221,P
+record-141,11392,11649,mental status changes,73,94,P
+record-141,11392,11649,a preexisting alkalosis,232,255,P
+record-141,11392,11649,a depressed respiratory drive,149,178,P
+record-141,11789,11906,the metabolic alkalosis,92,115,P
+record-141,11906,12035,serosanguinous fluid,74,94,P
+record-141,11906,12035,Pleural effusions,3,20,P
+record-141,12098,12196,The right pleural effusion,0,26,P
+record-141,12196,12319,complications,110,123,N
+record-141,12196,12319,the effusion,33,45,P
+record-141,12319,12328,T2DM,3,7,P
+record-141,12528,12547,Hyperlipidemia,3,17,P
+record-141,12588,12597,COPD,3,7,P
+record-141,12630,12645,MS changes,3,13,P
+record-141,12645,12765,delerium,71,79,P
+record-141,12645,12765,metabolic abnormalities,95,118,P
+record-141,12645,12765,baseline dementia,29,46,P
+record-141,12849,12971,a change in mental status,95,120,N
+record-141,12849,12971,old lacunar infarcts,50,70,P
+record-141,12971,13030,mild encephalopathy,14,33,P
+record-141,13147,13166,Hypothyroidism,3,17,P
+record-141,13233,13244,UTI,6,9,P
+record-141,13244,13366,UTI,87,90,U
+record-141,13441,13470,Chronic lower back pain,4,27,P
+record-141,13535,13600,somnolence,38,48,P
+record-141,13535,13600,MS changes,53,63,P
+record-141,13616,13682,left chest wound,16,32,P
+record-141,13616,13682,left gluteal pressure ulcer,37,64,P
+record-141,13760,13989,the left gluteal pressure ulcer,4,35,P
+record-141,13989,14172,the left chest wound,4,24,P
+record-141,15052,15163,Constipation,97,109,H
+record-141,16108,16223,pain,109,113,H
+record-141,18272,18309,Congestive Heart Failure exacerbation,0,37,P
+record-141,18320,18343,Coronary Artery Disease,0,23,P
+record-141,18343,18355,Hypertension,0,12,P
+record-141,18355,18379,Type 2 Diabetes Mellitus,0,24,P
+record-141,18379,18416,Chronic Obstructive Pulmonary Disease,0,37,P
+record-141,18437,18527,afebrile,53,61,N
+record-141,18551,18619,a CHF exacerbation,48,66,P
+record-141,18841,19037,any other concerning symptom,166,194,H
+record-141,18841,19037,chest pain,124,134,H
+record-141,18841,19037,dizziness,137,146,H
+record-141,18841,19037,passing out,149,160,H
+record-141,18841,19037,worsening shortness of breath,92,121,H
+record-142,175,256,chronic respiratory distress,51,79,P
+record-142,346,757,sepsis,318,324,P
+record-142,346,757,respiratory failure,191,210,P
+record-142,346,757,pulmonary edema,229,244,P
+record-142,346,757,failure to wean,300,315,P
+record-142,346,757,C.difficile colitis,329,348,P
+record-142,346,757,STEMI,183,188,P
+record-142,825,978,ventilator dependent,65,85,P
+record-142,978,1096,MRSA,46,50,P
+record-142,978,1096,Pseudomonas,30,41,P
+record-142,1149,1258,coughing,99,107,P
+record-142,1293,1363,cyanotic,25,33,P
+record-142,1293,1363,dusky,15,20,P
+record-142,1293,1363,stopped breathing,40,57,P
+record-142,1500,1600,BP dropped,21,31,P
+record-142,1600,1627,acute changes,12,25,N
+record-142,1871,1930,C.diff,15,21,U
+record-142,1952,2080,Non-small cell lung cancer,3,29,P
+record-142,1952,2080,recurrence,116,126,P
+record-142,2080,2111,Chronic left pleural effusion,0,29,P
+record-142,2111,2146,SSS,3,6,P
+record-142,2146,2168,COPD/bronchiectasis,3,22,P
+record-142,2168,2183,Hypertension,3,15,P
+record-142,2183,2211,CAD,3,6,P
+record-142,2211,2256,CHF,3,6,P
+record-142,2256,2262,BPH,3,6,P
+record-142,2262,2275,Depression,3,13,P
+record-142,2275,2312,Left femoral AV fistula,3,26,P
+record-142,2312,2385,sepsis,30,36,P
+record-142,2312,2385,Recent MRSA pneumonia,4,25,P
+record-142,2385,2449,C. difficile colitis,4,24,P
+record-142,2494,2555,failure to wean,46,61,P
+record-142,3115,3142,Pupils minimally reactive,0,25,P
+record-142,3142,3160,Sclera anicteric,0,16,N
+record-142,3194,3237,Bronchial breathing over right hemithorax,0,41,P
+record-142,3237,3274,Ronchorous breath sounds left chest,0,35,P
+record-142,3321,3327,S4,2,4,P
+record-142,3327,3350,murmur,3,9,N
+record-142,3354,3392,drainage,28,36,N
+record-142,3392,3417,hypoactive,13,23,P
+record-142,3431,3460,grimacing,3,12,N
+record-142,3487,3535,sacral edema,34,46,P
+record-142,3487,3535,2+ edema both upper extremities,0,31,P
+record-142,3535,3553,Cool extremities,0,16,P
+record-142,4168,4220,Atrial fibrillation,0,19,P
+record-142,4233,4247,Old TWI V4-6,0,12,P
+record-142,4260,4301,Afib,0,4,P
+record-142,4314,4346,Long QT interval,0,16,P
+record-142,4346,4369,"ST depressions V4 , 5",0,21,P
+record-142,4369,4394,Mild ST elevation in V3,0,23,P
+record-142,4394,4408,Old TWI V4-6,0,12,P
+record-142,4526,4564,effusion,28,36,U
+record-142,4526,4564,Blunting of left CPA,0,20,P
+record-142,4564,4632,New lower left lateral CW opacity,0,33,P
+record-142,4564,4632,loculated pleural fluid,43,66,U
+record-142,4649,4700,Left-to-right shunt across the interatrial septum,0,49,P
+record-142,4710,4868,mid to distal septal akinesis,20,49,P
+record-142,4710,4868,apical akinesis,52,67,P
+record-142,4710,4868,inferior akinesis/hypokinesis,70,99,P
+record-142,4710,4868,mid to distal anterolateral hypokinesis,106,145,P
+record-142,4710,4868,akinesis,148,156,P
+record-142,4868,4920,apical thrombus,12,27,N
+record-142,4920,4931,AR,7,9,P
+record-142,4931,4943,Trivial MR,0,10,P
+record-142,4943,4950,TR,3,5,P
+record-142,4970,5130,subacute infarction,139,158,U
+record-142,4970,5130,New rounded low-density area,0,28,P
+record-142,5214,5250,pulmonary embolism,16,34,N
+record-142,5250,5302,fluid overload,36,50,U
+record-142,5250,5302,failure,25,32,U
+record-142,5302,5471,so-called pseudotumor,105,126,P
+record-142,5302,5471,small loculated pleural fluid collection along the periphery,15,75,P
+record-142,5568,5789,hyperdynamic,90,102,U
+record-142,5568,5789,regional contraction abnormality,111,143,N
+record-142,5789,5891,masses,3,9,N
+record-142,5789,5891,thrombi,13,20,N
+record-142,5891,5930,mildly dilated,23,37,P
+record-142,5930,5965,aortic valve stenosis,12,33,N
+record-142,5965,6007,Mild ( 1+ ) aortic regurgitation,0,32,P
+record-142,6007,6045,Trivial mitral regurgitation,0,28,P
+record-142,6045,6111,impaired relaxation,45,64,P
+record-142,6111,6150,a small pericardial effusion,9,37,P
+record-142,6150,6199,tamponade,40,49,N
+record-142,6215,6377,Markedly abnormal portable EEG,0,30,P
+record-142,6215,6377,the bursts of generalized slowing,98,131,P
+record-142,6215,6377,the voltage suppression over the left hemisphere,38,86,P
+record-142,6215,6377,right hemisphere slowing,136,160,P
+record-142,6377,6564,The first abnormality,0,21,P
+record-142,6377,6564,widespread cortical dysfunction on that side,141,185,U
+record-142,6377,6564,material ( such as subdural fluid ) interposed between the brain,48,112,U
+record-142,6631,6715,The generalized slowing,0,23,P
+record-142,6631,6715,a non specific dysfunction in midline structures,34,82,P
+record-142,6715,6785,subcortical dysfunction on the right side,27,68,P
+record-142,6785,6821,epileptiform features,3,24,N
+record-142,7042,7108,PSEUDOMONAS AERUGINOSA,42,64,P
+record-142,7221,7349,a pseudomonal pneumonia,103,126,P
+record-142,7221,7349,respiratory failure,30,49,P
+record-142,7221,7349,mucus plugging,77,91,U
+record-142,7472,7568,his recent acute decline in mental status,53,94,P
+record-142,7653,7738,a small left basal ganglia infarct,26,60,P
+record-142,7653,7738,cardioembolic,70,83,U
+record-142,7738,7962,a more pervasive process,123,147,P
+record-142,7738,7962,"his new , severe global deficit",53,84,P
+record-142,7738,7962,anoxic encephalopathy,157,178,U
+record-142,9118,9139,Anoxic encephalopathy,0,21,P
+record-142,9139,9164,Acute respiratory failure,0,25,P
+record-142,9164,9191,Chronic respiratory failure,0,27,P
+record-142,9191,9212,Pseudomonal pneumonia,0,21,P
+record-142,9212,9227,Volume overload,0,15,P
+record-142,9227,9264,Chronic obstructive pulmonary disease,0,37,P
+record-142,9264,9278,Bronchiectasis,0,14,P
+record-142,9278,9290,Hyponatremia,0,12,P
+record-142,9290,9315,Anemia of chronic disease,0,25,P
+record-142,9326,9455,recurrence,117,127,P
+record-142,9326,9455,Non-small cell lung cancer,3,29,P
+record-142,9455,9486,Chronic left pleural effusion,0,29,P
+record-142,9486,9537,Sick Sinus Syndrome,3,22,P
+record-142,9537,9559,COPD/bronchiectasis,3,22,P
+record-142,9559,9574,Hypertension,3,15,P
+record-142,9574,9602,CAD,3,6,P
+record-142,9602,9647,CHF,3,6,P
+record-142,9647,9653,BPH,3,6,P
+record-142,9653,9666,Depression,3,13,P
+record-142,9666,9703,Left femoral AV fistula,3,26,P
+record-142,9703,9776,sepsis,30,36,P
+record-142,9703,9776,Recent MRSA pneumonia,4,25,P
+record-142,9776,9840,C. difficile colitis,4,24,P
+record-142,9885,9946,failure to wean,46,61,P
+record-143,182,205,fever,18,23,P
+record-143,345,506,ESRD,39,43,P
+record-143,345,506,PEA arrest,91,101,P
+record-143,345,506,sepsis,133,139,P
+record-143,345,506,type 2 DM,52,61,P
+record-143,345,506,recent PE,68,77,P
+record-143,506,651,overdiuresis,126,138,P
+record-143,506,651,hypotension,87,98,P
+record-143,651,797,C diff in her stool,125,144,P
+record-143,651,797,citrobacter in her urine,96,120,P
+record-143,651,797,the hypotension,32,47,P
+record-143,651,797,a septic component,10,28,U
+record-143,924,1042,fevers,55,61,P
+record-143,924,1042,a headache,40,50,P
+record-143,1042,1106,fatigue,34,41,P
+record-143,1106,1172,working hard to breath,42,64,P
+record-143,1172,1247,febrile,20,27,P
+record-143,1329,1402,abdominal pain,37,51,N
+record-143,1329,1402,CP,28,30,N
+record-143,1329,1402,SOB,22,25,N
+record-143,1402,1447,a left frontal headache,20,43,P
+record-143,1447,1583,initial hypertensive,102,122,P
+record-143,1447,1583,tachycardia,67,78,P
+record-143,1447,1583,a fever,48,55,P
+record-143,1583,1649,tachypneic,48,58,P
+record-143,1649,1712,obtunded,8,16,P
+record-143,2014,2109,continued hypotension,72,93,P
+record-143,2161,2245,bedbound,23,31,P
+record-143,2161,2245,her multiple LE femur fractures,51,82,P
+record-143,2267,2294,Type 2 diabetes mellitus,3,27,P
+record-143,2294,2360,ESRD,37,41,P
+record-143,2294,2360,Diabetic nephropathy,3,23,P
+record-143,2360,2418,her illness,45,56,P
+record-143,2467,2501,Status post left femur fracture,3,34,P
+record-143,2501,2516,Hyponatremia,3,15,P
+record-143,2516,2539,Hypercholesterolemia,3,23,P
+record-143,2539,2555,Unsteady gait,3,16,P
+record-143,2555,2567,Cataracts,3,12,P
+record-143,2567,2579,Back pain,3,12,P
+record-143,2579,2594,Hypertension,3,15,P
+record-143,2594,2623,Anemia of chronic disease,4,29,P
+record-143,2623,2764,a left humeral fracuture,46,70,P
+record-143,2623,2764,a PEA arrest,111,123,P
+record-143,2623,2764,PE,137,139,P
+record-143,2764,2803,PE,4,6,P
+record-143,2764,2803,PEA arrest,29,39,P
+record-143,3128,3146,Anicteric sclera,0,16,N
+record-143,3173,3183,"m,r,g",3,8,N
+record-143,3207,3224,Obese,10,15,P
+record-143,3230,3234,NT,0,2,N
+record-143,3234,3238,ND,0,2,N
+record-143,3261,3293,Feet mildly cool,14,30,P
+record-143,3319,3350,2+ pitting edema bilateral LE,0,29,P
+record-143,3350,3379,Skin breakdown between toes,0,27,P
+record-143,3379,3438,Pressure ulcers under bilateral LE,0,34,P
+record-143,3438,3462,infected,14,22,N
+record-143,3462,3508,warmth of left LE,27,44,U
+record-143,3462,3508,mild erythema,9,22,U
+record-143,3508,3525,Sedated,8,15,P
+record-143,5012,5077,VRE,62,65,P
+record-143,5012,5077,VRE,24,27,P
+record-143,5351,5512,PEA arrest,91,101,P
+record-143,5351,5512,sepsis,133,139,P
+record-143,5351,5512,type 2 DM,52,61,P
+record-143,5351,5512,recent PE,68,77,P
+record-143,5351,5512,ESRD,39,43,P
+record-143,5351,5512,PMH,19,22,P
+record-143,5512,5556,Sepsis,3,9,P
+record-143,5556,5682,headache,17,25,P
+record-143,5556,5682,fever,85,90,P
+record-143,5857,5917,infection,49,58,N
+record-143,5952,6000,contamination,33,46,P
+record-143,6053,6138,infection,74,83,N
+record-143,6053,6138,Patient 's LE ulcers,0,20,P
+record-143,6138,6219,slightly erythematous,17,38,P
+record-143,6236,6298,influenza,19,28,N
+record-143,6452,6534,empiric line infection,58,80,P
+record-143,6534,6657,VRE,37,40,P
+record-143,6793,6873,spike,73,78,H
+record-143,6873,7007,VRE infection in the urine,106,132,U
+record-143,6873,7007,hypotensive,40,51,P
+record-143,6873,7007,a temperature,15,28,P
+record-143,7052,7162,yeast in the urine,40,58,P
+record-143,7162,7295,C. Diff. Colitis,34,50,U
+record-143,7377,7458,change in mental status,56,79,P
+record-143,7492,7652,associated symptoms,139,158,N
+record-143,7492,7652,chest pain,43,53,P
+record-143,7492,7652,ECG changes,3,14,P
+record-143,7652,7693,new diffuse TWI in all leads,11,39,P
+record-143,7738,7791,WMA,31,34,P
+record-143,7988,8132,Shoulder fracture,3,20,P
+record-143,7988,8132,s/p a left hip fracture,34,57,P
+record-143,7988,8132,a left shoulder fracture,90,114,P
+record-143,8132,8228,a new humerus fracture distal to the hardware,26,71,P
+record-143,8228,8298,trauma,27,33,P
+record-143,8442,8574,Type 2 DM,3,12,P
+record-143,8442,8574,septic,72,78,P
+record-143,8574,8636,ESRD,3,7,P
+record-143,8574,8636,her DM,41,47,P
+record-143,8574,8636,ESRD,23,27,P
+record-143,8636,8694,slightly limited,25,41,P
+record-143,8636,8694,hypotension,45,56,P
+record-143,8795,8829,PE,3,5,P
+record-143,9092,9100,PVD,3,6,P
+record-143,9100,9178,necrosis of the heels and posterior calf,36,76,P
+record-143,9100,9178,Dry gangrene of toes bilaterally,0,32,P
+record-143,9178,9221,infection,32,41,H
+record-143,9273,9325,decub,45,50,H
+record-143,9325,9475,a clot,99,105,U
+record-143,9325,9475,an abscess in the area,108,130,U
+record-143,9325,9475,more edematous,20,34,P
+record-143,9325,9475,fracture,70,78,P
+record-143,9475,9500,clot,19,23,N
+record-143,12256,12272,Sepsis,0,6,P
+record-143,12272,12404,s/p PEA arrest,112,126,P
+record-143,12272,12404,anemia of chornic disease,77,102,P
+record-143,12272,12404,type 2 diabetes,41,56,P
+record-143,12272,12404,Chronic Kidney disease,0,22,P
+record-143,12272,12404,PE,107,109,P
+record-143,12272,12404,hypercholestrolemia,57,76,P
+record-143,12455,12536,fevers,46,52,P
+record-143,12455,12536,low blood pressure,23,41,P
+record-143,12455,12536,an infection,67,79,U
+record-143,12536,12666,some bacteria in the urine,70,96,P
+record-143,12536,12666,any bacteria,25,37,N
+record-143,12833,12924,chest pain,12,22,H
+record-143,12833,12924,shortness of breath,25,44,H
+record-143,12833,12924,diahrrea,47,55,H
+record-143,12833,12924,fevers,59,65,H
+record-143,12924,12999,the shortness of breath,7,30,H
+record-143,12999,13075,fevers,12,18,H
+record-144,128,418,a recent cardiac myocardial infarction,174,212,P
+record-144,128,418,pulmonary hypertension,215,237,P
+record-144,128,418,congestive heart failure,112,136,P
+record-144,128,418,mitral regurgitation,242,262,P
+record-144,128,418,atrial fibrillation,269,288,P
+record-144,418,597,weight gain,143,154,P
+record-144,418,597,abdominal fullness,159,177,P
+record-144,418,597,fatigue,133,140,P
+record-144,418,597,increasing shortness of breath,98,128,P
+record-144,661,780,chronic mild dyspnea,50,70,C
+record-144,870,1006,an increasing heart rate,53,77,P
+record-144,1006,1137,some increased shortness of breath,12,46,P
+record-144,1006,1137,a 10 pound weight gain,51,73,P
+record-144,1006,1137,a dry cough,118,129,P
+record-144,1006,1137,pillow orthopnea,96,112,P
+record-144,1137,1213,chills,19,25,N
+record-144,1137,1213,nausea,28,34,N
+record-144,1137,1213,fevers,10,16,N
+record-144,1137,1213,diaphoresis,63,74,N
+record-144,1137,1213,vomiting,38,46,N
+record-144,1137,1213,chest pain,49,59,N
+record-144,1235,1523,prostate cancer,180,195,P
+record-144,1235,1523,atrial fibrillation,128,147,P
+record-144,1235,1523,atrial flutter,152,166,P
+record-144,1235,1523,right-sided congestive heart failure,53,89,P
+record-144,1235,1523,rectal bleeding,237,252,P
+record-144,1235,1523,cardiomyopathy,36,50,P
+record-144,1235,1523,pulmonary hypertension,92,114,P
+record-144,1235,1523,obstructive sleep apnea,255,278,P
+record-144,1534,1640,allergy,26,33,C
+record-144,2349,2446,atrial fibrillation,25,44,P
+record-144,2349,2446,rapid ventricular response,50,76,P
+record-144,2349,2446,atrial flutter,81,95,P
+record-144,2446,2653,moderately dilated right ventricle,171,205,P
+record-144,2446,2653,severe left ventricular systolic function,125,166,P
+record-144,2446,2653,severe global left ventricular hypokinesis,77,119,P
+record-144,2446,2653,moderate dilated left atrium,22,50,P
+record-144,2446,2653,atrioseptal defect,56,74,N
+record-144,2653,2798,global hypokinesis apical throughout the right ventricle,10,66,P
+record-144,2653,2798,abnormal septal motion,71,93,P
+record-144,2653,2798,right ventricular volume overload,110,143,P
+record-144,2798,2931,Moderate to severe 3+ mitral regurgitation,0,42,P
+record-144,2798,2931,moderate pulmonary early systolic hypertension,85,131,P
+record-144,2798,2931,3+ tricuspid regurgitation,47,73,P
+record-144,2931,3010,tachycardiac,65,77,P
+record-144,3027,3131,Hypotension,3,14,P
+record-144,3027,3131,mildly hypotensive,43,61,P
+record-144,3131,3230,volume overloaded,61,78,U
+record-144,3131,3230,volume depleted,82,97,U
+record-144,3336,3488,the patient 's hypotension,44,70,P
+record-144,3336,3488,his rapid ventricular response,96,126,P
+record-144,3336,3488,right heart failure,131,150,P
+record-144,3558,3650,Atrial fibrillation,3,22,P
+record-144,3650,3772,rapid ventricular response,94,120,P
+record-144,3650,3772,atrial fibrillation,69,88,P
+record-144,3650,3772,his atrial flutter,46,64,P
+record-144,3898,4018,mildly tachycardiac,83,102,P
+record-144,4018,4185,Congestive heart failure,3,27,P
+record-144,4018,4185,volume depleted,150,165,U
+record-144,4018,4185,volume overloaded,129,146,U
+record-144,4185,4332,short of breath,130,145,P
+record-144,4185,4332,symptomatic,114,125,P
+record-144,4332,4392,congestive heart failure,34,58,P
+record-144,4392,4562,the patient 's heart failure,140,168,P
+record-144,4562,4701,ischemic cardiomyopathy,114,137,U
+record-144,4701,4861,a confirmatory elevation,100,124,P
+record-144,4701,4861,"an isolated , elevated alkaline phosphatase",51,94,P
+record-144,4861,5061,underlying chronic liver disease,166,198,U
+record-144,4861,5061,an irregular hepatic contour,105,133,P
+record-144,4861,5061,any cholelithiasis,57,75,N
+record-144,4861,5061,cholecystitis,79,92,N
+record-144,5061,5256,a partial biliary obstruction,49,78,U
+record-144,5256,5389,any obstructing pancreatic mass,100,131,N
+record-144,5256,5389,biliary dilatation,75,93,N
+record-144,5389,5521,chronic hepatic vascular congestion,95,130,U
+record-144,5389,5521,dilated hepatic veins,62,83,P
+record-144,5389,5521,a slightly irregular contour of the liver,15,56,P
+record-144,5648,5840,some mild cirrhotic changes,125,152,U
+record-144,5648,5840,vascular congestion,51,70,P
+record-144,5648,5840,his congestive heart failure,76,104,P
+record-144,5906,5975,extremely fatigued,49,67,P
+record-144,6163,6282,atraumatic,72,82,N
+record-144,6163,6282,a hematoma,107,117,N
+record-144,6282,6397,any extra or intracranial hemorrhage,77,113,N
+record-144,6397,6519,his prostate cancer,101,120,P
+record-144,6397,6519,rectal bleeding,50,65,P
+record-144,6397,6519,Rectal bleeding,3,18,P
+record-144,6519,6709,his rectal bleeding,70,89,P
+record-15,576,648,very mild left lower extremity pain,8,43,P
+record-15,698,726,Coronary artery disease,3,26,P
+record-15,726,755,Congestive heart failure,3,27,P
+record-15,755,779,Acute renal failure,3,22,P
+record-15,779,811,Acute myocardial infarction,3,30,P
+record-15,811,829,Osteomyelitis,3,16,P
+record-15,829,851,Diabetes mellitus,3,20,P
+record-15,1079,1160,osteomyelitis,66,79,P
+record-15,1160,1232,osteomyelitis,57,70,P
+record-16,186,202,Chest discomfort,0,16,P
+record-16,371,502,shortness of breath,110,129,P
+record-16,371,502,vomiting,97,105,P
+record-16,371,502,chest discomfort,78,94,P
+record-16,502,577,elevated,65,73,N
+record-16,502,577,ST depressions,19,33,P
+record-16,577,697,three vessel coronary artery disease,82,118,P
+record-16,577,697,coronary disease,50,66,P
+record-16,803,1113,Diabetes Mellitus,58,75,P
+record-16,803,1113,Chronic renal insufficiency,208,235,P
+record-16,803,1113,Hypothyroid,78,89,P
+record-16,803,1113,Hypertension,26,38,P
+record-16,803,1113,Hyperlipidemia,41,55,P
+record-16,803,1113,Coronary Artery Disease,0,23,P
+record-16,803,1113,Bilateral DVT 's,96,112,P
+record-16,803,1113,Gastritis,179,188,P
+record-16,803,1113,B12 deficiency,191,205,P
+record-16,803,1113,Sarcoidosis,165,176,U
+record-16,803,1113,Pleural disorder,146,162,P
+record-16,1192,1221,MI,15,17,O
+record-16,1221,1290,CAD,11,14,O
+record-16,1290,1314,ASD,19,22,O
+record-16,1329,1338,NAD,6,9,N
+record-16,1338,1370,JVD,18,21,N
+record-16,1338,1370,Bruits,26,32,N
+record-16,1370,1391,c/r/m/g,14,21,N
+record-16,1391,1412,coarse,15,21,P
+record-16,1412,1435,NT/NT,13,18,N
+record-16,1435,1491,varicosities,34,46,N
+record-16,1435,1491,edema,51,56,N
+record-16,1524,1559,Some rashes on ACW,0,18,P
+record-16,1590,1647,60-69% stenosis of the right internal carotid artery,3,55,P
+record-16,1647,1703,80-99% stenosis of the left internal carotid artery,3,54,P
+record-16,1823,1899,mild apical hypokinesis,51,74,P
+record-16,1823,1899,Resting regional wall motion abnormalities,0,42,P
+record-16,1899,2015,aortic regurgitation,94,114,N
+record-16,2015,2095,trivial mitral regurgitation,50,78,P
+record-16,2095,2166,complex (> 4 mm ) atheroma in the descending thoracic aorta,10,69,P
+record-16,2166,2196,Mild tricuspid regurgitation,0,28,P
+record-16,2270,2282,Trivial MR,0,10,P
+record-16,2306,2351,acute intracranial hemorrhage,14,43,N
+record-16,2351,2407,small vessel ischemic changes,25,54,P
+record-16,2407,2474,acute infarction,49,65,H
+record-16,2474,2557,stenosis,29,37,N
+record-16,2474,2557,aneurysm in the intracranial circulation,41,81,N
+record-16,2557,2655,Slight irregularity,0,19,P
+record-16,2557,2655,atherosclerotic,71,86,U
+record-16,2738,2799,Mild stenosis of the proximal right internal carotid artery,0,59,P
+record-16,2799,2833,4 mm left upper lobe lung nodule,0,32,P
+record-16,2833,2905,malignancy,29,39,N
+record-16,2942,3034,major adverse interval change,48,77,N
+record-16,3034,3140,Bibasilar subsegmental atelectasis,0,34,P
+record-16,3034,3140,bilateral pleural effusions,49,76,P
+record-16,4318,4430,carotid stenosis,14,30,P
+record-16,5005,5068,aphasia,54,61,P
+record-16,5159,5254,deficits,66,74,N
+record-16,5254,5311,TIA,52,55,U
+record-16,5254,5311,episode,20,27,P
+record-16,5369,5509,change in neuro status,60,82,N
+record-16,5509,5622,bilateral DVT,95,108,P
+record-16,5801,5816,complications,0,13,N
+record-16,8053,8113,Coronary Artery Disease,0,23,P
+record-16,8113,8153,Post-operative Transient Ischemic Attack,0,40,P
+record-16,8153,8195,Carotid Stenosis,0,16,P
+record-16,8195,8453,B12 deficiency,139,153,P
+record-16,8195,8453,Gastritis,127,136,P
+record-16,8195,8453,Diabetes Mellitus,38,55,P
+record-16,8195,8453,Sarcoidosis,113,124,U
+record-16,8195,8453,"Bilateral DVT 's,",76,93,P
+record-16,8195,8453,Hypertension,6,18,P
+record-16,8195,8453,Pleural disorder,94,110,P
+record-16,8195,8453,Chronic renal insufficiency,156,183,P
+record-16,8195,8453,Hyperlipidemia,21,35,P
+record-16,8195,8453,Hypothyroid,58,69,P
+record-16,8533,8580,incisions,36,45,P
+record-16,8691,8775,signs of infection,19,37,H
+record-16,8691,8775,wounds,8,14,P
+record-17,127,471,hypercholesterolemia,191,211,P
+record-17,127,471,COPD,60,64,P
+record-17,127,471,COPD exacerbation,235,252,P
+record-17,127,471,upper respiratory tract infection symptoms,270,312,P
+record-17,471,529,afebrile,7,15,N
+record-17,546,754,COPD,202,206,P
+record-17,546,754,COPD exacerbation,62,79,P
+record-17,546,754,more respiratory distress,99,124,P
+record-17,754,846,bronchitis,48,58,U
+record-17,754,846,community-acquired pneumonia,62,90,U
+record-17,846,941,his tenuous respiratory status,6,36,P
+record-17,1026,1120,his COPD exacerbation,71,92,P
+record-17,1120,1190,COPD,64,68,P
+record-17,1190,1313,desaturate,76,86,C
+record-17,1440,1495,Chronic obstructive pulmonary disease exacerbation,3,53,P
+record-17,1495,1510,Bronchitis,3,13,P
+record-17,1510,1543,Community-acquired pneumonia,3,31,P
+record-17,1543,1578,myocardial infarction,12,33,U
+record-175,125,269,end stage liver disease,41,64,P
+record-175,125,269,hepatitis C cirrhosis,78,99,P
+record-175,336,482,ascites,137,144,P
+record-175,336,482,encephalopathy,118,132,P
+record-175,482,660,worsening renal function,152,176,P
+record-175,772,839,further elevated,28,44,P
+record-175,839,903,hepatorenal syndrome,42,62,U
+record-175,925,1006,Hepatitis C cirrhosis,3,24,P
+record-175,1006,1023,Hypertension,3,15,P
+record-175,1023,1043,Nephrolithiasis,3,18,P
+record-175,1043,1059,Hemorrhoids,3,14,P
+record-175,1108,1161,groin rash,41,51,H
+record-175,2289,2361,thrombocytopenic,16,32,P
+record-175,2361,2499,"his previously diagnosed Methicillin resistant , coagulase negative Staph bacteremia",52,136,P
+record-175,2693,2750,spontaneous bacterial peritonitis,22,55,N
+record-175,3050,3089,His estimated blood loss,0,24,P
+record-175,3249,3403,complications,32,45,N
+record-175,3479,3578,distress,48,56,N
+record-175,3578,3642,any problems,50,62,N
+record-175,4825,4936,The patient 's surgical incision,0,32,P
+record-175,4825,4936,infection,100,109,N
+record-176,166,321,type 1 diabetes mellitus,39,63,P
+record-176,374,482,Her diabetes mellitus,0,21,P
+record-176,374,482,retinopathy,46,57,P
+record-176,374,482,nephropathy,62,73,P
+record-176,374,482,peripheral neuropathy,85,106,P
+record-176,586,661,apparent distress,30,47,N
+record-176,721,762,afebrile,7,15,N
+record-176,762,877,a well healed left lower quadrant incision,39,81,P
+record-176,762,877,nontender,24,33,N
+record-176,935,1006,complication,57,69,N
+record-176,1906,1935,Type 1 diabetes mellitus,3,27,P
+record-176,1935,2000,End stage renal disease,3,26,P
+record-177,187,201,Benzo overdose,0,14,P
+record-177,304,440,apparent alprazolam overdose,106,134,U
+record-177,304,440,Bipolar disorder,43,59,P
+record-177,440,548,lethargic,68,77,P
+record-177,634,751,unresponsive,61,73,P
+record-177,815,880,self mutilation,48,63,P
+record-177,815,880,suicidal ideations,25,43,P
+record-177,1072,1093,Bipolar disorder,3,19,P
+record-177,1093,1104,Asthma,3,9,P
+record-177,1104,1138,Posttraumatic stress disorder,3,32,P
+record-177,1138,1145,GERD,3,7,P
+record-177,1145,1190,laxative abuse,29,43,P
+record-177,1145,1190,Chronic constipation,3,23,P
+record-177,1903,1952,suicidality,36,47,O
+record-177,1903,1952,depression,21,31,O
+record-177,2039,2103,ATNC,0,4,N
+record-177,2039,2103,anicteric,55,64,N
+record-177,2039,2103,minimally reactive,34,52,P
+record-177,2126,2142,m,15,16,N
+record-177,2147,2182,nd,7,9,N
+record-177,2147,2182,hypoactive bowel sounds,12,35,P
+record-177,2187,2242,WWP,0,3,P
+record-177,2187,2242,burns on hands and arms,32,55,P
+record-177,2187,2242,multiple linear scars,6,27,P
+record-177,2271,2326,rashes,3,9,N
+record-177,2271,2326,linear and burn scars,25,46,P
+record-177,2271,2326,petechiae,13,22,N
+record-177,3437,3497,ateletasis of lingula,9,30,U
+record-177,3437,3497,pneumonitis,49,60,U
+record-177,3502,3579,flat T aVL,53,63,P
+record-177,3502,3579,incomplete RBBB,35,50,P
+record-177,3502,3579,TWI V1,71,77,P
+record-177,3579,3634,"bilateral segmental , subsegmental PEs",17,55,P
+record-177,3781,3856,benzo overdose,59,73,P
+record-177,3856,3932,elevated,66,74,P
+record-177,3856,3932,widened A-a gradient,13,33,P
+record-177,3932,3992,bilateral pulmonary embolisms,29,58,P
+record-177,3992,4099,DVT,102,105,N
+record-177,4156,4258,painful bullae on hands and arm,49,80,P
+record-177,4156,4258,swelling,92,100,P
+record-177,4258,4404,compartment syndrome,124,144,N
+record-177,4258,4404,symptoms,61,69,P
+record-177,4258,4404,trauma,82,88,P
+record-177,4652,4791,any compartment syndrome,38,62,N
+record-177,4791,4927,some poor range of motion,100,125,P
+record-177,5159,5238,SI,26,28,P
+record-177,5238,5342,UTI,55,58,U
+record-177,6891,6914,Benzodiazapine Overdose,0,23,P
+record-177,6914,6941,Traumatic / pressure bullae,0,27,P
+record-177,6941,6957,Bipolar Disorder,0,16,P
+record-177,6978,7054,Swelling in hands,9,26,P
+record-177,7078,7189,clots,84,89,P
+record-177,7189,7282,urinary tract infection,52,75,P
+record-178,130,216,recently diagnosed abdominal carcinomatosis,41,84,P
+record-178,216,315,abdominal pain,27,41,P
+record-178,216,315,bloating,46,54,P
+record-178,216,315,a large omental mass,77,97,P
+record-178,315,347,adenocarcinoma,16,30,P
+record-178,410,489,an extrinsic mass present on the stomach,37,77,P
+record-178,489,594,increased abdominal pain,26,50,P
+record-178,489,594,poor oral intake,55,71,P
+record-178,489,594,generalized weakness,83,103,P
+record-178,594,677,chest pain,37,47,N
+record-178,594,677,shortness of breath,50,69,N
+record-178,594,677,cough,76,81,N
+record-178,699,732,Benign prostatic hypertrophy,3,31,P
+record-178,732,751,Osteoarthritis,3,17,P
+record-178,751,830,Gastrointestinal adenocarcinoma,3,34,P
+record-178,950,975,known drug allergies,3,23,N
+record-178,991,1018,adrenal cancer,11,25,O
+record-178,1018,1054,coronary artery disease,11,34,O
+record-178,1241,1375,progressive abdominal discomfort,38,70,P
+record-178,1241,1375,decreased oral intake,73,94,P
+record-178,1241,1375,weakness,101,109,P
+record-178,1584,1645,acutely and chronically ill,32,59,P
+record-178,1731,1755,anicteric,13,22,N
+record-178,1784,1874,tachycardic first heart sound and second heart sound,36,88,P
+record-178,1874,1906,murmurs,3,10,N
+record-178,1874,1906,gallops,23,30,N
+record-178,1874,1906,rubs,13,17,N
+record-178,1906,1995,decreased breath sounds,15,38,P
+record-178,1906,1995,dullness,43,51,P
+record-178,1995,2031,distended,16,25,P
+record-178,1995,2031,firm,30,34,P
+record-178,2054,2120,cyanosis,45,53,N
+record-178,2054,2120,clubbing,34,42,N
+record-178,2054,2120,edema,59,64,N
+record-178,2132,2277,increased abdominal pain,98,122,P
+record-178,2132,2277,recently diagnosed abdominal carcinomatosis,40,83,P
+record-178,2132,2277,poor oral intake,127,143,P
+record-178,2545,2615,increased vomiting,50,68,P
+record-178,2615,2706,increased shortness of breath,22,51,P
+record-178,2615,2706,difficulty catching his breath,58,88,P
+record-178,2814,2863,a left pleural effusion,24,47,P
+record-178,2863,2951,pulmonary embolism,68,86,U
+record-178,3134,3291,subsegmental pulmonary emboli of the upper lobes,47,95,U
+record-178,3134,3291,infiltrates,107,118,U
+record-178,3134,3291,aspiration pneumonia,135,155,U
+record-178,3291,3365,pneumonia,63,72,P
+record-178,3365,3432,the pulmonary emboli,45,65,P
+record-178,3432,3530,increasing abdominal distention,65,96,P
+record-178,3530,3641,fluid,91,96,P
+record-178,3712,3801,persistent gastric secretions,7,36,P
+record-178,3851,3926,the gastric secretions,51,73,P
+record-178,3989,4054,an increasing left-sided pleural effusion,22,63,P
+record-178,4054,4116,fluid,55,60,P
+record-178,4116,4181,fluid,58,63,P
+record-178,4409,4488,Gastrointestinal adenocarcinoma,3,34,P
+record-178,4488,4513,Aspiration pneumonia,3,23,P
+record-178,4513,4534,Pulmonary emboli,3,19,P
+record-178,4534,4546,Hypoxia,3,10,P
+record-178,4546,4562,Dehydration,3,14,P
+record-178,4562,4572,Ileus,3,8,P
+record-179,180,189,Syncope,0,7,P
+record-179,261,357,a syncopal episode,48,66,P
+record-179,357,473,faint,56,61,P
+record-179,357,473,lightheaded,42,53,P
+record-179,473,488,LOC,10,13,N
+record-179,488,581,lightheaded,59,70,P
+record-179,488,581,very short of breath,31,51,P
+record-179,581,635,saddle PE,43,52,P
+record-179,635,692,tachy,26,31,P
+record-179,1056,1137,unable to ambulate,61,79,P
+record-179,1056,1137,essentially bed bound,7,28,P
+record-179,1137,1227,inflammation of his L calf / leg,21,53,P
+record-179,1227,1340,hemoptysis,101,111,N
+record-179,1227,1340,CP,41,43,N
+record-179,1227,1340,chest discomfort,46,62,N
+record-179,1227,1340,difficulty breathing,66,86,N
+record-179,1227,1340,cough,92,97,N
+record-179,1340,1356,f/c/,3,7,N
+record-179,1340,1356,sweats,8,14,N
+record-179,1356,1439,any bleeding or clotting disorders,10,44,N
+record-179,1356,1439,a clot,63,69,N
+record-179,1461,1479,Left knee injury,0,16,P
+record-179,1479,1499,Seasonal allergies,0,18,P
+record-179,1608,1616,HTN,0,3,O
+record-179,1608,1616,DM,6,8,O
+record-179,1621,1639,Prostate CA,7,18,O
+record-179,1621,1639,COPD,0,4,O
+record-179,1639,1673,MI,22,24,O
+record-179,1728,1775,NAD,6,9,N
+record-179,1775,1827,dried blood in nasal mucosa,25,52,P
+record-179,1827,1878,wheezing,32,40,N
+record-179,1827,1878,crackles,18,26,N
+record-179,1827,1878,rhonchi,44,51,N
+record-179,1878,1917,M/R/G,34,39,N
+record-179,1878,1917,tachy,11,16,P
+record-179,1917,1937,ND/NT,11,16,N
+record-179,1937,2100,L leg/calf swollen,6,24,P
+record-179,1937,2100,crepitus,132,140,N
+record-179,1937,2100,tense,48,53,N
+record-179,1937,2100,medial meniscus area inflammed,85,115,P
+record-179,1937,2100,warm,122,126,N
+record-179,2151,2210,acute intracranial hemorrhage,15,44,N
+record-179,2151,2210,fractures,48,57,N
+record-179,2400,2465,hyperdynamic,38,50,P
+record-179,2465,2504,ventricular septal defect,12,37,N
+record-179,2504,2552,mildly dilated,32,46,P
+record-179,2610,2726,aortic regurgitation,94,114,N
+record-179,2777,2812,mitral valve prolapse,12,33,N
+record-179,2812,2870,moderate pulmonary artery systolic hypertension,9,56,P
+record-179,2870,2904,pericardial effusion,12,32,N
+record-179,2904,3028,"small , hyperdynamic left ventricle",46,81,P
+record-179,2904,3028,mildly dilated right ventricle,13,43,P
+record-179,2904,3028,moderate pulmonary hypertension,93,124,P
+record-179,3060,3101,DVT in either lower limb,15,39,N
+record-179,3114,3148,saddle PE,2,11,P
+record-179,3153,3231,p-pulmonale,65,76,P
+record-179,3153,3231,S1Q3T3,56,62,P
+record-179,3153,3231,ST Depression V3-V5,34,53,P
+record-179,3153,3231,Sinus Tach,2,12,P
+record-179,3263,3351,flipped fragment in the intercondylar notch,43,86,P
+record-179,3263,3351,Bucket handle medial meniscal tear,3,37,P
+record-179,3351,3406,Complex tear,0,12,P
+record-179,3406,3495,Moderate knee joint effusion,3,31,P
+record-179,3406,3495,ganglion cyst at the insertion of the PCL,46,87,U
+record-179,3495,3524,Discoid lateral meniscus,3,27,P
+record-179,3547,3683,saddle pulmonary embolus,89,113,P
+record-179,3547,3683,left knee injury,118,134,P
+record-179,3683,3690,PE,3,5,P
+record-179,3690,3804,DVT from the left leg,91,112,P
+record-179,3690,3804,his embolus,76,87,P
+record-179,3804,3898,known clotting disorder,10,33,N
+record-179,3804,3898,stasis,86,92,P
+record-179,3804,3898,immobility,71,81,P
+record-179,3804,3898,trauma to leg,47,60,P
+record-179,3898,4018,an oxygen requirement,82,103,N
+record-179,4018,4089,hemodynamic instability,21,44,N
+record-179,4138,4297,PE,154,156,P
+record-179,4504,4516,Syncope,3,10,P
+record-179,4516,4534,PE,14,16,P
+record-179,4580,4711,P-pulmonale,95,106,P
+record-179,4580,4711,clot burden,118,129,P
+record-179,4580,4711,a small troponin leak,12,33,P
+record-179,4580,4711,right heart strain,58,76,P
+record-179,4711,4792,ischemia,71,79,N
+record-179,4792,4866,ischemia,64,72,P
+record-179,4792,4866,any wall motion abnormalities,23,52,N
+record-179,4881,4964,saddle PE,58,67,P
+record-179,4964,4990,active bleeding,3,18,N
+record-179,4990,5007,asymptomatic,3,15,N
+record-179,5007,5025,L knee injury,3,16,P
+record-179,5025,5135,meniscal tear,95,108,U
+record-179,5025,5135,an injury,64,73,P
+record-179,5457,5474,Pulmonary embolus,0,17,P
+record-179,5474,5497,Left knee meniscal tear,0,23,P
+record-179,5548,5608,a pulmonary embolism,38,58,P
+record-179,5880,5925,a meniscal tear,28,43,P
+record-179,6089,6202,lightheadedness,83,98,H
+record-179,6089,6202,dizziness,102,111,H
+record-179,6089,6202,shortness of breath,61,80,H
+record-179,6089,6202,chest pain,48,58,H
+record-18,128,339,pneumonia,64,73,P
+record-18,128,339,COPD,76,80,P
+record-18,128,339,asthma exacerbation,83,102,P
+record-18,128,339,upper respiratory like infection,121,153,P
+record-18,574,648,left lower lobe infiltrate,46,72,U
+record-18,776,824,Asthma,0,6,P
+record-18,776,824,COPD,9,13,P
+record-18,824,850,Restrictive lung disease,0,24,P
+record-18,850,904,Chronic inflammatory demyelinating polyradiculopathy,0,52,P
+record-18,904,930,duodenitis,14,24,P
+record-18,904,930,Gastritis,0,9,P
+record-18,930,960,Tyrone esophagus,12,28,U
+record-18,960,984,Chronic abdominal pain,0,22,P
+record-18,984,1004,Neurogenic bladder,0,18,P
+record-18,1004,1027,Chronic muscle spasms,0,21,P
+record-18,1027,1094,Coronary artery disease,0,23,P
+record-18,1094,1114,syncope,11,18,P
+record-18,1114,1137,Adrenal insufficiency,0,21,P
+record-18,1137,1159,Hypercholesterolemia,0,20,P
+record-18,1159,1183,anxiety,15,22,P
+record-18,1159,1183,Depression,0,10,P
+record-18,1183,1200,Hyperthyroidism,0,15,P
+record-18,1200,1216,IgG deficiency,0,14,P
+record-18,1262,1289,chronic disease,10,25,P
+record-18,1262,1289,Anemia,0,6,P
+record-18,1484,1533,wheelchair bound,24,40,P
+record-18,1701,1767,acute distress,50,64,N
+record-18,1820,1866,wheezes,37,44,N
+record-18,1820,1866,Diffuse bronchial breath sounds,0,31,P
+record-18,1906,1916,edema,3,8,N
+record-18,1916,2072,Left lower extremity and left upper extremity weaker,0,52,P
+record-18,2517,2538,Shortness of breath,0,19,P
+record-18,2538,2729,her chronic obstructive pulmonary disease,148,189,P
+record-18,2729,2913,pneumonia,87,96,P
+record-18,2729,2913,consolidation,22,35,P
+record-18,2913,3024,her shortness of breath,86,109,P
+record-18,2913,3024,active airway disease component,51,82,P
+record-18,3171,3245,secretions,62,72,P
+record-18,3245,3268,Adrenal insufficiency,0,21,P
+record-18,3328,3344,Chest soreness,0,14,P
+record-18,3344,3420,any significant EKG changes,47,74,N
+record-18,3344,3420,chest discomfort,22,38,P
+record-18,3534,3597,acute rib factors,25,42,N
+record-18,3601,3675,known gastritis,57,72,P
+record-18,3601,3675,reflux disease,38,52,P
+record-18,3681,3785,neurogenic bladder,29,47,P
+record-18,3796,3869,hyperthyroidism,56,71,P
+record-18,3889,4068,persistent carbon dioxide retention,74,109,P
+record-18,3889,4068,respiratory acidosis,114,134,P
+record-18,3889,4068,the intermittent mental status changes,139,177,P
+record-18,4206,4325,apneic,95,101,P
+record-18,4206,4325,obstructing,106,117,P
+record-18,4420,4572,bradycardiac,77,89,P
+record-18,4420,4572,hypotensive,47,58,P
+record-18,4572,4744,adrenal insufficiency,51,72,U
+record-18,4744,4834,mucous plugging,46,61,U
+record-18,4847,5032,megaloblastic cells,42,61,P
+record-18,4847,5032,anemia,89,95,P
+record-18,4847,5032,high MCV,29,37,P
+record-18,4847,5032,B12 deficiency,107,121,U
+record-18,4847,5032,borderline low B12 levels,158,183,P
+record-18,5032,5122,B12 deficiency,30,44,P
+record-18,5032,5122,poor p.o. intake,72,88,P
+record-18,5231,5260,bronchitis,17,27,P
+record-18,5231,5260,Asthma flare,0,12,P
+record-18,5260,5299,Chronic obstructive pulmonary disease,0,37,P
+record-18,5299,5332,Demyelinating polyradiculopathy,0,31,P
+record-18,5332,5350,Anxiety disorder,0,16,P
+record-18,5350,5374,Chronic abdominal pain,0,22,P
+record-18,5453,5506,an oxygen requirement,30,51,N
+record-18,5888,5962,shortness of breath,53,72,H
+record-19,111,165,Known Allergies,30,45,N
+record-19,220,247,fever,22,27,P
+record-19,220,247,Shortness of breath,0,19,P
+record-19,317,622,fever,298,303,P
+record-19,317,622,metastatic RCC,40,54,P
+record-19,317,622,shortness of breath,274,293,P
+record-19,317,622,mild renal insufficiency,204,228,P
+record-19,622,830,chest pain,82,92,P
+record-19,886,967,fatigued,24,32,P
+record-19,967,1051,a new fever,71,82,P
+record-19,967,1051,congested,36,45,P
+record-19,1091,1153,a mild cough,16,28,P
+record-19,1091,1153,non-productive,46,60,N
+record-19,1153,1223,aspiration events,23,40,C
+record-19,1153,1223,choking,44,51,C
+record-19,1223,1267,mild reflux symptoms,13,33,P
+record-19,1267,1446,his low oxygen saturation,119,144,P
+record-19,1267,1446,mild SOB,20,28,P
+record-19,1446,1497,chills,10,16,N
+record-19,1446,1497,chest pain,22,32,N
+record-19,1446,1497,LE swelling,38,49,N
+record-19,1608,1643,bibasilar consolidations,9,33,P
+record-19,1927,2003,His oxygen requirement,0,22,P
+record-19,2080,2237,Metastatic renal cell carcinoma,3,34,P
+record-19,2237,2333,renal cell carcinoma of chromophobe type,21,61,P
+record-19,2237,2333,Carter nuclear grade,67,87,P
+record-19,2333,2370,Lymphovascular invasion,0,23,P
+record-19,2370,2456,increasing back pain,24,44,P
+record-19,2370,2456,metastatic disease,51,69,P
+record-19,2548,2652,ongoing grade III rash,0,22,P
+record-19,2548,2652,proteinuria,66,77,P
+record-19,2776,2834,mild renal insufficiency,7,31,P
+record-19,2834,2855,Seasonal allergies,3,21,P
+record-19,3144,3158,NAD,9,12,N
+record-19,3158,3182,Flushed cheeks,8,22,P
+record-19,3182,3199,Slightly dry MM,0,15,P
+record-19,3199,3224,elevated,15,23,N
+record-19,3224,3284,Decreased air entry,7,26,P
+record-19,3224,3284,crackles at both lung bases,31,58,P
+record-19,3284,3296,Egophony,2,10,P
+record-19,3324,3336,S3,3,5,N
+record-19,3324,3336,S4,8,10,N
+record-19,3336,3354,murmur,3,9,N
+record-19,3336,3354,rub,13,16,N
+record-19,3366,3395,non-tender,17,27,N
+record-19,3395,3416,edema,14,19,N
+record-19,5088,5199,deep venous thrombosis in the lower extremities bilaterally,50,109,N
+record-19,5199,5314,bilateral small pleural effusion,81,113,P
+record-19,5199,5314,New bibasilar consolidations,20,48,P
+record-19,5314,5355,slightly increased,21,39,P
+record-19,5355,5392,pneumothorax,12,24,N
+record-19,5414,5472,Marked interval enlargement of the cardiac silhouette,3,56,P
+record-19,5472,5681,bilateral pleural effusions,42,69,P
+record-19,5472,5681,cardiac insufficiency,87,108,P
+record-19,5472,5681,volume overload,128,143,U
+record-19,5681,5727,Bilateral basilar compressive atelectasis,3,44,P
+record-19,5727,5776,Superimposed infectious consolidation,0,37,U
+record-19,5776,5936,an infectious process,137,158,U
+record-19,5776,5936,scattered ground glass opacities involving the right lung,62,119,P
+record-19,5776,5936,tree-in-Eric nodular opacities,27,57,P
+record-19,5936,6043,"viral , fungal and atypical mycobacterial infections",53,105,U
+record-19,6043,6155,Drug toxicity,0,13,U
+record-19,6155,6313,diffuse mesenteric stranding,80,108,P
+record-19,6155,6313,New jejunal wall thickening,3,30,P
+record-19,6155,6313,persistent distal ileal wall thickening,36,75,P
+record-19,6155,6313,an infectious etiology,134,156,U
+record-19,6313,6356,metastatic burden,24,41,P
+record-19,6356,6467,Mild symmetric left ventricular hypertrophy,19,62,P
+record-19,6467,6536,Mild posterior mitral valve prolapse,0,36,P
+record-19,6467,6536,mild mitral regurgitation,42,67,P
+record-19,6536,6624,Small ( 0.6 cm ) circumferential pericardial effusion,0,53,P
+record-19,6624,6787,interval periosteal new bone formation,63,101,P
+record-19,6624,6787,Predominantly sclerotic lesion,27,57,P
+record-19,6787,6826,displaced fracture,3,21,N
+record-19,6849,6987,fever,93,98,P
+record-19,6849,6987,hypoxemia,101,110,P
+record-19,6849,6987,bibasilar pneumonia,117,136,P
+record-19,6849,6987,metastatic RCC,35,49,P
+record-19,6987,7066,Bibasilar pneumonia,3,22,P
+record-19,6987,7066,community-acquired pneumonia,49,77,P
+record-19,7223,7361,ground glass opacities,65,87,P
+record-19,7223,7361,an underlying infectious process,104,136,U
+record-19,7223,7361,an oxygen requirement,21,42,P
+record-19,7525,7603,acute infection,61,76,P
+record-19,7525,7603,Metastatic RCC,3,17,P
+record-19,7603,7697,significant increase in tumor burden,56,92,N
+record-19,7697,7782,abnormal TFTs,31,44,P
+record-19,7842,7895,destruction of L femoral neck,22,51,P
+record-19,7895,7972,an acute fracture,58,75,N
+record-19,8089,8172,Renal insufficiency,3,22,P
+record-19,8172,8283,prerenal component,51,69,P
+record-19,8172,8283,underlying malignancy,18,39,P
+record-19,8309,8395,diarrhea,76,84,P
+record-19,9140,9260,constipation,106,118,H
+record-19,9364,9464,Pain,94,98,H
+record-19,9736,9748,Pneumonia,3,12,P
+record-19,9748,9770,Acute renal failure,3,22,P
+record-19,9770,9804,Metastatic renal cell carcinoma,3,34,P
+record-19,9804,9816,Hypoxemia,3,12,P
+record-19,9939,10038,a pneumonia,86,97,P
+record-19,10298,10383,low thyroid hormone levels,57,83,P
+record-19,10570,10734,fevers,25,31,H
+record-19,10570,10734,chills,34,40,H
+record-19,10570,10734,chest pain,43,53,H
+record-19,10570,10734,shortness of breath,56,75,H
+record-19,10570,10734,dizziness,78,87,H
+record-19,10570,10734,any other concerning symptoms,91,120,H
+record-20,247,356,difficulty,97,107,N
+record-21,504,626,confused,52,60,P
+record-21,1043,1115,apparent distress,53,70,N
+record-21,1300,1476,crepitus,96,104,N
+record-21,1300,1476,a left clavicular deformity,111,138,P
+record-21,1485,1576,rubs,72,76,N
+record-21,1485,1576,gallops,82,89,N
+record-21,1485,1576,murmurs,62,69,N
+record-21,1585,1618,nontender,7,16,N
+record-21,1585,1618,nondistended,19,31,N
+record-21,1745,1856,A 5 cm laceration,0,17,P
+record-21,1745,1856,exposed underlying bone,86,109,N
+record-21,1951,2328,decreased sensation in the ulnar-nerve distribution,272,323,P
+record-21,1951,2328,gross deformities,49,66,N
+record-21,1951,2328,tenderness,69,79,P
+record-21,2328,2538,mild swelling,47,60,P
+record-21,2328,2538,ecchymosis of the right posterior thigh,65,104,P
+record-21,2328,2538,a 3 cm laceration in the lower leg,123,157,P
+record-21,2547,2569,gross deformities,3,20,N
+record-21,2647,2791,gross deformities,49,66,N
+record-21,2791,2891,an inferior displaced left midclavicular fracture,34,83,P
+record-21,2891,2905,pneumothorax,0,12,N
+record-21,2905,2966,a pelvic fracture,42,59,N
+record-21,2966,3025,intracranial bleeding,36,57,N
+record-21,3025,3100,pelvic fracture,58,73,N
+record-21,3025,3100,mild pulmonary contusions,23,48,P
+record-21,3100,3174,cervical spine injury,51,72,N
+record-21,3174,3258,fracture displacement,61,82,N
+record-21,3258,3337,displacement,65,77,N
+record-21,3258,3337,fracture,53,61,N
+record-21,3337,3416,fracture displacement,56,77,N
+record-21,3416,3521,transverse mid shaft radial fracture,43,79,P
+record-21,3416,3521,ulnar displacement,85,103,P
+record-21,3521,3615,intra-abdominal bleeding,68,92,N
+record-21,4240,4488,right thigh hematoma,199,219,P
+record-21,4240,4488,right leg laceration,226,246,P
+record-21,4240,4488,injuries,98,106,P
+record-21,4240,4488,a posterior scalp laceration,118,146,P
+record-21,4240,4488,left fractured clavicle,149,172,P
+record-21,4240,4488,left fractured radius,175,196,P
+record-21,4597,4797,major arterial or venous injury,153,184,N
+record-21,4597,4797,the patient 's right thigh hematoma,6,41,P
+record-21,5268,5440,the scalp and right lower leg lacerations,10,51,P
+record-21,5440,5520,the patient 's left clavicular fracture,39,78,P
+record-21,5709,5797,The patient 's head wound laceration,0,36,P
+record-21,5797,5833,erythema,13,21,N
+record-21,5797,5833,purulence,25,34,N
+record-21,5833,6012,mild tenderness,115,130,P
+record-21,5833,6012,a minor stepoff,95,110,P
+record-21,5833,6012,continued ecchymosis,36,56,P
+record-21,6012,6110,saturation,86,96,N
+record-21,6231,6273,Mild swelling,0,13,P
+record-21,6429,6569,erythema,111,119,N
+record-21,6429,6569,purulence,123,132,N
+record-21,6429,6569,The patient 's right anterior tibial wound,0,42,P
+record-21,7140,7271,Left transverse mid shaft radial fracture,3,44,P
+record-21,7140,7271,ulnar displacement,50,68,P
+record-21,7271,7326,Left midclavicular fracture,3,30,P
+record-21,7326,7357,Occipital scalp laceration,3,29,P
+record-21,7357,7394,Right anterior tibial laceration,3,35,P
+record-21,7417,7473,pain,50,54,H
+record-21,7727,7858,The left forearm and right lower leg wound,0,42,P
+record-21,7858,7992,Scalp laceration,0,16,P
+record-21,7992,8021,pain,13,17,H
+record-22,111,165,Known Allergies to Drugs,30,54,N
+record-23,707,857,afebrile,63,71,N
+record-23,857,981,AML,30,33,P
+record-23,857,981,ALL,22,25,P
+record-23,1076,1118,neutropenic,29,40,N
+record-23,1221,1393,further complaints,19,37,N
+record-23,1997,2045,nausea,40,46,H
+record-23,2045,2094,nausea,41,47,H
+record-24,120,210,diabetes mellitus,71,88,P
+record-24,210,459,peripheral neuropathy,20,41,P
+record-24,210,459,diabetic nephropathy,88,108,P
+record-24,210,459,throat cancer,122,135,P
+record-24,459,699,clear cut cord compression,173,199,P
+record-24,459,699,cervical myelopathy,56,75,P
+record-24,459,699,impressive disc herniations at C5-C6,110,146,P
+record-24,459,699,signs and symptoms,21,39,P
+record-24,841,1009,afebrile,60,68,N
+record-24,1009,1129,uncomfortable,23,36,P
+record-24,1009,1129,incisional tenderness,50,71,P
+record-24,1009,1129,neck site,75,84,P
+record-24,1009,1129,right iliac graft site,96,118,P
+record-24,1129,1180,The wounds,0,10,P
+record-24,1197,1319,tachypneic,82,92,P
+record-24,1197,1319,dyspneic,69,77,P
+record-24,1616,1764,diastolic dysfunction,74,95,U
+record-24,1616,1764,increased heart rate,101,121,P
+record-24,1616,1764,excess volume,133,146,P
+record-24,1616,1764,his congestive heart failure,17,45,P
+record-24,1764,1902,significant myocardial ischemia,25,56,N
+record-24,1764,1902,myocardial infarction,115,136,N
+record-24,2020,2081,the excess volume,42,59,P
+record-24,2201,2302,agitated,19,27,P
+record-24,2408,2571,confused,53,61,P
+record-24,2408,2571,waxing and waning sensorium,67,94,P
+record-24,2669,2892,his change in mental status,68,95,P
+record-24,2943,2969,Hypo or hyperglycemia,3,24,P
+record-24,3055,3184,acutely agitated,37,53,P
+record-24,3184,3221,Infectious causes,3,20,P
+record-24,3221,3375,febrile,7,14,P
+record-24,3517,3724,focal deficits,44,58,N
+record-24,3517,3724,Mass effect,3,14,U
+record-24,3517,3724,the fluctuating sensorium,101,126,P
+record-24,3517,3724,severe underlying structural abnormality,165,205,N
+record-24,3724,3817,such processes,77,91,U
+record-24,3817,3940,midline shifts,37,51,N
+record-24,3817,3940,acute intracranial hemorrhages,3,33,N
+record-24,3817,3940,a soft tissue mass,74,92,P
+record-24,4015,4046,Trauma,3,9,U
+record-24,4046,4135,head trauma,49,60,N
+record-24,4046,4135,loss of consciousness,66,87,N
+record-24,4180,4265,his delirium,71,83,P
+record-24,4180,4265,electrolytes or mineral abnormalities,14,51,N
+record-24,4265,4352,slightly elevated,61,78,P
+record-24,4404,4470,neurologic syphilis,28,47,U
+record-24,4497,4627,non-convulsive status epilepticus,39,72,U
+record-24,4627,4824,acutely agitated,48,64,P
+record-24,4999,5115,acutely agitated,60,76,P
+record-24,5266,5348,that event,70,80,P
+record-24,5348,5465,acutely agitated,99,115,H
+record-24,5547,5651,delirium,34,42,P
+record-24,5651,5772,the delirium,20,32,P
+record-24,5866,6022,a baseline renal insufficiency,124,154,P
+record-24,6129,6234,not adequate,91,103,P
+record-24,6234,6366,his diabetes mellitus,7,28,P
+record-24,6366,6430,other complaints,9,25,P
+record-24,6430,6534,his operative sites,12,31,P
+record-24,6430,6534,Soreness,0,8,P
+record-24,6430,6534,his delirium,77,89,P
+record-24,6534,6640,difficulty with swallowing,36,62,P
+record-24,6640,6740,postoperative swelling,23,45,P
+record-24,8006,8111,End-stage renal disease,3,26,P
+record-24,8006,8111,type 1 diabetes mellitus,40,64,P
+record-24,8111,8160,multiple urinary tract infections,14,47,P
+record-24,8160,8179,Pyelonephritis,3,17,P
+record-24,8275,8360,neuropathy,59,69,P
+record-24,8275,8360,nephropathy,72,83,P
+record-24,8275,8360,retinopathy,45,56,P
+record-24,8275,8360,triopathy,33,42,P
+record-24,8275,8360,Type 1 diabetes mellitus,3,27,P
+record-24,8360,8468,Benign prostatic hypertrophy,3,31,P
+record-24,8468,8485,Hypertension,3,15,P
+record-24,8485,8510,Hypercholesterolemia,3,23,P
+record-24,8510,8527,Hepatitis B,4,15,P
+record-24,8527,8596,Throat cancer,4,17,P
+record-24,8596,8619,Cerebral aneurysm,4,21,P
+record-25,174,467,primary sclerosing cholangitis,83,113,P
+record-25,757,999,Nodularities in the common bile duct,0,36,P
+record-25,757,999,cholangiocarcinoma,121,139,U
+record-25,1021,1074,Ulcerative colitis,0,18,P
+record-25,1021,1074,primary sclerosing cholangitis,21,51,P
+record-25,1252,1277,known drug allergies,3,23,N
+record-25,1384,1451,acute distress,51,65,N
+record-25,1451,1512,icteric,52,59,P
+record-25,1451,1512,atraumatic,28,38,N
+record-25,1512,1556,lymphadenopathy,27,42,N
+record-25,1665,1686,murmurs,12,19,N
+record-25,1686,1749,nontender,23,32,N
+record-25,1686,1749,masses,38,44,N
+record-25,1686,1749,nondistended,49,61,N
+record-25,1749,1781,hepatosplenomegaly,12,30,N
+record-25,1781,1834,masses,22,28,N
+record-25,2344,2432,minimal left base atelectasis,21,50,P
+record-25,2344,2432,elevation of left hemidiaphragm,55,86,P
+record-25,2432,2549,dilation of intrahepatic common bile duct,34,75,P
+record-25,2549,2595,splenomegaly,32,44,P
+record-25,2712,2810,a distal stricture of the common bile duct,54,96,P
+record-25,2894,2998,cholangiocarcinoma,84,102,U
+record-25,2894,2998,nodularity in the common bile duct,26,60,P
+record-25,3120,3229,advanced cirrhosis,89,107,U
+record-25,3120,3229,significant nodularity of the liver,39,74,P
+record-25,3309,3465,region nodularity,0,17,P
+record-25,3465,3538,malignancy,27,37,N
+record-25,3553,3654,leakage at the anastomosis site,68,99,N
+record-25,3745,3885,an elevation,52,64,P
+record-25,4024,4075,any pneumonia,36,49,N
+record-25,4075,4178,low urine output,49,65,P
+record-25,4178,4258,a prerenal etiology,59,78,U
+record-25,4478,4598,distentions of the abdomen,46,72,P
+record-25,4478,4598,accumulation of ascitic fluid,89,118,P
+record-25,4598,4657,significant lower extremity and scrotum edema,12,57,P
+record-25,5067,5164,the ascites,55,66,P
+record-25,5067,5164,SVT,92,95,P
+record-25,5206,5277,the ascites,26,37,P
+record-25,5206,5277,any organism,57,69,N
+record-25,5277,5361,oxygen requirement,19,37,P
+record-25,5361,5417,prerenal azotemia,37,54,P
+record-25,5417,5524,this condition,47,61,P
+record-25,5524,5653,oxygen requirement,109,127,N
+record-25,5776,5930,the prerenal kidney failure,125,152,N
+record-25,6551,6590,PSC,0,3,P
+record-26,120,214,type II diabetes mellitus,67,92,P
+record-26,120,214,hypercholesterolemia,42,62,P
+record-26,214,379,dyspnea,27,34,C
+record-26,214,379,exertional chest pain,50,71,P
+record-26,379,438,a positive exercise tolerance test,23,57,P
+record-26,438,746,90% stenosis of the posterior descending artery,259,306,P
+record-26,438,746,70% stenoses of the left circumflex and oblique marginal artery,191,254,P
+record-26,438,746,a dilated aortic root,55,76,P
+record-26,438,746,80% stenosis of the mid left anterior descending,91,139,P
+record-26,840,934,paroxysmal nocturnal dyspnea,64,92,N
+record-26,840,934,any orthopnea,48,61,N
+record-26,934,975,clotting problems,22,39,N
+record-26,934,975,bleeding,10,18,N
+record-26,975,1015,any palpitations,22,38,N
+record-26,1015,1086,claudication,28,40,N
+record-26,1015,1086,gastrointestinal bleeding,44,69,N
+record-26,1015,1086,wheezing,17,25,N
+record-26,1086,1140,stroke like symptoms,32,52,N
+record-26,1162,1184,Hypercholesterolemia,0,20,P
+record-26,1184,1202,Type II diabetes,0,16,P
+record-26,1202,1220,Recent pneumonia,0,16,P
+record-26,1240,1290,Recent weight loss,0,18,P
+record-26,1240,1290,the pneumonia,35,48,P
+record-26,1290,1323,Gastroesophageal reflux disease,0,31,P
+record-26,1334,1359,known drug allergies,3,23,N
+record-26,1618,1669,afebrile,41,49,N
+record-26,1799,1822,bruits,3,9,N
+record-26,1913,1969,3/6 systolic ejection murmur,0,28,P
+record-26,1969,2017,nontender,22,31,N
+record-26,1969,2017,nondistended,34,46,N
+record-26,2017,2062,hepatosplenomegaly,3,21,N
+record-26,2017,2062,CVA tenderness,29,43,N
+record-26,2062,2126,clubbing,53,61,N
+record-26,2062,2126,cyanosis,42,50,N
+record-26,2126,2133,edema,0,5,N
+record-26,2165,2188,varicosities,3,15,N
+record-26,2558,2738,his critical aortic stenosis,64,92,P
+record-26,2558,2738,his coronary artery disease,95,122,P
+record-26,2558,2738,his significantly dilated ascending aortic aneurysm,127,178,P
+record-26,3646,3709,major problems with his lungs,32,61,N
+record-26,4046,4178,slow to awake,76,89,P
+record-26,4046,4178,The major neurologic event,0,26,P
+record-26,4178,4546,an acute infarct,350,366,U
+record-26,4178,4546,chronic appearing infarcts in the right occipital lobe,105,159,P
+record-26,4178,4546,more chronic infarcts,215,236,U
+record-26,4178,4546,his confusion,11,24,P
+record-26,4617,4716,somewhat confused,53,70,P
+record-26,4617,4716,a little bit out of it,75,97,P
+record-26,4716,4777,a right sided hemiplegia,35,59,P
+record-26,5252,5511,distinctive psychiatric disorder,181,213,N
+record-26,5252,5511,postoperative delirium,235,257,U
+record-26,5252,5511,confusion,69,78,P
+record-26,5252,5511,his neurologic insults,144,166,P
+record-26,5252,5511,his psychiatric issues,99,121,P
+record-26,5849,5990,his sternal wound,68,85,P
+record-26,5849,5990,any chest pain,24,38,N
+record-26,5990,6137,hypertension,21,33,P
+record-26,5990,6137,hypercholesterolemia,80,100,P
+record-26,6297,6403,gastroesophageal reflux disease,16,47,P
+record-26,6439,6548,a little bit icteric,87,107,P
+record-26,6548,6719,slightly elevated liver function tests,49,87,P
+record-26,6780,6922,cholecystitis,109,122,U
+record-26,6780,6922,cholelithiasis,126,140,U
+record-26,6780,6922,common bile duct dilatation,67,94,N
+record-26,6780,6922,any gallstones,49,63,N
+record-26,6922,7135,slightly elevated blood sugars,35,65,P
+record-26,7568,7753,his stroke,173,183,P
+record-26,7568,7753,his inability to eat,141,161,P
+record-26,7832,7874,an aspiration risk,22,40,P
+record-26,7874,7953,his initial stroke,34,52,P
+record-26,7953,7988,an aspiration risk,15,33,P
+record-26,8202,8347,positive blood and urine cultures,16,49,P
+record-26,8202,8347,Methicillin resistant Staphylococcus aureus,74,117,P
+record-26,8347,8387,this bug,30,38,P
+record-26,8451,8499,Serratia,38,46,P
+record-26,8499,8653,E. coli,93,100,P
+record-26,8499,8653,intermittently resistant,111,135,P
+record-26,8689,8898,the E. coli in his urine,183,207,P
+record-26,8689,8898,his blood borne infection,57,82,P
+record-26,9168,9236,Coronary artery disease,0,23,P
+record-26,9236,9301,Critical aortic stenosis,0,24,P
+record-26,9301,9355,Aortic arch aneurysm,0,20,P
+record-26,9355,9385,Acute postoperative delirium,0,28,P
+record-26,9385,9407,Perioperative stroke,0,20,P
+record-26,9407,9462,Chronic blood loss anemia,0,25,P
+record-26,9462,9487,Urinary tract infection,0,23,P
+record-26,9487,9509,Hypercholesterolemia,0,20,P
+record-26,9509,9527,Type II diabetes,0,16,P
+record-26,9527,9560,Gastroesophageal reflux disease,0,31,P
+record-26,9995,10018,loose stools,9,21,H
+record-27,189,238,Nausea,0,6,P
+record-27,189,238,vomiting,9,17,P
+record-27,189,238,distention,37,47,P
+record-27,189,238,Abdominal pain,20,34,P
+record-27,341,427,colovesicular fistula,44,65,P
+record-27,455,608,nausea,84,90,P
+record-27,455,608,vomiting,95,103,P
+record-27,455,608,abdominal pain,56,70,P
+record-27,455,608,diarrhea,73,81,P
+record-27,608,739,pain,125,129,P
+record-27,608,739,worsening abdominal distention,90,120,P
+record-27,608,739,ischemia,77,85,P
+record-27,608,739,bowel obstruction,57,74,P
+record-27,761,784,MI,8,10,P
+record-27,761,784,CAD,0,3,P
+record-27,761,784,HTN,13,16,P
+record-27,761,784,DMII,19,23,P
+record-27,1103,1117,Afebrile,0,8,N
+record-27,1117,1130,NAD,10,13,N
+record-27,1133,1174,mildly decreased breath sounds b/l,7,41,P
+record-27,1174,1243,masses,29,35,N
+record-27,1174,1243,NT/ND,11,16,N
+record-27,1258,1272,LE trace edema,0,14,P
+record-27,2188,2210,VRE,19,22,P
+record-27,2224,2434,pneumatosis in the ascending colon,174,208,P
+record-27,2224,2434,Markedly dilated colon,3,25,P
+record-27,2224,2434,air-fluid levels,88,104,P
+record-27,2434,2575,wall thickening,100,115,P
+record-27,2434,2575,focal narrowing of the sigmoid colon,28,64,P
+record-27,2434,2575,the dilatation,80,94,P
+record-27,2434,2575,diverticulitis,125,139,P
+record-27,2434,2575,Sigmoid diverticulosis,0,22,P
+record-27,2575,2624,obstruction,36,47,U
+record-27,2624,2745,An underlying mass lesion,0,25,U
+record-27,2624,2745,cancer,29,35,U
+record-27,2745,2802,known sigmoid-vesicle fistula,26,55,P
+record-27,2802,2873,Small amount of ascites,3,26,P
+record-27,2873,2899,Bilateral renal cysts,3,24,P
+record-27,2899,2961,Heavy calcification of the aorta and SMA and its branches,3,60,P
+record-27,2961,3055,atherosclerosis,7,22,P
+record-27,3073,3111,pulmonary embolism,18,36,N
+record-27,3111,3175,Small bilateral pleural effusions,0,33,P
+record-27,3111,3175,compressive atelectasis,39,62,P
+record-27,3175,3377,a small collection of extraluminal gas,162,200,P
+record-27,3175,3377,Left lower quadrant thick-walled peripherally enhancing fluid collection,3,75,P
+record-27,3377,3453,an abscess,64,74,U
+record-27,3453,3489,Moderate intraabdominal ascites,3,34,P
+record-27,3489,3559,small-bowel obstruction,45,68,N
+record-27,3559,3585,Distended gallbladder,3,24,P
+record-27,3585,3643,Diverticulosis within the right remnant sigmoid colon,3,56,P
+record-27,3643,3663,leak,16,20,N
+record-27,3762,3826,confusion,18,27,P
+record-27,3867,3910,Intermitent delirium,0,20,P
+record-27,4002,4116,chest pain,31,41,P
+record-27,4154,4263,mildly elevated,19,34,P
+record-27,4263,4326,unstable angina,27,42,P
+record-27,4506,4577,trace lower extremity edema,18,45,P
+record-27,4774,4898,pneumatosis,89,100,P
+record-27,4774,4898,wall thickening,69,84,P
+record-27,4774,4898,dilated Turner colon,46,66,P
+record-27,5078,5189,friable colonic tissue,87,109,P
+record-27,5078,5189,pseudomembrane,68,82,P
+record-27,5189,5264,tender,21,27,P
+record-27,5189,5264,distended,32,41,P
+record-27,5264,5386,unresponsiveness,77,93,P
+record-27,5561,5623,distention,50,60,P
+record-27,5561,5623,additional abdominal tenderness,14,45,P
+record-27,5728,5815,a colovesicular fistula,62,85,P
+record-27,5728,5815,an abcess,47,56,P
+record-27,5869,5995,colovesicular fistula,103,124,P
+record-27,5869,5995,a leak from Relaford pouch,62,88,P
+record-27,6064,6101,nontender,26,35,N
+record-27,6196,6281,Her incision,0,12,P
+record-27,6350,6411,leak,55,59,N
+record-27,6445,6556,significant deconditioning,31,57,P
+record-27,6746,6823,high residuals,29,43,P
+record-27,7066,7108,an insulin dependent diabetic,11,40,P
+record-27,7108,7196,persistent hyperglycemia,62,86,P
+record-27,7196,7264,Pain,0,4,P
+record-27,7196,7264,Her pain,7,15,P
+record-27,7555,7601,acute events,32,44,N
+record-27,8619,8720,pain,95,99,H
+record-27,9491,9504,Hurtado Colon,0,13,P
+record-27,9504,9518,Diverticulitis,0,14,P
+record-27,9571,9707,colovesicular fistula,115,136,P
+record-27,9707,9722,Unstable Angina,0,15,P
+record-27,9773,10095,inability to eat or drink,288,313,H
+record-27,9773,10095,severe abdominal pain,218,239,H
+record-27,9773,10095,redness,196,203,H
+record-27,9773,10095,swelling,207,215,H
+record-27,9773,10095,distention,243,253,H
+record-27,9773,10095,shortness of breath,90,109,H
+record-27,9773,10095,chest pain,77,87,H
+record-27,9773,10095,fever greater than 101.5,112,136,H
+record-27,9773,10095,vomiting,277,285,H
+record-27,9773,10095,foul smelling or colorful drainage,139,173,H
+record-27,9773,10095,persistent nausea,256,273,H
+record-27,9773,10095,your incisions,179,193,P
+record-27,10095,10139,other symptoms,0,14,H
+record-27,10181,10257,clear drainage,12,26,H
+record-27,10181,10257,your incisions,32,46,P
+record-27,10257,10345,your incisions,25,39,P
+record-27,10489,10578,constipation,75,87,H
+record-27,10578,10639,drowsy,53,59,H
+record-28,111,165,Known Allergies to Drugs,30,54,N
+record-28,221,229,Overdose,0,8,P
+record-28,302,542,hepatitis C,51,62,P
+record-28,302,542,bipolar disorder,65,81,P
+record-28,701,800,unresponsive,60,72,P
+record-28,1343,1490,aspiration pneumonia,31,51,U
+record-28,1578,1583,Hep C,0,5,P
+record-28,1583,1649,Bipolar D/O,0,11,P
+record-28,1583,1649,overdose,40,48,P
+record-28,1649,1660,Agoraphobia,0,11,P
+record-28,1660,1674,Panic disorder,0,14,P
+record-28,1674,1684,Narcissism,0,10,P
+record-28,1684,1729,head trauma,14,25,N
+record-28,1684,1729,seizure disorder,29,45,N
+record-28,2020,2113,anxiety,34,41,P
+record-28,2316,2354,NAD,35,38,N
+record-28,2354,2438,tongue fasciculations,63,84,N
+record-28,2354,2438,icterus,33,40,N
+record-28,2438,2469,JVD,28,31,N
+record-28,2438,2469,LAD,19,22,N
+record-28,2469,2499,m/g/r,25,30,N
+record-28,2499,2559,decreased BS over left middle lung,10,44,P
+record-28,2559,2625,scars,28,33,N
+record-28,2559,2625,nd,20,22,N
+record-28,2559,2625,nt,51,53,N
+record-28,2625,2650,c/c/e,9,14,N
+record-28,2625,2650,edema,20,25,N
+record-28,2650,2767,asterixis,11,20,N
+record-28,2767,2857,speech stuttering,47,64,P
+record-28,2767,2857,SI,82,84,N
+record-28,2767,2857,HI,88,90,N
+record-28,4117,4236,a patchy area of increased opacity,9,43,P
+record-28,4338,4408,right pleural effusion,24,46,N
+record-28,4338,4408,right pneumothorax,50,68,N
+record-28,4547,4657,early pneumonia,93,108,U
+record-28,4547,4657,Patchy left retrocardiac opacity,3,35,P
+record-28,4547,4657,aspiration,77,87,U
+record-28,4547,4657,patchy atelectasis,56,74,U
+record-28,4709,4939,L retrocardiac infiltrate,186,211,U
+record-28,4709,4939,HCV,24,27,P
+record-28,4709,4939,overdose,70,78,P
+record-28,4709,4939,bipolar DO,30,40,P
+record-28,5012,5050,agitation,29,38,H
+record-28,5012,5050,BZD withdrawal,12,26,H
+record-28,5050,5068,Bipolar disorder,0,16,P
+record-28,5535,5545,Depression,0,10,P
+record-28,5566,5575,Depressed,0,9,P
+record-29,134,273,tires easily,111,123,C
+record-29,134,273,increasing shortness of breath,76,106,P
+record-29,273,375,congestive heart failure,63,87,P
+record-29,375,427,aortic stenosis,35,50,P
+record-29,427,540,her aortic stenosis,92,111,P
+record-29,678,834,severe aortic stenosis,80,102,P
+record-29,678,834,1+ mitral regurgitation,54,77,P
+record-29,678,834,Moderate pulmonary hypertension,0,31,P
+record-29,934,952,Aortic stenosis,3,18,P
+record-29,952,979,Diabetes mellitus Type 2,3,27,P
+record-29,1003,1044,Noninsulin dependent diabetes mellitus,3,41,P
+record-29,1220,1245,known drug allergies,3,23,N
+record-29,1261,1329,myocarditis,55,66,O
+record-29,1642,1690,acute distress,32,46,N
+record-29,1696,1718,rashes,14,20,N
+record-29,1696,1718,lesions,3,10,N
+record-29,1756,1858,anicteric,76,85,N
+record-29,1756,1858,injected,92,100,N
+record-29,1900,1977,thyromegaly,64,75,N
+record-29,1900,1977,jugular venous distention,33,58,N
+record-29,1900,1977,lymphadenopathy,12,27,N
+record-29,2026,2090,III/VI blowing murmur,41,62,P
+record-29,2099,2185,hepatosplenomegaly,66,84,N
+record-29,2099,2185,nondistended,19,31,N
+record-29,2099,2185,nontender,7,16,N
+record-29,2198,2279,edema,56,61,N
+record-29,2198,2279,cyanosis,33,41,N
+record-29,2198,2279,clubbing,44,52,N
+record-29,2198,2279,varicosities,67,79,N
+record-29,2573,2603,carotid bruits,3,17,N
+record-29,2780,2880,first degree AV block,13,34,P
+record-29,2780,2880,left ventricular hypertrophy,70,98,P
+record-29,3323,3439,somewhat labile,99,114,P
+record-29,3550,3715,a respiratory acidosis,141,163,P
+record-29,5157,5219,Scattered rhonchi,0,17,P
+record-29,5157,5219,diminished breath sounds in the bases,23,60,P
+record-29,5224,5296,soft systolic ejection murmur,41,70,P
+record-29,5315,5368,Incision,0,8,P
+record-29,5377,5439,nontender,7,16,N
+record-29,5377,5439,nondistended,19,31,N
+record-29,5452,5515,clubbing,44,52,N
+record-29,5452,5515,cyanosis,33,41,N
+record-29,5452,5515,edema,56,61,N
+record-29,5963,6050,Aortic stenosis,3,18,P
+record-29,6050,6077,Diabetes mellitus Type 2,3,27,P
+record-30,173,274,severe mitral regurgitation,72,99,P
+record-30,274,409,significant exercise intolerance,63,95,P
+record-30,409,448,severe dyspnea,11,25,C
+record-30,584,685,flow-limited disease in the coronaries,42,80,N
+record-30,584,685,several fistulae,85,101,P
+record-30,898,929,Mitral valve regurgitation,3,29,P
+record-30,1106,1131,known drug allergies,3,23,N
+record-30,1338,1375,acute distress,21,35,N
+record-30,1477,1512,missing many teeth,15,33,P
+record-30,1533,1571,cervical lymphadenopathy,12,36,N
+record-30,1584,1657,a III/VI systolic ejection murmur,38,71,P
+record-30,1706,1737,nontender,20,29,N
+record-30,1737,1801,cyanosis,19,27,N
+record-30,1737,1801,edema in extremities,42,62,N
+record-30,1737,1801,clubbing,30,38,N
+record-30,1989,2038,infiltrate,21,31,N
+record-30,1989,2038,pneumothorax,35,47,N
+record-30,2038,2124,significant disease in the coronary arteries,40,84,N
+record-30,2124,2213,an left anterior descending to PA fistula,16,57,P
+record-30,2213,2436,PA fistula,89,99,P
+record-30,2213,2436,a persistent flow,9,26,P
+record-30,2213,2436,the circumflex to PA branch fistula,127,162,P
+record-30,2793,2883,a persistent acidemia,67,88,P
+record-30,3283,3377,a slight bit of confusion,21,46,N
+record-30,3627,3721,diabetes insipidus,74,92,U
+record-30,3627,3721,intracranial pathology,40,62,U
+record-30,3955,4007,some hematuria,17,31,N
+record-30,4143,4219,Mitral regurgitation,3,23,P
+record-30,4596,4726,any fevers,29,39,H
+record-30,4596,4726,difficulties with the wound care,43,75,H
+record-31,117,171,Known Allergies to Drugs,30,54,N
+record-31,223,278,Coronary artery disease,0,23,P
+record-31,352,490,worsening anginal symptoms,40,66,P
+record-31,352,490,severe three-vessel disease,109,136,P
+record-31,552,580,DM2,0,3,P
+record-31,580,589,Arthritis,0,9,P
+record-31,589,592,HTN,0,3,P
+record-31,817,846,colon cancer,15,27,O
+record-31,908,929,NAD,18,21,N
+record-31,929,963,carotid bruits,20,34,N
+record-31,963,982,M/R/G,14,19,N
+record-31,997,1022,NT/ND,13,18,N
+record-31,1022,1068,varicosities,16,28,N
+record-31,2320,2431,constipation,97,109,H
+record-31,2652,2773,pain,102,106,H
+record-31,3943,3966,Coronary artery disease,0,23,P
+record-31,4017,4139,chills,79,85,H
+record-31,4017,4139,fever greater than 101 degrees F.,89,122,H
+record-31,4139,4252,your chest wound,64,80,P
+record-31,4139,4252,pus,108,111,H
+record-31,4139,4252,tenderness,50,60,H
+record-31,4139,4252,swelling,36,44,H
+record-31,4139,4252,redness,26,33,H
+record-31,4330,4385,incision,5,13,P
+record-32,172,241,epidural abscess,53,69,P
+record-32,543,625,epidural abscess,64,80,P
+record-32,625,698,serosal implants,47,63,P
+record-32,625,698,colon can to liver,11,29,P
+record-32,764,858,back pain,26,35,P
+record-32,908,1023,a signal abno in L3 L4,32,54,P
+record-32,908,1023,disciitis,57,66,U
+record-32,908,1023,osteo,70,75,U
+record-32,908,1023,a definitive epidural abscess,84,113,N
+record-32,1135,1261,discitis,86,94,P
+record-32,1135,1261,an epidural abscess,99,118,P
+record-32,1135,1261,L3-4 osteomyelitis,63,81,P
+record-32,1261,1374,Corynebacterium,47,62,P
+record-32,1374,1515,small pleural effusion,16,38,P
+record-32,1713,1763,weakness,40,48,N
+record-32,1713,1763,sensory deficits,20,36,N
+record-32,1763,1817,severe pain,41,52,P
+record-32,1817,1874,pain,7,11,P
+record-32,1874,1908,bowel or bladder incontinence,3,32,N
+record-32,1930,1948,epidural abscess,2,18,P
+record-32,1948,2003,colon cancer,2,14,P
+record-32,1948,2003,mets to liver,20,33,P
+record-32,2029,2056,CAD,2,5,P
+record-32,2056,2078,hypercholesterolemia,2,22,P
+record-32,2078,2100,neuropathy,10,20,P
+record-32,2078,2100,DM,2,4,P
+record-32,2100,2125,persistent R foot ulcer,2,25,P
+record-32,2573,2635,NAD,9,12,N
+record-32,2573,2635,pain,29,33,C
+record-32,2635,2667,MM very dry,19,30,P
+record-32,2667,2698,JVD,28,31,N
+record-32,2667,2698,LAD,19,22,N
+record-32,2698,2758,tenderness,48,58,N
+record-32,2698,2758,erythema,36,44,N
+record-32,2789,2830,II/VI SEM at LSB,0,16,P
+record-32,2789,2830,radiation to apex,22,39,P
+record-32,2830,2869,crackles at L base,10,28,P
+record-32,2869,2955,very tense in abdomen,9,30,P
+record-32,2955,3006,Well healed midline scar,0,24,P
+record-32,3006,3014,HSM,3,6,N
+record-32,3014,3030,edema,9,14,N
+record-32,3030,3062,R LE ulcer,20,30,P
+record-32,3218,3279,ttp of lumbar spine and paraspinal muscles,9,51,P
+record-32,3279,3310,swelling,15,23,N
+record-32,3279,3310,erythema,3,11,N
+record-32,3565,3670,epidural abscess,87,103,P
+record-32,3565,3670,discitis,72,80,P
+record-32,3565,3670,L3-4 osteomyelitis,51,69,P
+record-32,3670,3737,Degenerative changes,0,20,P
+record-32,3670,3737,multilevel central spinal stenosis,31,65,P
+record-32,3737,3821,disc bulge,72,82,P
+record-32,3737,3821,Impression on the anterior aspect of the lower spinal cord at T11-12,0,68,P
+record-32,3821,3991,paraspinous extension of infection,28,62,P
+record-32,3991,4128,moderate L pleural effusion,108,135,P
+record-32,3991,4128,Persistent unchanged L mid and lower lung field airspace disease,38,102,P
+record-32,4151,4296,corynebacterium bacteremia,117,143,P
+record-32,4151,4296,epidural abscess,96,112,P
+record-32,4151,4296,colon cancer,52,64,P
+record-32,4151,4296,known liver mets,70,86,P
+record-32,4296,4387,Epidural abscess,2,18,P
+record-32,4593,4771,low hematocrit,48,62,P
+record-32,4593,4771,hyponatremia,67,79,P
+record-32,4927,5010,Candidemia,2,12,P
+record-32,5047,5104,ocular spread,42,55,U
+record-32,5235,5322,Corynebacterium bacteremia,2,28,P
+record-32,5235,5322,Corynebacterium,42,57,U
+record-32,5235,5322,epidural abscess,61,77,P
+record-32,5322,5400,corynebacterium,42,57,U
+record-32,5400,5468,an effusion,48,59,P
+record-32,5400,5468,Pleural effusion,2,18,P
+record-32,5510,5552,malignant cells,25,40,N
+record-32,5552,5686,intrapleural tumor implants,105,132,P
+record-32,5552,5686,nodular thickening,29,47,P
+record-32,5760,5850,symptomatic,52,63,H
+record-32,5760,5850,fluid accumulation,70,88,P
+record-32,5898,5958,diabetic ulcer,15,29,P
+record-32,5898,5958,Foot ulcer,2,12,P
+record-32,6085,6134,Anemia,2,8,P
+record-32,7043,7151,fever,93,98,H
+record-32,7043,7151,pain,102,106,H
+record-32,7478,7573,pain,77,81,H
+record-32,8751,8787,Epidural abscess,20,36,P
+record-32,8808,8863,colon cancer,2,14,P
+record-32,8808,8863,mets to liver,20,33,P
+record-32,8863,8890,CAD,2,5,P
+record-32,8890,8912,hypercholesterolemia,2,22,P
+record-32,8912,8934,DM,2,4,P
+record-32,8912,8934,neuropathy,10,20,P
+record-32,8934,8959,persistent R foot ulcer,2,25,P
+record-32,8980,8997,afebrile,9,17,N
+record-32,9021,9066,an epidural abscess,24,43,P
+record-32,9241,9254,fever,2,7,H
+record-32,9254,9289,chest pain,2,12,H
+record-32,9254,9289,shortness of breath,16,35,H
+record-32,9289,9401,loss of bowel or bladder function,44,77,H
+record-32,9289,9401,any other concerning symptoms,81,110,H
+record-32,9289,9401,weakness in your legs,20,41,H
+record-32,9289,9401,worsening pain,2,16,H
+record-33,211,237,Increasing abdominal girth,0,26,P
+record-33,321,577,portal vein thrombosis,82,104,P
+record-33,321,577,encephalopathy,47,61,P
+record-33,321,577,HCV cirrhosis,19,32,P
+record-33,321,577,ascites,64,71,P
+record-33,321,577,increasing abdominal girth,228,254,P
+record-33,577,638,worsening lower ext edema,34,59,P
+record-33,577,638,sob,19,22,P
+record-33,577,638,nausea,25,31,P
+record-33,638,677,abd pain,11,19,N
+record-33,638,677,chills,31,37,N
+record-33,638,677,fevers,22,28,N
+record-33,856,930,complication,60,72,N
+record-33,856,930,non-bloody ascitic fluid,19,43,P
+record-33,1048,1153,abd pain,47,55,P
+record-33,1292,1387,decreased,28,37,P
+record-33,1387,1477,low,17,20,P
+record-33,1477,1594,decreased,27,36,P
+record-33,1477,1594,minimal,77,84,P
+record-33,1678,1845,SBP,130,133,N
+record-33,1678,1845,her abdominal pain,147,165,N
+record-33,1678,1845,abdominal discomfort,53,73,P
+record-33,2125,2233,worsening renal function,14,38,P
+record-33,2233,2305,syndrome,0,8,N
+record-33,2305,2439,Klebsiella,121,131,P
+record-33,2305,2439,Enterococcus,102,114,P
+record-33,2305,2439,UTI,95,98,P
+record-33,2305,2439,mild DIC,45,53,P
+record-33,2439,2543,Enterococcus,53,65,P
+record-33,2439,2543,Klebsiella,84,94,P
+record-33,2565,2644,HCV cirrhosis,0,13,P
+record-33,2565,2644,esophageal varices,18,36,P
+record-33,2565,2644,ascites,39,46,P
+record-33,2565,2644,partial portal vein thrombosis,49,79,P
+record-33,2644,2657,gastritis,4,13,P
+record-33,2657,2671,morbid obesity,0,14,P
+record-33,2671,2697,cholecystitis,7,20,P
+record-33,2711,2728,sickle cell trait,0,17,P
+record-33,2983,3010,scleral icterus,10,25,P
+record-33,3010,3021,thrush,3,9,N
+record-33,3073,3099,murmurs,19,26,N
+record-33,3099,3238,mildly distended,25,41,P
+record-33,3099,3238,obese,10,15,P
+record-33,3099,3238,large volume of ascited,116,139,P
+record-33,3099,3238,tenderness,77,87,N
+record-33,3099,3238,liver non-palpable,90,108,P
+record-33,3099,3238,dull,42,46,P
+record-33,3238,3319,pretibial edema,22,37,P
+record-33,3238,3319,asterixis,70,79,N
+record-33,3319,3337,palmar erythema,3,18,N
+record-33,4146,4215,Small cirrhotic liver,3,24,P
+record-33,4215,4236,Moderate ascites,3,19,P
+record-33,4236,4295,acute cholecystitis,38,57,U
+record-33,4236,4295,Cholelithiasis,3,17,P
+record-33,4295,4317,hydronephrosis,6,20,N
+record-33,4317,4345,Borderline splenomegaly,3,26,P
+record-33,4368,4579,SBP,135,138,N
+record-33,4368,4579,HCV cirrhosis,38,51,P
+record-33,4368,4579,encephalopathy,56,70,P
+record-33,4368,4579,esophageal varices,73,91,P
+record-33,4368,4579,partial vein thrombosis,96,119,P
+record-33,4368,4579,ascites,202,209,P
+record-33,4368,4579,increasing abdominal girth,155,181,P
+record-33,4579,4702,confusion,101,110,P
+record-33,4579,4702,hypotension,87,98,P
+record-33,4579,4702,anemia,115,121,P
+record-33,4702,4753,Liver cirrhosis,2,17,P
+record-33,4753,4812,more encephalopathic,10,30,P
+record-33,4812,4867,her obesity,42,53,P
+record-33,5033,5146,the pt 's prognosis,28,47,P
+record-33,5282,5413,Recurrent ascites,2,19,P
+record-33,5413,5441,SBP,23,26,N
+record-33,5441,5553,hypotensive,26,37,P
+record-33,5441,5553,Hypotension,2,13,P
+record-33,5553,5661,sepsis,57,63,U
+record-33,5553,5661,sepsis,100,106,U
+record-33,5790,5881,bleed into her abdomen,67,89,U
+record-33,5790,5881,Hct dropped,11,22,P
+record-33,5790,5881,Anemia,2,8,P
+record-33,5913,5971,bleed,51,56,N
+record-33,5971,6036,the acute drop.,50,65,P
+record-33,6036,6119,ARF,2,5,P
+record-33,6119,6189,pre-renal,44,53,U
+record-33,6119,6189,hepatorenal,57,68,U
+record-33,6298,6405,hepatorenal,29,40,P
+record-33,6416,6498,her worsening liver failure,53,80,P
+record-33,6797,6804,expired,0,7,P
+record-34,404,510,Tuberculosis,3,15,N
+record-34,510,526,Infertility,3,14,P
+record-34,526,637,duodenal atresia,84,100,P
+record-34,526,637,polyhydramnios,55,69,P
+record-34,526,637,twin gestation,33,47,P
+record-34,637,693,Trisomy 21,27,37,U
+record-34,637,693,thickening,0,10,P
+record-34,726,878,Maternal hypertension,0,21,P
+record-34,1016,1066,a breech presentation,27,48,P
+record-34,1066,1087,Sepsis risk factors,0,19,P
+record-34,1087,1155,fetal tachycardia,14,31,N
+record-34,1087,1155,fever,3,8,N
+record-34,1087,1155,rupture of membranes,34,54,P
+record-34,1215,1303,distress,30,38,N
+record-34,1392,1470,nondysmorphic features,54,76,N
+record-34,1470,1538,retractions,55,66,N
+record-34,1538,1614,murmur,37,43,N
+record-34,1614,1645,nondistended,17,29,N
+record-34,1645,1690,masses,37,43,N
+record-34,1645,1690,hepatosplenomegaly,8,26,N
+record-34,2107,2193,retractions,42,53,N
+record-34,2193,2274,murmur,73,79,N
+record-34,2598,2628,hypoglycemia issues,3,22,N
+record-34,3016,3064,sepsis risk factors,27,46,N
+record-34,4774,4804,chronic lung disease,8,28,H
+record-34,4804,4922,RSV,82,85,H
+record-34,5096,5216,chronic lung disease,90,110,H
+record-34,5335,5368,influenza,0,9,H
+record-34,5483,5529,Prematurity,3,14,P
+record-34,5529,5547,sepsis,12,18,U
+record-35,130,273,lower abdominal pain,121,141,P
+record-35,273,365,fibroids,82,90,P
+record-35,365,521,continuing vaginal discharge,12,40,P
+record-35,365,521,bacterial vaginosis,66,85,P
+record-35,521,643,increasing abdominal pain,10,35,P
+record-35,643,815,abdominal pain,88,102,P
+record-35,842,932,vomiting,80,88,N
+record-35,842,932,nausea,70,76,N
+record-35,842,932,some loose stools,23,40,P
+record-35,932,997,chills,57,63,N
+record-35,997,1178,fluid,59,64,P
+record-35,997,1178,gas in the endometrial cavity,81,110,U
+record-35,1204,1253,spontaneous abortion,23,43,P
+record-35,1313,1384,Some spotting,0,13,P
+record-35,1446,1501,Fibroid uterus,0,14,P
+record-35,1501,1539,SAB,33,36,P
+record-35,1539,1596,herpes simplex virus,11,31,P
+record-35,1596,1631,abnormal Pap smears,14,33,N
+record-35,2043,2086,acute distress,27,41,N
+record-35,2086,2260,involuntary guarding,54,74,N
+record-35,2086,2260,nondistended,160,172,N
+record-35,2086,2260,mild right lower quadrant tenderness,88,124,P
+record-35,2086,2260,rebound,78,85,N
+record-35,2086,2260,voluntary guarding,28,46,P
+record-35,2260,2324,some brownish discharge,39,62,P
+record-35,2324,2418,voluntary tensing of her abdomen,60,92,P
+record-35,2430,2649,continued abdominal pain,131,155,P
+record-35,2430,2649,fluid and gas in the endometrial cavity,178,217,P
+record-35,2430,2649,uterine fibroids,107,123,P
+record-35,2847,2891,elevated,27,35,P
+record-35,2982,3123,gram-positive cocci in pairs and clusters,98,139,P
+record-35,2982,3123,positive,60,68,P
+record-35,3123,3237,staphylococcus coag-negative,32,60,H
+record-35,3237,3369,a temperature spike,102,121,P
+record-35,3237,3369,afebrile,47,55,N
+record-35,3653,3800,continued air in the endometrial cavity,80,119,P
+record-35,3653,3800,the fundal fibroid,127,145,P
+record-35,3800,3937,post-surgical change,115,135,U
+record-35,3800,3937,an infected abscess,91,110,U
+record-35,4023,4074,the abscess,21,32,P
+record-36,190,241,ACQUIRED DEFECT,0,15,P
+record-36,392,591,AN AQUIRED DEFECT OF THE RIGHT NASAL ALA AND MEDIAL CHEEK REGION,78,142,P
+record-36,392,591,BASAL CELL CARCINOMA,149,169,P
+record-36,392,591,MENTALLY RETARDED,32,49,P
+record-36,613,631,MENTAL RETARDATION,0,18,P
+record-36,631,639,DIABETES,0,8,P
+record-36,639,655,BIPOLAR DISORDER,0,16,P
+record-36,792,849,AFEBRILE,25,33,N
+record-36,849,912,ACUTE DISTRESS,9,23,N
+record-36,912,1006,5 CM CIRCULAR FULL THICKNESS DEFECT,16,51,P
+record-36,1064,1107,NON-TENDER,17,27,N
+record-36,1064,1107,NON-DISTENDED,30,43,N
+record-36,1107,1163,CYANOSIS,25,33,N
+record-36,1107,1163,EDEMA,17,22,N
+record-36,1414,1560,AFEBRILE,65,73,N
+record-36,1560,1643,HER WOUND,0,9,P
+record-36,1560,1643,INFECTION,59,68,N
+record-36,1560,1643,BREAKDOWN,72,81,N
+record-36,2242,2351,constipation,95,107,H
+record-36,2981,3075,AQUIRED DEFORMITY OF THE RIGHT ALA / NOSE AND MEDIAL CHEEK,0,58,P
+record-36,3205,3394,INCREASED REDNESS,111,128,H
+record-36,3205,3394,INFECTION,25,34,H
+record-36,3205,3394,FEVERS,45,51,H
+record-36,3205,3394,CHILLS,54,60,H
+record-36,3205,3394,INCREASED PAIN,131,145,H
+record-36,3205,3394,PURULENT DISCHARGE FROM WOUND / INCISION SITE,63,108,H
+record-36,3205,3394,SIGNS AND SYMPTOMS,3,21,H
+record-36,3584,3720,WOUND,129,134,P
+record-36,3584,3720,INCISION SITE,13,26,P
+record-36,3759,3855,HER WOUND,85,94,P
+record-37,111,165,Known Allergies to Drugs,30,54,N
+record-37,216,228,Hip fracture,0,12,P
+record-37,460,594,intra-abdominal abscess,43,66,P
+record-37,460,594,gross soilage with bile and gastric contents,88,132,P
+record-37,460,594,peritonitis,71,82,P
+record-37,594,700,perforated posterior duodenal ulcer,33,68,P
+record-37,820,932,a hip and arm fracture,88,110,P
+record-37,820,932,MMP,13,16,P
+record-37,820,932,a mechanical fall,45,62,P
+record-37,932,964,Fall,0,4,P
+record-37,964,1017,LOC,23,26,N
+record-37,964,1017,head or neck trauma,32,51,N
+record-37,964,1017,Nicholas seizures,0,17,P
+record-37,1017,1103,SOB,20,23,N
+record-37,1017,1103,CP,15,17,N
+record-37,1017,1103,light headedness,26,42,N
+record-37,1017,1103,the fall,76,84,P
+record-37,1017,1103,dizziness,48,57,N
+record-37,1103,1177,pain in her R arm and hip,47,72,P
+record-37,1177,1240,R humerus and R hip fx,39,61,P
+record-37,1240,1298,bleed,33,38,N
+record-37,1240,1298,fx,28,30,N
+record-37,1240,1298,dislocation,45,56,N
+record-37,1320,1515,Coronary artery disease,3,26,P
+record-37,1320,1515,non-ST-elevation myocardial infarction,39,77,P
+record-37,1515,1563,CHF,3,6,P
+record-37,1563,1583,Diabetes type 2,3,18,P
+record-37,1583,1637,transfusion dependent,12,33,P
+record-37,1583,1637,Anemia,3,9,P
+record-37,1647,1674,Polymyalgia rheumatica,3,25,P
+record-37,1674,1691,Hypertension,3,15,P
+record-37,1691,1710,Hypothyroidism,3,17,P
+record-37,1710,1771,Chronic renal insufficiency,3,30,P
+record-37,1771,1853,first degree A-V heart block,26,54,P
+record-37,1771,1853,syncope,14,21,P
+record-37,1853,1912,lower gastrointestinal bleed,15,43,P
+record-37,1912,1931,spinal stenosis,4,19,P
+record-37,1931,2026,symptomatic bradycardia,72,95,P
+record-37,2296,2322,somnolent,6,15,P
+record-37,2296,2322,confused,18,26,P
+record-37,2353,2373,m/r/g,15,20,N
+record-37,2396,2413,s/nt/nd,6,13,N
+record-37,2413,2481,edema to knees,10,24,P
+record-37,2413,2481,pain in R arm and R hip,45,68,P
+record-37,3090,3229,LAD,86,89,P
+record-37,3090,3229,1st deg block,70,83,P
+record-37,3090,3229,new TWI inf/lat leads,92,113,P
+record-37,3090,3229,new ST depressions V4-6,116,139,P
+record-37,3239,3281,moderately dilated,22,40,P
+record-37,3281,3311,elongated,19,28,P
+record-37,3408,3470,mild regional left ventricular systolic dysfunction,9,60,P
+record-37,3470,3534,mildly depressed,46,62,P
+record-37,3534,3638,"inferolateral , inferior and mid septal hypokinesis",51,102,P
+record-37,3534,3638,Resting regional wall motion abnormalities,0,42,P
+record-37,3730,3787,mildly thickened,39,55,P
+record-37,3787,3820,aortic regurgitation,3,23,N
+record-37,3820,3871,mildly thickened,33,49,P
+record-37,3871,3917,Moderate ( 2 +) mitral regurgitation,0,36,P
+record-37,3917,3978,moderate pulmonary artery systolic hypertension,12,59,P
+record-37,3978,4015,pericardial effusion,15,35,N
+record-37,4198,4302,more severe mitral regurgitation,62,94,P
+record-37,4198,4302,New inferior and inferolateral wall motion abnormalities,0,56,P
+record-37,4311,4398,single vessel disease in a right dominant system,37,85,P
+record-37,4424,4573,occluded,99,107,P
+record-37,4424,4573,serial 90% lesions proximally,12,41,P
+record-37,4573,4655,underfilled,23,34,P
+record-37,4573,4655,obstructive disease,61,80,N
+record-37,4655,4735,hemodynamically significant stenoses,42,78,N
+record-37,4735,4800,significant disease,44,63,N
+record-37,4800,4953,elevated right and left sided filling pressures,33,80,P
+record-37,4953,5017,Moderate pulmonary hypertension,0,31,P
+record-37,5070,5184,moderate renal insufficiency,66,94,P
+record-37,5184,5377,dissection,144,154,N
+record-37,5184,5377,residual stenosis,123,140,N
+record-37,5394,5433,One vessel coronary artery disease,3,37,P
+record-37,5433,5496,Moderately elevated right and left sided filling pressures,3,61,P
+record-37,6820,6860,ACUTE MI,32,40,U
+record-37,8078,8124,perf / ischemic bowel,25,46,U
+record-37,8154,8243,MS changes,23,33,P
+record-37,8154,8243,bloody lavage,61,74,P
+record-37,8154,8243,abd pain,36,44,P
+record-37,8154,8243,hypotension,45,56,P
+record-37,8272,8309,perf / ischemic bowel,16,37,U
+record-37,8309,8358,renal failure,36,49,P
+record-37,8358,8460,abdominal pain,69,83,P
+record-37,8358,8460,hypertension,88,100,P
+record-37,8358,8460,mental status changes,36,57,P
+record-37,8623,8784,bilateral pleural effusions,50,77,P
+record-37,8623,8784,compressive atelectasis at the left lung base,114,159,P
+record-37,8784,8828,coronary vascular calcifications,10,42,P
+record-37,9172,9223,A 1.8 cm exophytic renal cyst,0,29,P
+record-37,9223,9281,A similar lesion,0,16,P
+record-37,9281,9344,vascular calcifications,38,61,P
+record-37,9344,9508,A small amount of free fluid,0,28,P
+record-37,9508,9595,A small amount of nondependent free air,0,39,P
+record-37,9595,9663,nondilated,56,66,N
+record-37,9663,9842,a small amount of free fluid,70,98,P
+record-37,9842,9920,A small amount of free air,0,26,P
+record-37,9920,9996,Vascular calcifications,0,23,P
+record-37,9996,10057,Subcutaneous edema,0,18,P
+record-37,10181,10360,a fracture of the proximal right humerus,78,118,P
+record-37,10181,10360,beam hardening artifact,154,177,P
+record-37,10181,10360,degenerative changes of the spine,38,71,P
+record-37,10372,10551,perforation,166,177,P
+record-37,10372,10551,free air and free fluid in the pelvis and abdomen,21,70,P
+record-37,10689,10789,Bilateral pleural effusions,3,30,P
+record-37,10689,10789,left-sided compressive atelectasis,64,98,P
+record-37,10789,10846,Right proximal humeral fracture,3,34,P
+record-37,11004,11102,MMP,13,16,P
+record-37,11004,11102,a hip and arm fracture,74,96,P
+record-37,11004,11102,a mechanical fall,31,48,P
+record-37,11102,11153,Fall,7,11,P
+record-37,11153,11199,injuries to her shoulder and hip,12,44,P
+record-37,11199,11264,a low hct,37,46,P
+record-37,11199,11264,major trauma,51,63,P
+record-37,11199,11264,CAD,20,23,P
+record-37,11199,11264,CHF,28,31,P
+record-37,11264,11297,new changes on EKG,13,31,P
+record-37,11325,11390,Anemia,3,9,P
+record-37,11325,11390,transfusion dependant,20,41,P
+record-37,11428,11441,GERD,3,7,P
+record-37,11441,11464,DM,3,5,P
+record-37,11464,11488,PMR,3,6,P
+record-37,11488,11814,right wrist fracture,125,145,P
+record-37,11488,11814,worsening mental status,283,306,P
+record-37,11488,11814,abdominal pain,225,239,P
+record-37,11488,11814,distention,242,252,P
+record-37,11488,11814,renal failure,311,324,P
+record-37,11488,11814,coffee ground emesis,257,277,P
+record-37,11488,11814,a recent fall,71,84,P
+record-37,11814,11883,free air,39,47,P
+record-37,11814,11883,massive ascites,52,67,P
+record-37,11912,12046,intra-abdominal abscess,43,66,P
+record-37,11912,12046,peritonitis,71,82,P
+record-37,11912,12046,gross soilage with bile and gastric contents,88,132,P
+record-37,12046,12152,perforated posterior duodenal ulcer,33,68,P
+record-37,12197,12346,spiking fevers,24,38,P
+record-37,12618,12625,Expired,0,7,P
+record-37,12646,12664,MULTIORGAN FAILURE,0,18,P
+record-37,12664,12684,DUODENAL PERFORATION,0,20,P
+record-37,12684,12699,MULTIPLE TRAUMA,0,15,P
+record-38,209,287,adverse reaction,30,46,P
+record-38,209,287,tongue injury,63,76,P
+record-38,315,542,bile leak,166,175,U
+record-38,654,755,abdominal pain,85,99,P
+record-38,835,997,free air,151,159,P
+record-38,835,997,thickened stomach,129,146,P
+record-38,1139,1258,a bile leak at the duct of Luschka,83,117,P
+record-38,1291,1433,rigidity,113,121,P
+record-38,1291,1433,cold / chills,126,139,P
+record-38,1291,1433,biting tongue,97,110,P
+record-38,1291,1433,jaw clenching,81,94,P
+record-38,1540,1720,chills,95,101,P
+record-38,1540,1720,tachycardia,33,44,P
+record-38,1540,1720,infection,65,74,U
+record-38,1540,1720,her fevers,81,91,P
+record-38,1540,1720,the tongue injury,11,28,P
+record-38,1742,1760,Hiatal hernia,3,16,P
+record-38,1821,1878,Urinary frequency,3,20,P
+record-38,1821,1878,interstitial cystitis,34,55,P
+record-38,1878,1904,Mitral valve prolapse,3,24,P
+record-38,2006,2144,her rigidity,80,92,P
+record-38,2006,2144,jaw clenching,97,110,P
+record-38,2006,2144,known drug allergies,3,23,N
+record-38,2429,2513,shivering,61,70,P
+record-38,2429,2513,groggy,29,35,P
+record-38,2513,2568,laceration on the right edge,25,53,P
+record-38,2751,2781,rubs,13,17,N
+record-38,2751,2781,murmurs,3,10,N
+record-38,2751,2781,gallops,21,28,N
+record-38,2781,2826,nondistended,31,43,N
+record-38,2781,2826,nontender,19,28,N
+record-38,2863,2897,guarding,24,32,N
+record-38,2863,2897,rebound,13,20,N
+record-38,2897,2981,post laparoscopic incisions,11,38,P
+record-38,2897,2981,erythema,47,55,N
+record-38,2981,3017,edema,29,34,N
+record-38,3064,3086,rashes,14,20,N
+record-38,3541,3577,ST or T wave changes,14,34,N
+record-38,3577,3709,small fluid in the circumferential thickening of the distal stomach,63,130,P
+record-38,3577,3709,inflammation in the right upper quadrant,20,60,P
+record-38,3709,3748,a small ulcer,24,37,U
+record-38,3748,3785,free air,27,35,P
+record-38,3842,4099,a bile leak,176,187,P
+record-38,4099,4259,tongue biting,50,63,P
+record-38,4099,4259,jaw clenching,32,45,P
+record-38,4099,4259,rigidity,18,26,P
+record-38,4699,4751,a bile leak from the duct of Luschka,14,50,P
+record-38,4881,4915,waxing and waning fevers,8,32,P
+record-38,4915,5011,really elevated,47,62,N
+record-38,4915,5011,a bandemia,84,94,N
+record-38,5234,5249,elevated,5,13,P
+record-38,5361,5477,marked rebound,72,86,P
+record-38,5591,5659,mild pancreatitis,49,66,P
+record-38,5659,5738,intra-abdominal fluid collections,14,47,N
+record-38,5738,5830,the rebound,64,75,P
+record-38,5738,5830,the patient 's pain,26,45,P
+record-38,6027,6033,pain,0,4,N
+record-38,6033,6061,further rebound,11,26,N
+record-38,6061,6142,temperature spikes,11,29,N
+record-38,6482,6548,an anion gap acidosis,43,64,P
+record-38,6548,6645,ketoacidosis,34,46,P
+record-38,6645,6759,her anion gap acidosis,77,99,N
+record-38,7545,7614,Post endoscopic retrograde cholangiopancreatography pancreatitis,3,67,P
+record-38,7614,7625,Anemia,3,9,P
+record-38,7625,7641,Hypokalemia,3,14,P
+record-38,7641,7664,Anion gap acidosis,3,21,P
+record-38,7664,7678,Bile leak,3,12,P
+record-45,122,194,Berkitt's lymphoma,52,70,P
+record-45,236,254,Liver lesions,3,16,P
+record-45,254,373,the previously noted enumerable hepatic cyst in her liver,60,117,P
+record-45,373,560,lymphoma,152,160,U
+record-45,373,560,hepatic candidiasis,98,117,U
+record-45,373,560,these cysts,76,87,P
+record-45,373,560,Burkitt's,176,185,U
+record-45,560,652,her hepatic candidiasis,67,90,P
+record-45,910,977,elevated,25,33,P
+record-45,977,1069,febrile,29,36,N
+record-45,1069,1176,hypotension,72,83,P
+record-45,1504,1526,Guarded,0,7,P
+record-45,1547,1570,Burkitt's lymphoma,3,21,P
+record-45,1570,1594,Hepatic candidiasis,3,22,P
+record-45,1775,1828,itching,44,51,H
+record-46,268,571,a cystic lesion,217,232,P
+record-46,268,571,chronic pancreatitis,58,78,P
+record-46,571,732,abdominal pain,108,122,P
+record-46,571,732,pancreatitis,147,159,P
+record-46,732,835,an enlargement of the head of his pancreas,61,103,U
+record-46,835,860,early pseudocyst,7,23,U
+record-46,1061,1166,significantly elevated alkaline phosphatase,60,103,P
+record-46,1166,1357,abdominal pain,43,57,P
+record-46,1166,1357,his pancreatitis,65,81,P
+record-46,1166,1357,nausea,89,95,P
+record-46,1166,1357,vomiting,100,108,P
+record-46,1507,1584,11% bandemia,32,44,P
+record-46,1584,1675,pancreatitis,41,53,U
+record-46,1584,1675,no flow,19,26,P
+record-46,1584,1675,common bile duct obstruction,61,89,U
+record-46,1759,1904,recorded melena,128,143,P
+record-46,1904,1967,stones,55,61,N
+record-46,1967,2091,a dilated common bile duct,68,94,P
+record-46,1967,2091,wall thickening,48,63,N
+record-46,2091,2194,a long nipple like papilla,75,101,P
+record-46,2299,2399,Streptococcus sanguis-gordonii,59,89,P
+record-46,2725,2754,Type 2 diabetes mellitus,3,27,P
+record-46,2754,2784,Right rotator cuff injury,3,28,P
+record-46,2784,2861,Gastroesophageal reflux disease,3,34,P
+record-46,2784,2861,stricture,66,75,P
+record-46,2861,2954,recurrent pancreatitis,43,65,P
+record-46,2861,2954,Recent pancreatitis,3,22,P
+record-46,2954,3050,Streptococcemia,14,29,P
+record-46,3554,3630,allergic,15,23,C
+record-46,3646,3720,a psychiatric condition,49,72,O
+record-46,4011,4093,acute distress,66,80,N
+record-46,4240,4259,icterus,10,17,N
+record-46,4259,4360,murmurs,53,60,N
+record-46,4259,4360,gallops,64,71,N
+record-46,4432,4508,nondistended,50,62,N
+record-46,4432,4508,nontender,65,74,N
+record-46,4649,4687,rebound,13,20,N
+record-46,4649,4687,Munos sign,26,36,N
+record-46,4687,4730,swelling,33,41,N
+record-46,4687,4730,edema,22,27,N
+record-46,5446,5561,white cells,67,78,N
+record-46,5446,5561,trace glucose,20,33,P
+record-46,5446,5561,ketones,39,46,N
+record-46,5446,5561,red cells,52,61,N
+record-46,5675,5797,mild biliary stricture,52,74,P
+record-46,5675,5797,chronic pancreatitis,100,120,P
+record-46,5820,5929,chronic pancreatitis,87,107,P
+record-46,5820,5929,dilated pancreatic ducts,26,50,P
+record-46,5820,5929,calcifications,56,70,P
+record-46,6017,6071,stone fragments,37,52,P
+record-46,6071,6139,complications,53,66,N
+record-46,6139,6273,pseudocyst,92,102,U
+record-46,6139,6273,enlarged pancreas head,110,132,U
+record-46,6273,6533,malignancy,149,159,U
+record-46,6273,6533,this mass,235,244,P
+record-46,6273,6533,a forming pseudocyst,99,119,U
+record-46,6641,6699,complications,10,23,N
+record-46,6641,6699,subsequently pancreatitis,31,56,N
+record-46,6699,6788,all the other abnormal liver function tests,29,72,P
+record-46,6788,6845,pain,10,14,N
+record-46,6845,6917,afebrile,41,49,N
+record-46,6917,7054,the patient 's documented Strep septicemia,16,58,P
+record-46,7054,7254,Streptococcus sanguis,153,174,P
+record-46,7563,7642,this documented septicemia,4,30,P
+record-46,7642,7711,vegetations,56,67,N
+record-46,7711,7884,mildly dilated left atrium,46,72,P
+record-46,7711,7884,mild symmetric left ventricular hypertrophy,75,118,P
+record-46,7884,7939,other abnormalities,14,33,N
+record-46,8009,8104,valvular vegetations,73,93,N
+record-46,8104,8221,A complex plaque,0,16,P
+record-46,8104,8221,this plaque,90,101,P
+record-46,8221,8306,focal mitral valve prolapse,10,37,P
+record-46,8221,8306,pathologic mitral regurgitation,52,83,N
+record-46,8306,8364,trace aortic regurgitation,30,56,P
+record-46,8447,8572,his alpha septicemia from his mouth,88,123,U
+record-46,8572,8783,a documented alpha Streptococcal septicemia,129,172,P
+record-46,9328,9404,fever,69,74,H
+record-46,9328,9404,shaking,51,58,H
+record-46,9328,9404,chills,59,65,H
+record-46,9425,9519,Pancreatitis,3,15,P
+record-46,9519,9554,Alpha Streptococcus septicemia,3,33,P
+record-47,124,253,respiratory distress,107,127,P
+record-47,124,253,Respiratory distress,0,20,P
+record-47,753,873,Anemia,0,6,P
+record-47,920,1016,Hypotension,0,11,P
+record-47,1063,1130,hypotensive,19,30,P
+record-47,1063,1130,any symptoms,53,65,N
+record-47,1299,1346,hypotension,23,34,N
+record-47,1439,1502,resolving right lower lobe pneumonia,25,61,P
+record-47,1502,1592,her asthma,42,52,P
+record-48,112,166,Known Allergies,30,45,N
+record-48,219,238,vomiting,11,19,P
+record-48,219,238,nausea,0,6,P
+record-48,371,559,ESRD,73,77,P
+record-48,371,559,gastroparesis,57,70,P
+record-48,371,559,Type I DM,39,48,P
+record-48,371,559,HTN,51,54,P
+record-48,371,559,hypertensive urgency,144,164,P
+record-48,559,734,hypertensive,115,127,P
+record-48,559,734,abdominal pain,80,94,P
+record-48,559,734,vomiting,69,77,P
+record-48,559,734,his usual nausea,50,66,P
+record-48,734,931,pain,163,167,P
+record-48,734,931,diaphoretic,134,145,P
+record-48,734,931,somnolence,48,58,P
+record-48,734,931,lack of desire,63,77,P
+record-48,1354,1456,nausea,83,89,P
+record-48,1354,1456,abdominal pain,34,48,P
+record-48,1354,1456,vomiting,92,100,P
+record-48,1456,1585,hypoglycemia,55,67,P
+record-48,1456,1585,labile blood sugars,9,28,P
+record-48,1585,1756,critically high,64,79,P
+record-48,1756,1961,somewhat uncomfortable,50,72,P
+record-48,1756,1961,nausea,85,91,P
+record-48,1756,1961,abdominal pain,96,110,P
+record-48,1756,1961,sleepiness,193,203,P
+record-48,1961,2050,other symptoms,73,87,N
+record-48,1961,2050,SOB,15,18,N
+record-48,1961,2050,CP,10,12,N
+record-48,1961,2050,HA,21,23,N
+record-48,1961,2050,neck stiffness,43,57,N
+record-48,1961,2050,dysuria,60,67,N
+record-48,1961,2050,vision changes,26,40,N
+record-48,2050,2100,hypotensive,26,37,P
+record-48,2199,2465,abscess at the site,245,264,U
+record-48,2199,2465,localizing signs of infection,134,163,N
+record-48,2199,2465,hypotension,34,45,P
+record-48,2465,2524,hypotension,46,57,P
+record-48,2721,2945,somnolent,70,79,P
+record-48,2945,3110,disoriented,50,61,P
+record-48,3110,3252,GPC in pairs and clusters,38,63,P
+record-48,3328,3340,DM type,3,10,P
+record-48,3340,3399,ESRD,3,7,P
+record-48,3399,3536,gastroparesis,92,105,P
+record-48,3399,3536,hypertensive emergency,67,89,P
+record-48,3399,3536,orthostatic hypotension,112,135,P
+record-48,3399,3536,Severe autonomic dysfunction,3,31,P
+record-48,3536,3578,esophageal erosion,14,32,P
+record-48,3536,3578,MW tear,35,42,P
+record-48,3578,3655,1-vessel disease,12,28,P
+record-48,3578,3655,CAD,3,6,P
+record-48,3578,3655,50% stenosis D1,31,46,P
+record-48,3665,3684,Foot Ulcer,9,19,P
+record-48,3684,3735,clot,7,11,P
+record-48,3898,3945,ESRD,28,32,O
+record-48,3898,3945,diabetes,37,45,O
+record-48,3945,3993,hypertension,34,46,O
+record-48,3993,4072,diabetes,30,38,O
+record-48,3993,4072,diabetes,69,77,O
+record-48,4129,4209,sleepy,10,16,P
+record-48,4209,4332,anicteric,89,98,N
+record-48,4209,4332,left pupil smaller than right,16,45,P
+record-48,4209,4332,MM dry,101,107,P
+record-48,4209,4332,OP lesions,113,123,N
+record-48,4332,4354,JVD,19,22,N
+record-48,4354,4405,2/6 systolic murmur at LUSB,24,51,P
+record-48,4422,4463,erythema,33,41,N
+record-48,4463,4553,multiple well healed scars,64,90,P
+record-48,4463,4553,ND,13,15,N
+record-48,4463,4553,nontender,18,27,N
+record-48,4463,4553,guarding,40,48,N
+record-48,4463,4553,rebound,54,61,N
+record-48,4553,4608,left arm with fistula,17,38,P
+record-48,4553,4608,c/c/e,9,14,N
+record-48,4608,4624,rashes,10,16,N
+record-48,4647,4741,specific complaints,73,92,N
+record-48,4741,4765,hypertensive urgency,2,22,P
+record-48,4765,4912,hypertension,81,93,P
+record-48,4765,4912,N/V,142,145,P
+record-48,4765,4912,inability to take meds,105,127,P
+record-48,4912,4956,autonomic dysfunction,21,42,P
+record-48,4956,4996,active end organ damage,15,38,N
+record-48,5073,5235,demand ischemia,45,60,P
+record-48,5073,5235,hypertensive urgency,75,95,P
+record-48,5073,5235,carduac enzymes mildly elevated,0,31,P
+record-48,5235,5312,Pt 's hypertensive urgency,0,26,N
+record-48,5547,5561,bacteremia,2,12,P
+record-48,5561,5625,coag neg staph,20,34,P
+record-48,5625,5732,+ blood cultures,69,85,P
+record-48,5732,5792,endocarditis,46,58,N
+record-48,5792,5820,stigmata of SBE,11,26,N
+record-48,6243,6391,diabetic gastropathy,0,20,P
+record-48,6243,6391,hypertensive urgency,126,146,P
+record-48,6243,6391,inability to toleral oral antihypertensive medication,29,82,P
+record-48,6565,6837,abdominal pain,7,21,P
+record-48,6565,6837,gastroparesis,93,106,P
+record-48,6565,6837,similar complaints,57,75,P
+record-48,6565,6837,n/v/,2,6,P
+record-48,6837,6914,DMI,2,5,P
+record-48,6914,7071,hypoglycemia,24,36,P
+record-48,7161,7216,sob,23,26,N
+record-48,7161,7216,cp,18,20,N
+record-48,7161,7216,CAD,2,5,P
+record-48,7322,7454,ESRD,126,130,P
+record-48,7322,7454,demand ischemia,26,41,U
+record-48,7322,7454,original hypertensive urgency,56,85,P
+record-48,7322,7454,persistent elevation of trop,91,119,P
+record-48,7509,7629,DM,31,33,P
+record-48,7509,7629,ESRD,2,6,P
+record-48,7509,7629,HTN,38,41,P
+record-48,7509,7629,difficulty,99,109,N
+record-48,7723,7846,his PORT line infection,98,121,P
+record-48,8189,8246,numerous clots,27,41,P
+record-48,8246,8324,difficulty,66,76,N
+record-48,8246,8324,infection,12,21,N
+record-48,8324,8398,subtherapeuticon INR,7,27,P
+record-48,8565,8696,his PORT line infection,106,129,P
+record-48,10332,10423,constipation,77,89,H
+record-48,11008,11044,bacteremia,0,10,P
+record-48,11008,11044,PORT line infection,17,36,P
+record-48,11044,11064,hypertensive urgency,0,20,P
+record-48,11064,11084,diabetic gastropathy,0,20,P
+record-48,11200,11303,your line infection,82,101,P
+record-48,11405,11603,other worrisome symptoms,99,123,H
+record-48,11405,11603,naseau,40,46,H
+record-48,11405,11603,shortness of breath,74,93,H
+record-48,11405,11603,vomitting,49,58,H
+record-48,11405,11603,recurrent fevers,12,28,H
+record-48,11405,11603,chills,31,37,H
+record-48,11405,11603,chest pain,61,71,H
+record-49,250,308,stage 1 sacral decubitus on her buttocks,16,56,P
+record-49,429,619,the decubitus ulcer,49,68,P
+record-49,429,619,discomfort,128,138,P
+record-49,619,781,the patient 's chronic obstructive pulmonary disease,15,67,P
+record-49,781,843,cough,42,47,N
+record-49,781,843,shortness of breath,19,38,N
+record-49,920,1116,physically decompensated,56,80,P
+record-50,120,318,easy fatigability,179,196,P
+record-50,120,318,shortness of breath,155,174,P
+record-50,120,318,diabetes,61,69,P
+record-50,120,318,hypertension,74,86,P
+record-50,318,364,increased dyspnea,15,32,C
+record-50,422,488,chest pain,11,21,N
+record-50,422,488,orthopnea,24,33,N
+record-50,422,488,paroxysmal nocturnal dyspnea,36,64,N
+record-50,488,610,some abdominal pain,32,51,P
+record-50,610,675,nausea,7,13,N
+record-50,610,675,bowel movement changes,41,63,N
+record-50,610,675,diaphoresis,27,38,N
+record-50,610,675,vomiting,16,24,N
+record-50,675,718,increased urinary frequency,14,41,P
+record-50,718,742,fever,7,12,N
+record-50,718,742,chills,16,22,N
+record-50,872,894,Diabetes mellitus,3,20,P
+record-50,894,911,Hypertension,3,15,P
+record-50,911,930,Osteoarthritis,3,17,P
+record-50,959,984,known drug allergies,3,23,N
+record-50,1230,1253,diabetes,13,21,O
+record-50,1253,1281,coronary artery disease,3,26,O
+record-50,1380,1423,acute distress,27,41,N
+record-50,1535,1608,a 1-2/6 holosystolic murmur,44,71,P
+record-50,1619,1674,Crackles bilaterally,0,20,P
+record-50,1683,1742,non-distended,44,57,N
+record-50,1683,1742,non-tender,31,41,N
+record-50,1755,1781,1+ lower extremity edema,0,24,P
+record-50,1926,1986,congestive heart failure,34,58,P
+record-50,2005,2110,poor R-wave progression,80,103,P
+record-50,2005,2110,left axis deviation,56,75,P
+record-50,2110,2152,acute changes,13,26,N
+record-50,2169,2287,diastolic and systolic dysfunction,82,116,U
+record-50,2287,2445,hypokinesis of the lower half of septum and apex,108,156,P
+record-50,2287,2445,moderately depressed left ventricular systolic function,41,96,P
+record-50,2445,2499,the distal lateral wall hypokinesis,17,52,P
+record-50,2499,2551,The wall motion abnormalities,0,29,P
+record-50,2551,2740,her current cardiac failure,160,187,P
+record-50,2551,2740,the wall motion abnormalities,60,89,P
+record-50,2551,2740,a non-Q wave myocardial infarction,104,138,P
+record-50,2898,2996,her renal functioning worsening,65,96,P
+record-50,2996,3076,the renal issue,45,60,P
+record-50,3311,3523,severe right renal artery stenosis at its origin,162,210,P
+record-50,3311,3523,renal artery stenosis,86,107,U
+record-50,3311,3523,her hypertension,6,22,P
+record-50,3523,3635,moderate to severe focal stenosis of the left renal artery,15,73,P
+record-50,3856,3933,the coronary disease,35,55,P
+record-50,3975,4024,worsened,29,37,P
+record-50,4251,4288,Non-Q wave myocardial infarction,3,35,P
+record-50,4288,4340,Systolic and diastolic congestive heart failure,3,50,P
+record-50,4340,4412,Bilateral renal artery stenosis,3,34,P
+record-50,4412,4436,Acute renal failure,3,22,P
+record-50,4436,4453,Hypertension,3,15,P
+record-51,261,386,diagnosed liver laceration,86,112,P
+record-51,559,597,Left forarm and right knee abrasions,0,36,P
+record-51,597,671,murmors,65,72,N
+record-51,671,764,peritoneal irritation,70,91,N
+record-51,671,764,Abdominal pain,0,14,P
+record-51,1457,1537,pain,22,26,P
+record-51,1537,1653,The liver laceration,0,20,P
+record-51,1537,1653,further complication,56,76,N
+record-51,1537,1653,rupture,45,52,N
+record-51,1653,1711,biliary stasis,42,56,N
+record-51,2002,2110,Pain,91,95,H
+record-51,2457,2528,dizziness,35,44,H
+record-51,2457,2528,any abdominal pain,5,23,H
+record-51,2457,2528,fever,26,31,H
+record-52,261,437,chest pain,96,106,P
+record-52,261,437,nausea,168,174,P
+record-52,261,437,hyperlipidemia,35,49,P
+record-52,437,470,Symptoms,0,8,N
+record-52,709,830,coffee ground emesis,42,62,P
+record-52,709,830,a bleed from femoral access site,67,99,P
+record-52,830,936,peptic ulcer disease,84,104,U
+record-52,958,974,Hepatitis B,3,14,P
+record-52,974,999,Hypercholesterolemia,3,23,P
+record-52,999,1024,Fatty liver,3,14,N
+record-52,1084,1128,known drug allergies,22,42,N
+record-52,1227,1289,coronary artery disease,37,60,O
+record-52,1389,1457,an acute myocardial infarction,36,66,P
+record-52,2445,2499,pain,48,52,H
+record-53,123,140,Prostate cancer,0,15,P
+record-53,235,324,elevated PSA,57,69,P
+record-53,235,324,prostate cancer,72,87,P
+record-53,954,1018,His pain,0,8,P
+record-54,306,341,Atrial fibrillation,0,19,P
+record-54,341,364,Coronary Artery Disease,0,23,P
+record-54,364,395,Ulcerative Colitis,0,18,P
+record-54,395,407,Hypertension,0,12,P
+record-54,416,448,right sided weakness,12,32,P
+record-54,416,448,CVA,0,3,P
+record-54,448,480,Cataracts,0,9,P
+record-54,2014,2150,minimally displaced and comminuted fractures through the left C7 and T1 transverse processes,42,134,P
+record-54,2219,2400,extreme head tilting to the right,50,83,P
+record-54,2495,2533,atlantoaxial subluxation,12,36,N
+record-54,2606,2684,Prevertebral soft tissue swelling,0,33,U
+record-54,2684,2771,Extensive carotid arterial calcifications,0,41,P
+record-54,2771,2831,mild bronchiectasis,27,46,P
+record-54,2771,2831,Biapical lung scarring,0,22,P
+record-54,2831,2959,opacification of the visualized left mastoid air cells and mastoid tip,28,98,P
+record-54,2831,2959,sclerosis,14,23,P
+record-54,2959,2968,disease,0,7,U
+record-54,2968,3068,"Minimally displaced , comminuted fractures of the left C7 and T1 transverse processes",13,98,P
+record-54,3068,3126,extension into the foramina transversaria,15,56,N
+record-54,3184,3200,bleed,9,14,U
+record-54,3230,3282,intraparenchymal bleed,21,43,P
+record-54,3311,3318,bleed,0,5,U
+record-54,3360,3413,Intraparenchymal hemorrhage,13,40,P
+record-54,3413,3436,hemorrhage,11,21,U
+record-54,3896,4038,a small amount of hemorrhage,32,60,P
+record-54,4038,4189,an 18 x 10 mm nodular area of increased density,60,107,P
+record-54,4189,4232,surrounding edema,24,41,N
+record-54,4232,4329,diffuse brain atrophy,9,30,P
+record-54,4232,4329,chronic microvascular infarction throughout the white matter,35,95,P
+record-54,4329,4370,a remote right frontal infarct,9,39,P
+record-54,4370,4466,acute major vascular territorial infarction,51,94,N
+record-54,4370,4466,subarachnoid hemorrhage,24,47,N
+record-54,4466,4581,shift of normally midline structures,77,113,N
+record-54,4581,4609,skull fracture,12,26,N
+record-54,4609,4736,opacification of the posterior nasal cavity and nasopharynx,9,68,P
+record-54,4736,4794,Opacified and sclerotic left mastoid air cells,0,46,P
+record-54,4806,4854,intraventricular hemorrhage,19,46,P
+record-54,4854,4929,Ovoid 18 - mm density within the atrium,3,42,P
+record-54,4929,5130,an intraventricular mass,64,88,U
+record-54,4929,5130,an atypically located blood clot,28,60,U
+record-54,5274,5304,altered mental status,9,30,P
+record-54,5383,5404,altered mental status,0,21,P
+record-54,5446,5504,altered mental status,35,56,P
+record-54,5637,5815,chronic microvascular infarction,144,176,U
+record-54,5637,5815,decreased attenuation in the periventricular and subcortical white matter,28,101,P
+record-54,5815,5876,an old right frontal lobe cortical infarction,14,59,P
+record-54,5876,5941,A small right occipital lobe chronic infarction,0,47,P
+record-54,5941,6061,a small amount of blood layering in both lateral ventricles,9,68,P
+record-54,6112,6143,new hemorrhage,3,17,N
+record-54,6143,6229,opacification of the mastoid air cells,9,47,P
+record-54,6229,6308,some fluid,9,19,U
+record-54,6229,6308,mucosal thickening in the ethmoid and sphenoid sinuses,23,77,U
+record-54,6308,6389,hemorrhage,55,65,N
+record-54,6308,6389,new cortical territorial infarction,16,51,N
+record-54,6389,6507,decreased intraventricular blood,9,41,P
+record-54,6389,6507,hydrocephalus,103,116,N
+record-54,6567,6597,Fever,9,14,P
+record-54,6567,6597,infiltrte,21,30,P
+record-54,6627,6702,fever,68,73,P
+record-54,6627,6702,rib fx,13,19,P
+record-54,6627,6702,trauma,24,30,P
+record-54,6731,6752,Fever,0,5,P
+record-54,6731,6752,infiltrte,12,21,P
+record-54,6752,6817,Trauma,10,16,P
+record-54,6752,6817,fever,46,51,P
+record-54,6752,6817,congestive heart failure,19,43,P
+record-54,6752,6817,pneumonia,54,63,P
+record-54,6817,7030,pneumonia,202,211,U
+record-54,6817,7030,right upper lobe consolidation,155,185,P
+record-54,6817,7030,edema,54,59,P
+record-54,6817,7030,significant radiographic change,120,151,N
+record-54,7030,7126,Some interstitial edema,0,23,P
+record-54,7030,7126,central pulmonary vascular congestion,57,94,N
+record-54,7153,7246,fluid layering at the apices and the pleural spaces,14,65,P
+record-54,7246,7290,Multiple left-sided rib fractures,0,33,P
+record-54,7410,7462,Calcification,0,13,P
+record-54,7462,7600,edema,44,49,P
+record-54,7462,7600,congestion,28,38,P
+record-54,7462,7600,the right upper lobe pneumonia,106,136,P
+record-54,7673,7750,multiple spinal fractures,50,75,P
+record-54,7673,7750,subarachnoid hemorrhage,22,45,P
+record-54,7750,7798,desats,26,32,P
+record-54,7857,7890,SAH,28,31,P
+record-54,7981,8175,aspiration,53,63,U
+record-54,7981,8175,MRSA pneumonia,21,35,P
+record-54,7981,8175,decreased pulmonary secretions,162,192,P
+record-54,7981,8175,fevers,151,157,N
+record-54,8175,8233,complication,44,56,N
+record-54,8353,8397,Failed swallow study,0,20,P
+record-54,8685,8747,agitation,51,60,P
+record-54,8747,8910,an early bilateral upper extermity contracture at the elbows and wrists,90,161,P
+record-54,8910,8970,decreased blood,24,39,P
+record-54,9580,9729,constipation,135,147,H
+record-54,9729,9853,consitpation,110,122,H
+record-54,9959,10023,bilateral intraventricular hemorrhage,27,64,P
+record-54,9959,10023,Subarachnoid hemorrhage,0,23,P
+record-54,10023,10058,Left T1 transverse process fracture,0,35,P
+record-54,10058,10113,C7 & T1 mimimally displaced transverse process fracture,0,55,P
+record-54,10113,10137,Left rib fractures,0,18,P
+record-55,261,335,right tib/fib fractures,51,74,P
+record-55,363,433,+LOC,64,68,P
+record-55,576,632,Attention deficit disorder,0,26,P
+record-55,1345,1359,bleed,9,14,P
+record-55,1513,1625,a linear nondepressed right temporal calvarial fracture,20,75,P
+record-55,1625,1731,pneumocephalus,54,68,P
+record-55,1625,1731,a small subdural hematoma,9,34,P
+record-55,1731,1781,shift of normally midline structures,12,48,N
+record-55,1781,1862,a left occipital scalp contusion,14,46,P
+record-55,1781,1862,associated skull fracture,54,79,N
+record-55,1862,2087,an acute fracture,206,223,N
+record-55,2087,2129,other acute fractures,3,24,N
+record-55,2129,2198,mucosal thickening in the sphenoid sinuses,25,67,P
+record-55,2198,2254,occult facial fractures,31,54,N
+record-55,2279,2454,pneumocephalus,159,173,P
+record-55,2279,2454,small associated right posterior convexity subdural hematoma,94,154,P
+record-55,2279,2454,Linear right temporal calvarial fracture,13,53,P
+record-55,2637,2648,fx,9,11,P
+record-55,2727,2755,Head injury to the occiput,0,26,P
+record-55,2930,3039,acute fracture,67,81,N
+record-55,2930,3039,traumatic malalignment,85,107,N
+record-55,3074,3133,significant prevertebral soft tissue swelling,12,57,N
+record-55,3201,3249,pneumothorax,34,46,N
+record-55,3276,3369,a linear right temporal calvarial fracture,9,51,P
+record-55,3418,3495,opacified with blood,55,75,P
+record-55,3507,3544,acute cervical spine fracture,6,35,N
+record-55,3544,3713,a small right posterior convexity subdural hematoma,76,127,P
+record-55,3544,3713,pneumocephalus,132,146,P
+record-55,3544,3713,Linear right temporal calvarial fracture,3,43,P
+record-55,3731,3766,acute process,20,33,U
+record-55,3796,3832,post-op fever,21,34,P
+record-55,3861,3887,acute process,11,24,U
+record-55,3887,3921,Postoperative fever,13,32,P
+record-55,4140,4196,focal consolidations,34,54,N
+record-55,4140,4196,pleural effusions,13,30,N
+record-55,4196,4225,CHF,24,27,N
+record-55,4225,4278,significant abnormality,28,51,N
+record-55,4387,4436,open RLE fx,21,32,P
+record-55,4501,4547,Fracture,13,21,P
+record-55,4547,4722,a proximal diaphyseal comminuted tibial fracture,85,133,P
+record-55,4722,4790,the fracture,54,66,P
+record-55,4790,4870,a non-displaced comminuted fracture of the proximal fibular diaphysis,9,78,P
+record-55,4870,4913,soft tissue swelling,21,41,P
+record-55,4940,5069,Comminuted proximal tibiofibular fractures,13,55,P
+record-55,5069,5117,immediate hardware complication,15,46,N
+record-55,5188,5243,pneumocephalus,21,35,P
+record-55,5326,5426,pneumocephalus,30,44,P
+record-55,5530,5637,subdural hemorrhage in the right posterior fossa,32,80,P
+record-55,5637,5729,the linear skull fracture,31,56,P
+record-55,5637,5729,pneumocephalus,4,18,P
+record-55,5729,5931,surrounding edema,78,95,P
+record-55,5729,5931,persistent bifrontal and right parietal hemorrhagic contusions,10,72,P
+record-55,5729,5931,small left frontal subarachnoid hemorrhage,109,151,U
+record-55,5931,5998,hydrocephalus,52,65,N
+record-55,5931,5998,shift of normally midline structures,12,48,N
+record-55,6046,6163,bilateral opacification of the mastoid air cells,53,101,P
+record-55,6175,6233,right posterior subdural hemorrhage,21,56,P
+record-55,6233,6315,surrounding edema,41,58,P
+record-55,6233,6315,Multifocal hemorrhagic contusions,3,36,P
+record-55,6338,6447,his injuries,95,107,P
+record-55,6447,6575,His Neurosurgical issues,0,24,P
+record-55,6696,6809,complications,98,111,N
+record-55,6696,6809,His right tib / fib fracture,0,28,P
+record-55,6877,6933,his LLE,47,54,P
+record-55,7004,7274,any further reaction,248,268,N
+record-55,7004,7274,transfusion reaction,122,142,U
+record-55,7394,7419,Allergic,0,8,P
+record-55,7597,7690,pain,87,91,H
+record-55,7810,7934,constipation,110,122,H
+record-55,8138,8155,Subdural hematoma,0,17,P
+record-55,8155,8169,Skull fracture,0,14,P
+record-55,8169,8209,Right comminuted tibia / fibula fracture,0,40,P
+record-55,8258,8434,vomiting,111,119,H
+record-55,8258,8434,nause,103,108,H
+record-55,8258,8434,severe headaches,62,78,H
+record-55,8258,8434,any other symptoms,129,147,H
+record-55,8258,8434,fevers,44,50,H
+record-55,8258,8434,visual disturbances,81,100,H
+record-55,8258,8434,chills,53,59,H
+record-56,145,168,Hepatitis C cirrhosis,0,21,P
+record-56,196,361,lethargy,155,163,P
+record-56,196,361,worsening confusion,131,150,P
+record-56,196,361,hepatitis C cirrhosis,38,59,P
+record-56,196,361,positive esophageal varices,92,119,P
+record-56,196,361,encephalopathy,75,89,P
+record-56,361,469,encephalopathy,92,106,P
+record-56,655,747,increased lethargy,60,78,P
+record-56,655,747,confusion,81,90,P
+record-56,747,888,lethargy,47,55,P
+record-56,747,888,confusion,60,69,P
+record-56,747,888,the symptoms,83,95,P
+record-56,888,1025,yellowish eyes,43,57,P
+record-56,888,1025,some shaking,60,72,P
+record-56,1138,1184,night sweats,11,23,P
+record-56,1184,1214,any abdominal pain,10,28,N
+record-56,1214,1253,fevers,31,37,N
+record-56,1214,1253,cold,8,12,P
+record-56,1312,1327,HCV cirrhosis,0,13,P
+record-56,1377,1422,aggressive behavior,24,43,P
+record-56,1422,1457,hepatic encephalopathy,11,33,P
+record-56,1457,1477,Esophageal varices,0,18,P
+record-56,1477,1579,5 cores of varices,31,49,P
+record-56,1622,1731,peripheral neuropathy,86,107,P
+record-56,1622,1731,glucose intolerance,64,83,P
+record-56,1622,1731,hypertension,49,61,P
+record-56,2063,2088,known drug allergies,3,23,N
+record-56,2306,2372,HCV,23,26,P
+record-56,2372,2430,metastatic colon cancer,33,56,O
+record-56,2430,2470,end stage renal disease,15,38,O
+record-56,2535,2578,acute distress,27,41,N
+record-56,2578,2619,Lethargic,0,9,P
+record-56,2671,2694,Sclera mildly icteric,0,21,P
+record-56,2694,2709,LAD,10,13,N
+record-56,2780,2822,murmurs,25,32,N
+record-56,2780,2822,rubs,36,40,N
+record-56,2822,2845,Positive gynecomastia,0,21,P
+record-56,2845,2912,nondistended,41,53,N
+record-56,2845,2912,nontender,56,65,N
+record-56,2912,2929,Obvious ascites,0,15,P
+record-56,2929,2951,1+ edema bilaterally,0,20,P
+record-56,3031,3057,mild asterixis,10,24,P
+record-56,3333,3372,Difficulty with word finding,0,28,P
+record-56,3372,3403,discomfort,19,29,N
+record-56,3372,3403,any pain,7,15,N
+record-56,3403,3445,nontender,31,40,N
+record-56,3403,3445,Slightly distended,10,28,P
+record-56,3499,3636,severe portal hypertension,53,79,P
+record-56,3499,3636,massive peri splenic varices,85,113,P
+record-56,3666,3694,Repeat hepato fungal flare,0,26,P
+record-56,4784,4960,"loss of normal respiratory variations , wave forms and the intrahepatic portion",95,174,P
+record-56,4784,4960,a decreased and sluggish flow within the right and left hepatic veins,20,89,U
+record-56,4960,5044,diminished color flow,24,45,P
+record-56,5044,5121,thrombus within the left and right hepatic veins,27,75,U
+record-56,5121,5296,Caval narrowing,0,15,P
+record-56,6130,6245,difficulty,103,113,N
+record-56,7331,7490,chills,52,58,H
+record-56,7331,7490,fevers,43,49,H
+record-56,7331,7490,abdominal pain,83,97,H
+record-56,7331,7490,vomiting,72,80,H
+record-56,7331,7490,nausea,61,67,H
+record-56,7331,7490,inability to eat or drink,132,157,H
+record-56,7331,7490,inability to take medications,100,129,H
+record-59,382,509,demise of twin A,97,113,O
+record-59,382,509,2 vessel cord,36,49,P
+record-59,382,509,IVF pregnancy,0,13,P
+record-59,382,509,IUGR,29,33,P
+record-59,509,682,IUGR of twin A,98,112,O
+record-59,509,682,preterm labor,146,159,P
+record-59,784,850,PPROM,0,5,P
+record-59,784,850,bleeding,11,19,P
+record-59,784,850,transverse lie,24,38,P
+record-59,850,867,Abruption,0,9,P
+record-59,1096,1124,Nondysmorphic,0,13,N
+record-59,1221,1232,murmur,3,9,N
+record-59,1277,1300,hepatosplenomegaly,3,21,N
+record-59,1325,1347,vaginal tag,9,20,P
+record-59,1360,1374,hip click,3,12,N
+record-59,1374,1392,sacral dimple,3,16,N
+record-59,1415,1493,Decrease tone,0,13,P
+record-59,1523,1613,moderate respiratory distress,59,88,P
+record-59,1636,1687,mild respiratory distress syndrome,15,49,P
+record-59,1815,1897,bradycardia of prematurity,54,80,P
+record-59,1815,1897,apnea,44,49,P
+record-59,4126,4519,weight abnormalities,322,342,H
+record-59,4126,4519,neuromuscular disease,296,317,H
+record-59,4126,4519,chronic lung disease,371,391,O
+record-59,4627,4791,influenza,87,96,H
+record-59,4812,4906,Premature infant,0,16,P
+record-59,4812,4906,respiratory distress syndrome,63,92,N
+record-59,4906,4939,sepsis,9,15,U
+record-59,4939,4969,Hyperbilirubinemia,0,18,P
+record-59,4969,5007,Apnea,0,5,P
+record-59,4969,5007,bradycardia of prematurity,10,36,P
+record-65,178,224,large pericardial effusion,0,26,P
+record-65,314,471,pafib,27,32,P
+record-65,314,471,SSS,37,40,P
+record-65,314,471,CAD,21,24,P
+record-65,314,471,COPD,14,18,P
+record-65,314,471,symptomatic pauses,64,82,P
+record-65,314,471,large pericardial effusion,102,128,P
+record-65,314,471,CHF,152,155,P
+record-65,471,562,ARF,55,58,P
+record-65,471,562,SOB,86,89,P
+record-65,562,788,a PTX,130,135,P
+record-65,562,788,her PTX,217,224,N
+record-65,788,864,vomiting,22,30,P
+record-65,788,864,nausea,13,19,P
+record-65,864,975,her nausea,28,38,P
+record-65,975,1049,n/v,69,72,P
+record-65,975,1049,lethargy,56,64,P
+record-65,1049,1186,bilateral pleural effusions,108,135,P
+record-65,1049,1186,ARF,67,70,P
+record-65,1049,1186,a large pericardial effusion,73,101,P
+record-65,1186,1224,her ARF,29,36,P
+record-65,1224,1466,RV diastolic collapse,148,169,N
+record-65,1224,1466,tamponade,199,208,N
+record-65,1224,1466,mod-lg circumferential pericardial effusion,84,127,P
+record-65,1466,1600,her effusion,28,40,P
+record-65,1466,1600,her SOB,57,64,P
+record-65,1466,1600,CHF,129,132,P
+record-65,1600,1704,some SOB,28,36,P
+record-65,1704,1797,any CP,11,17,N
+record-65,1704,1797,diarrhea,47,55,N
+record-65,1704,1797,black or bloody stools,58,80,N
+record-65,1704,1797,headache,83,91,N
+record-65,1704,1797,cough,20,25,N
+record-65,1704,1797,fever,28,33,N
+record-65,1704,1797,abd pain,36,44,N
+record-65,1819,1822,htn,0,3,P
+record-65,1822,1832,SSS,7,10,P
+record-65,1822,1832,afib,0,4,P
+record-65,1832,1836,COPD,0,4,P
+record-65,1836,1839,CAD,0,3,P
+record-65,1839,1951,SSS,47,50,P
+record-65,1839,1951,symptomatic bradycardia,56,79,P
+record-65,1839,1951,R PTX,86,91,P
+record-65,1951,1955,GERD,0,4,P
+record-65,1955,1958,CVA,0,3,P
+record-65,1958,1972,hypothyroidism,0,14,P
+record-65,1972,1985,legally blind,0,13,P
+record-65,2122,2147,pulsus parodoxus,0,16,P
+record-65,2147,2226,mild resp distress,6,24,P
+record-65,2226,2273,bruits,32,38,N
+record-65,2303,2353,consolidation,37,50,N
+record-65,2353,2411,distended,20,29,P
+record-65,2353,2411,CVA tenderness,44,58,N
+record-65,2353,2411,dec BS,32,38,P
+record-65,2411,2428,1+ LE edema,6,17,P
+record-65,2447,2510,LBBB,37,41,P
+record-65,2447,2510,ST or TW changes,47,63,N
+record-65,2510,2603,pericardial eff,78,93,P
+record-65,2510,2603,bilateral pleural eff,52,73,P
+record-65,2603,2778,atelectasis,164,175,U
+record-65,2603,2778,PNA,156,159,U
+record-65,2603,2778,bilat pleural eff,86,103,P
+record-65,2603,2778,underlying consolidation,109,133,P
+record-65,2603,2778,large pericardial effusion,57,83,P
+record-65,2778,2976,RV diastolic collapse,108,129,N
+record-65,2778,2976,mod-lg circumferential pericardial eff,52,90,P
+record-65,2778,2976,tamponade,157,166,N
+record-65,2976,3114,atrophy,56,63,P
+record-65,2976,3114,dense calcification of the tentorium,66,102,P
+record-65,3179,3278,Moderate to large pericardial effusion,13,51,P
+record-65,3179,3278,minimal fluid anteriorly,54,78,P
+record-65,3179,3278,bloody,90,96,U
+record-65,3278,3312,definite tamponade physiology,3,32,N
+record-65,3312,3368,perforation,43,54,U
+record-65,3382,3466,bilateral pleural effusions,41,68,P
+record-65,3466,3501,Mild pulmonary edema,0,20,P
+record-65,3501,3523,low,17,20,P
+record-65,3523,3559,Bibasilar atelectasis,0,21,P
+record-65,3559,3633,mild CHF,64,72,P
+record-65,3559,3633,Unchanged moderate bilateral pleural effusions,13,59,P
+record-65,3750,3777,hydronephrosis,3,17,N
+record-65,3777,3806,urinary calculi,3,18,N
+record-65,3870,3914,hydronephrosis,28,42,N
+record-65,3942,4321,bilateral pleural effusions,350,377,P
+record-65,3942,4321,SSS,22,25,P
+record-65,3942,4321,afib,15,19,P
+record-65,3942,4321,CAD,65,68,P
+record-65,3942,4321,bilateral pleural effusions,167,194,P
+record-65,3942,4321,a large pericardial effusion,134,162,P
+record-65,3942,4321,ARF,101,104,P
+record-65,3942,4321,lethargy,109,117,P
+record-65,3942,4321,CHF,321,324,P
+record-65,3942,4321,tamponade,230,239,N
+record-65,3942,4321,PTX,46,49,P
+record-65,4359,4481,transudative fluid,102,120,P
+record-65,4359,4481,MI,36,38,N
+record-65,4542,4622,persistent pericardial effusions,46,78,P
+record-65,4622,4674,worsening ARF,37,50,P
+record-65,4674,4725,Her O2 requirement,0,18,P
+record-65,4725,4825,fever,28,33,N
+record-65,4725,4825,diarrhea,53,61,N
+record-65,4725,4825,abdominal pain,36,50,N
+record-65,4725,4825,headache,90,98,N
+record-65,4725,4825,CP,15,17,N
+record-65,4725,4825,black or bloody stools,64,86,N
+record-65,4725,4825,cough,20,25,N
+record-65,4825,4868,decreased,17,26,P
+record-65,4868,4976,her ongoing pericardial effusion,18,50,P
+record-65,4976,5164,change in appearance of effusion,109,141,N
+record-65,5411,5618,CHF,202,205,P
+record-65,5411,5618,her effusions,117,130,P
+record-65,5411,5618,transudative,136,148,P
+record-65,5411,5618,CHF,164,167,P
+record-65,5618,5661,low urine output,25,41,P
+record-65,5661,5862,net positive fluid balance,173,199,P
+record-65,6011,6195,her oxygen requirement,97,119,P
+record-65,6288,6434,stable cardiomegaly,95,114,P
+record-65,6288,6434,RLL infiltrate,130,144,U
+record-65,6288,6434,moderate sized bilateral pleural effusions,50,92,P
+record-65,6469,6487,afebrile,8,16,N
+record-65,6773,6945,multiple co-morbidities,33,56,P
+record-65,7895,8001,pain,100,104,P
+record-65,7895,8001,her air hunger,81,95,P
+record-65,8001,8106,SOB,3,6,P
+record-65,8001,8106,CHF,30,33,P
+record-65,8001,8106,her COPD,82,90,P
+record-65,8106,8147,large pericardial effusion,13,39,P
+record-65,8147,8301,transudate,109,119,P
+record-65,8147,8301,CHF,149,152,U
+record-65,8147,8301,right pleural effusion,26,48,P
+record-65,8387,8538,right pleural effusion,127,149,P
+record-65,8387,8538,PNX,33,36,N
+record-65,8387,8538,effusion,39,47,P
+record-65,8538,8778,bilateral pleural effusions,35,62,P
+record-65,8538,8778,right lower lobe infiltrate,82,109,P
+record-65,8984,9157,tamponade,154,163,N
+record-65,8984,9157,Pericardial effusion,3,23,P
+record-65,8984,9157,RV perforation,72,86,U
+record-65,9225,9390,a complication,90,104,P
+record-65,9225,9390,her large pericardial effusion,30,60,P
+record-65,9390,9544,tamponade physiology,100,120,P
+record-65,9544,9627,CHF,3,6,P
+record-65,9544,9627,diastolic dysfunction,43,64,U
+record-65,9544,9627,MI,81,83,N
+record-65,9729,9822,some leukocytosis,54,71,P
+record-65,9729,9822,Pleural effusions,3,20,P
+record-65,9729,9822,CHF,37,40,U
+record-65,9822,9851,transudate,17,27,P
+record-65,9851,9958,air hunger,95,105,P
+record-65,9958,10164,Afib/SSS,3,11,P
+record-65,9958,10164,PTX,81,84,P
+record-65,9958,10164,PTX,182,185,N
+record-65,10341,10472,a fib,69,74,P
+record-65,10472,10593,n/v,41,44,P
+record-65,10472,10593,poor forward flow,64,81,P
+record-65,10472,10593,poor po intake,45,59,P
+record-65,10472,10593,Oliguric ARF,3,15,P
+record-65,10593,10640,ATN,32,35,P
+record-65,10640,10679,hydronephrosis,23,37,N
+record-65,10764,10896,low amounts of urine,25,45,P
+record-65,10907,11122,consolidations,178,192,N
+record-65,10907,11122,atelectasis,111,122,U
+record-65,10907,11122,underlying consolidations,81,106,U
+record-65,10907,11122,leukocytosis,22,34,P
+record-65,10907,11122,afebrile,204,212,N
+record-65,11122,11144,UTI,17,20,P
+record-65,11144,11292,levo-resistant,132,146,U
+record-65,11144,11292,floridly positive,70,87,P
+record-65,11398,11449,opacity,11,18,U
+record-65,11398,11449,leukocytosis,37,49,P
+record-65,11449,11477,Anemia,3,9,P
+record-65,12105,12155,Hypoxic Respiratory Failure,23,50,P
+record-65,12105,12155,Pulmonary Edema,3,18,P
+record-65,12155,12184,Large pericardial effusion,3,29,P
+record-65,12184,12223,Moderate bilateral pleural effusions,3,39,P
+record-65,12223,12250,Congestive Heart Failure,3,27,P
+record-65,12250,12283,Paroxysmal Atrial Fibrillation,3,33,P
+record-65,12283,12333,Sick sinus syndrome,3,22,P
+record-65,12333,12359,Coronary Artery Disease,3,26,P
+record-66,177,184,Dyspnea,0,7,P
+record-66,254,310,LE edema,46,54,P
+record-66,310,397,b/l LE edema,27,39,P
+record-66,397,507,PND,105,108,P
+record-66,397,507,2-pillow orthopnea,82,100,P
+record-66,397,507,dyspnea,30,37,C
+record-66,507,626,any recent chest pain,10,31,N
+record-66,507,626,palpitations,34,46,N
+record-66,507,626,weakness,72,80,N
+record-66,507,626,numbness,83,91,N
+record-66,507,626,headache,49,57,N
+record-66,507,626,confusion,60,69,N
+record-66,507,626,hematuria,108,117,N
+record-66,507,626,abd pain,94,102,N
+record-66,626,661,recent viral syndromes,3,25,N
+record-66,626,661,URI s.,29,35,N
+record-66,836,890,cardiomegaly,25,37,P
+record-66,836,890,pulm edema,42,52,P
+record-66,968,1096,elevated,67,75,P
+record-66,1223,1307,seizures,67,75,N
+record-66,1223,1307,DT s.,79,84,N
+record-66,1223,1307,withdrawal symptoms,45,64,N
+record-66,1379,1460,premature coronary artery disease,30,63,O
+record-66,1379,1460,sudden death,67,79,O
+record-66,1523,1582,NAD,56,59,N
+record-66,1582,1596,NCAT,8,12,N
+record-66,1596,1614,Sclera anicteric,0,16,N
+record-66,1677,1755,s3/s4/r,71,78,N
+record-66,1677,1755,2/6 systolic murmur radiating to axilla,26,65,P
+record-66,1677,1755,loud s2,14,21,P
+record-66,1755,1796,crackles,21,29,N
+record-66,1755,1796,wheezing,33,41,N
+record-66,1796,1829,obese,6,11,P
+record-66,1796,1829,NTND,27,31,N
+record-66,1829,1883,2+ pitting edema to knees b/l,25,54,P
+record-66,2264,2361,LVH,52,55,P
+record-66,2264,2361,strain pattern,59,73,P
+record-66,2264,2361,ischemic changes,79,95,N
+record-66,2366,2560,Moderate to severe enlargement of the cardiac silhouette,0,56,P
+record-66,2366,2560,pulmonary vascular congestion,108,137,P
+record-66,2366,2560,mild pulmonary edema,142,162,P
+record-66,2366,2560,heart failure,179,192,P
+record-66,2573,2612,moderately dilated,19,37,P
+record-66,2612,2726,moderate symmetric left ventricular hypertrophy,9,56,P
+record-66,2612,2726,mild cavity dilation,62,82,P
+record-66,2612,2726,severe global hypokinesis,87,112,P
+record-66,2726,2764,left ventricular thrombus,3,28,N
+record-66,2764,2862,an increased left ventricular filling pressure,32,78,P
+record-66,2862,2944,severe free wall hypokinesis,52,80,P
+record-66,2862,2944,mildly dilated,32,46,P
+record-66,2944,3001,minimally thickened,36,55,P
+record-66,3001,3053,aortic stenosis,3,18,N
+record-66,3001,3053,aortic regurgitation,22,42,N
+record-66,3104,3139,mitral valve prolapse,12,33,N
+record-66,3139,3181,Mild ( 1+ ) mitral regurgitation,0,32,P
+record-66,3181,3239,moderate pulmonary artery systolic hypertension,9,56,P
+record-66,3239,3299,a very small circumferential pericardial effusion,9,58,P
+record-66,3299,3558,LVH,194,197,N
+record-66,3299,3558,myocarditis,162,173,U
+record-66,3299,3558,Moderate symmetric eft ventricular hypertrophy,13,59,P
+record-66,3299,3558,severe global biventricular hypokinesis,65,104,P
+record-66,3299,3558,diffuse process,109,124,P
+record-66,3299,3558,toxin,127,132,P
+record-66,3299,3558,an infiltrative process,207,230,U
+record-66,3558,3585,Mild mitral regurgitation,0,25,P
+record-66,3585,3627,Moderate pulmonary arterial hypertension,0,40,P
+record-66,3627,3676,Very small circumferential pericardial effusion,0,47,P
+record-66,3676,3766,aortic regurgitation,68,88,N
+record-66,3676,3766,abnormality on the aortic valve,9,40,U
+record-66,3766,3863,an abnormality of the aortic valve,61,95,U
+record-66,3886,4047,LE edema,41,49,P
+record-66,3886,4047,DOE,54,57,C
+record-66,3886,4047,diastolic heart failure,70,93,U
+record-66,3886,4047,hypertensive urgency,139,159,P
+record-66,4047,4069,Hypertensive urgency,0,20,P
+record-66,4069,4155,chronic HTN,46,57,P
+record-66,4155,4268,end-organ damage,12,28,N
+record-66,4155,4268,elevated creatinine,51,70,P
+record-66,4155,4268,a chronic problem,94,111,P
+record-66,4426,4476,His lower extremity edema,0,25,P
+record-66,4681,4817,acute hypertensive nephropathy,55,85,P
+record-66,4681,4817,long-standing hypertensive disease,100,134,U
+record-66,4681,4817,Renal Failure,0,13,P
+record-66,5562,5586,hypertensive emergency,2,24,P
+record-66,5586,5591,ARF,2,5,P
+record-66,5591,5647,mild transaminitis,2,20,P
+record-66,5662,5694,lower extremity edema,2,23,P
+record-66,5743,5784,hypertensive emergency,17,39,P
+record-66,6089,6208,SOB,46,49,H
+record-66,6089,6208,chest pain,52,62,H
+record-66,6089,6208,chills,74,80,H
+record-66,6089,6208,fevers,65,71,H
+record-66,6089,6208,dizziness,83,92,H
+record-66,6089,6208,decreased urine output,95,117,H
+record-67,131,287,a spontaneous triamniotic-trichorionic triplet pregnancy,41,97,P
+record-67,527,606,nausea,35,41,P
+record-67,527,606,vomiting,44,52,P
+record-67,527,606,a shortened cervix,59,77,P
+record-67,931,1013,prematurity,69,80,P
+record-67,1178,1245,Nondysmorphic,10,23,N
+record-67,1178,1245,mild respiratory distress,40,65,P
+record-67,1393,1443,Mild intercostal and sternal retractions,8,48,P
+record-67,1483,1541,murmur,50,56,N
+record-67,1560,1640,nondistended,30,42,N
+record-67,1560,1640,nontender,18,27,N
+record-67,1560,1640,masses,48,54,N
+record-67,2065,2127,spontaneous apnea,26,43,N
+record-67,2211,2239,murmurs,3,10,N
+record-67,2657,2761,unconjungated hyperbilirubinemia,52,84,P
+record-67,3074,3158,neurological concerns,36,57,N
+record-67,3757,3848,apnea,61,66,N
+record-67,3757,3848,oxygen desaturation,70,89,N
+record-67,3848,3957,abnormal results,83,99,N
+record-67,4419,4449,chronic lung disease,8,28,P
+record-67,4449,4595,chronic lung disease,90,110,H
+record-67,4595,4724,influenza,96,105,H
+record-67,4794,4832,Prematurity at 34 weeks gestation,3,36,P
+record-67,4868,4904,Unconjugated hyperbilirubinemia,3,34,P
+record-68,117,171,Known Allergies to Drugs,30,54,N
+record-68,221,238,exertional angina,0,17,C
+record-68,318,388,severe 3VD,60,70,P
+record-68,318,388,positive ETT,34,46,P
+record-68,318,388,exertional angina,13,30,C
+record-68,410,413,HTN,0,3,P
+record-68,413,415,DM,0,2,P
+record-68,415,475,cataracts,0,9,P
+record-68,475,495,urinary incontinence,0,20,P
+record-68,585,616,Mi,14,16,O
+record-68,647,667,Teeth in poor repair,0,20,P
+record-68,687,713,distant heart sounds,0,20,P
+record-68,727,785,extrem warm,0,11,P
+record-68,727,785,edema,17,22,N
+record-68,727,785,varicosities,28,40,N
+record-68,1429,1654,his loose teeth,208,223,P
+record-68,2528,2630,pain,96,100,H
+record-68,3271,3274,CAD,0,3,P
+record-68,3274,3277,HTN,0,3,P
+record-68,3277,3279,DM,0,2,P
+record-68,3279,3330,cataracts,0,9,P
+record-68,3330,3350,urinary incontinence,0,20,P
+record-68,3350,3355,TIA,2,5,U
+record-68,3406,3524,weight gain,55,66,H
+record-68,3406,3524,drainage from incision,29,51,H
+record-68,3406,3524,redness,18,25,H
+record-68,3406,3524,fever,10,15,H
+record-68,3524,3589,incisions,54,63,P
+record-69,355,415,FOUND DOWN,48,58,P
+record-69,547,648,SYNCOPE,92,99,P
+record-70,127,297,prior coronary artery disease history,101,138,N
+record-70,127,297,chest pain,158,168,P
+record-70,127,297,hypertension,56,68,P
+record-70,127,297,hypercholesterolemia,73,93,P
+record-70,297,370,the pain,20,28,P
+record-70,370,463,some GERD-like symptoms,68,91,P
+record-70,513,640,nausea,103,109,P
+record-70,513,640,diaphoresis,114,125,P
+record-70,513,640,The pain,0,8,P
+record-70,640,689,the pain,17,25,P
+record-70,689,743,these symptoms,26,40,P
+record-70,789,830,the pain,15,23,P
+record-70,917,976,dissection,47,57,U
+record-70,976,1110,"ST depressions in II , III , and aVF",96,132,P
+record-70,976,1110,"elevations in I , aVL , and V1 through V2",50,91,P
+record-70,1208,1225,Hypertension,3,15,P
+record-70,1225,1250,Hypercholesterolemia,3,23,P
+record-70,1250,1272,Chondrocalcinosis,3,20,P
+record-70,1272,1299,Carpal tunnel syndrome,3,25,P
+record-70,1299,1308,GERD,3,7,P
+record-70,1384,1437,known drug allergies,31,51,N
+record-70,1564,1658,afebrile,31,39,N
+record-70,1658,1730,acute distress,56,70,N
+record-70,1782,1811,murmurs,3,10,N
+record-70,1854,1917,nontender,17,26,N
+record-70,1854,1917,nondistended,29,41,N
+record-70,1917,1970,edema in the extremities,27,51,N
+record-70,2138,2264,two vessel disease,106,124,P
+record-70,2138,2264,CORONARY ARTERY DISEASE,3,26,P
+record-70,2264,2394,a 90% lesion,35,47,P
+record-70,2264,2394,a 95% stenosis,74,88,P
+record-70,2264,2394,99% stenosis,116,128,P
+record-70,2523,2634,proximal RCA lesion of 80%,21,47,P
+record-70,2523,2634,a mid RCA lesion of 80-90%,52,78,P
+record-70,2804,2977,muscle cramping,48,63,P
+record-70,2804,2977,these side effects,153,171,P
+record-70,2977,3146,her coronary artery disease,88,115,P
+record-70,2977,3146,her remaining RCA lesions,142,167,P
+record-70,3217,3334,an akinetic apex,64,80,P
+record-70,3217,3334,apical mid and septal akinesis,85,115,P
+record-70,3334,3534,significant apical akinesis,36,63,P
+record-70,3334,3534,apical akinesis,183,198,P
+record-70,3674,3784,significant events,90,108,N
+record-70,3903,4071,sudden cardiac death,119,139,H
+record-70,4071,4202,left lower extremity weakness,41,70,C
+record-70,4202,4351,weakness,32,40,N
+record-70,4437,4492,difficulty,43,53,N
+record-70,4492,4579,a small stroke,71,85,U
+record-70,4579,4709,neurologic deficit,36,54,N
+record-70,4709,4801,apical akinesis,59,74,P
+record-70,4709,4801,stroke risk,79,90,P
+record-70,4972,5082,ST elevation myocardial infarction,22,56,P
+record-71,112,276,rupture of membranes,95,115,P
+record-71,112,276,progressive preterm labor,137,162,P
+record-71,825,1002,some occasional grunting,109,133,P
+record-71,825,1002,moderate subcostal retractions,74,104,P
+record-71,825,1002,murmur,169,175,N
+record-71,1581,1633,desaturation,38,50,N
+record-71,1581,1633,apnea,15,20,N
+record-71,1581,1633,bradycardia,23,34,N
+record-71,1720,1772,murmur,44,50,N
+record-71,2794,2895,sepsis risk factor,81,99,P
+record-71,4347,4429,chronic lung disease,60,80,H
+record-71,4429,4578,chronic lung disease,93,113,H
+record-71,4578,4708,influenza,97,106,H
+record-71,4951,4993,Prematurity,3,14,P
+record-71,5005,5028,Sepsis,3,9,N
+record-71,5028,5074,respiratory distress syndrome,15,44,P
+record-73,111,165,Known Allergies,30,45,N
+record-73,218,245,bright red blood per rectum,0,27,P
+record-73,341,427,recurrent bladder ca,15,35,P
+record-73,341,427,BRBPR,72,77,P
+record-73,461,515,tics,43,47,P
+record-73,461,515,blood,33,38,P
+record-73,706,763,LH,42,44,N
+record-73,706,763,CP,53,55,N
+record-73,706,763,SOB,47,50,N
+record-73,706,763,abd pain,25,33,N
+record-73,706,763,N/V,36,39,N
+record-73,785,961,Metastatic bladder CA,0,21,P
+record-73,961,1043,b/l DVT,0,7,P
+record-73,1043,1060,Nephrolithiasis,0,15,P
+record-73,1060,1087,Anemia,0,6,P
+record-73,1190,1235,bleeding,13,21,O
+record-73,1190,1235,clotting disorders,25,43,O
+record-73,1301,1320,NAD,16,19,N
+record-73,1320,1342,sclera anicteric,0,16,N
+record-73,1342,1357,LAD,12,15,N
+record-73,1361,1375,M,13,14,N
+record-73,1375,1441,Midline surgical scar,18,39,P
+record-73,1375,1441,NT,13,15,N
+record-73,1441,1463,yellowish urine in RLQ,0,22,P
+record-73,1463,1485,edema,3,8,N
+record-73,1463,1485,clubbing,14,22,N
+record-73,1965,2087,metastatic bladder cancer,32,57,P
+record-73,1965,2087,recurrent DVT s,62,77,P
+record-73,1965,2087,lower GI bleeding,103,120,P
+record-73,2087,2148,Right lower quadrant source of bleed,0,36,P
+record-73,2148,2299,sigmoid angulation,89,107,P
+record-73,2299,2377,a right psoas mass,13,31,P
+record-73,2299,2377,a hematoma,55,65,U
+record-73,2377,2527,a mass in the right pelvis,93,119,P
+record-73,2975,2978,GIB,0,3,P
+record-73,2999,3036,"Metastatic , recurrent bladder cancer",0,37,P
+record-73,3036,3045,DVT s,4,9,P
+record-73,3203,3290,a bleeding source in your colon,16,47,U
+record-73,3290,3469,bleeding,125,133,P
+record-73,3290,3469,The bleeding,0,12,N
+record-73,3469,3600,a right pelvic mass,33,52,P
+record-73,3469,3600,a hematoma,67,77,U
+record-73,3774,3849,blood in your stool,48,67,H
+record-73,3774,3849,dizzy,32,37,H
+record-74,142,261,high cholesterol,47,63,P
+record-74,261,381,mid chest pain,61,75,C
+record-74,261,381,burning,80,87,C
+record-74,381,446,unresponsive,51,63,P
+record-74,381,446,breathing,33,42,P
+record-74,524,648,an acute inferior myocardial infarction,41,80,P
+record-74,648,692,EKG changes,31,42,P
+record-74,692,852,mitral regurgitation,107,127,N
+record-74,692,852,insufficiency,130,143,N
+record-74,692,852,hypokinesis,147,158,N
+record-74,852,1053,right coronary artery dominant diseased,106,145,P
+record-74,852,1053,narrowed,30,38,P
+record-74,1156,1188,high cholesterol,14,30,P
+record-74,1209,1229,Carotid disease,3,18,P
+record-74,1421,1459,coronary artery disease,13,36,P
+record-74,1512,1593,afebrile,50,58,N
+record-74,1512,1593,acute distress,33,47,N
+record-74,1593,1629,atraumatic,24,34,N
+record-74,1723,1801,lymphadenopathy,45,60,N
+record-74,1723,1801,thyromegaly,65,76,N
+record-74,1831,1862,right carotid bruits,9,29,P
+record-74,1905,1960,murmurs,46,53,N
+record-74,1960,2063,hepatosplenomegaly,83,101,N
+record-74,1960,2063,masses,71,77,N
+record-74,1960,2063,nondistended,53,65,N
+record-74,1960,2063,nontender,41,50,N
+record-74,2063,2115,cyanosis,22,30,N
+record-74,2063,2115,clubbing,33,41,N
+record-74,2063,2115,edema,45,50,N
+record-74,3894,3941,pain,41,45,H
+record-80,420,549,HSV outbreak,51,63,P
+record-80,420,549,uncomplicated,14,27,N
+record-80,549,648,depression,54,64,P
+record-80,648,706,spontaneous labor,39,56,P
+record-80,706,741,sepsis risk factors,14,33,N
+record-80,755,774,maternal fever,3,17,N
+record-80,774,816,Rupture of membranes,0,20,P
+record-80,1038,1138,dusky,79,84,C
+record-80,1195,1269,This episode,0,12,P
+record-80,1195,1269,gagging motions,37,52,P
+record-80,1269,1323,pale,48,52,P
+record-80,1269,1323,A second episode,0,16,P
+record-80,1372,1413,blue,22,26,N
+record-80,1619,1741,some facial jaundice,37,57,P
+record-80,1841,1943,a keyhole appearance,53,73,P
+record-80,1841,1943,a coloboma,90,100,P
+record-80,1841,1943,unequal in size,32,47,P
+record-80,2023,2069,masses,28,34,N
+record-80,2023,2069,bruits,38,44,N
+record-80,2162,2199,murmur,29,35,N
+record-80,2693,2798,desaturation,35,47,C
+record-80,2693,2798,desaturations,72,85,P
+record-80,2877,3042,respiratory distress,50,70,N
+record-80,2877,3042,any further dusky spells,87,111,N
+record-80,2877,3042,pale episodes,115,128,N
+record-80,3353,3535,some discoordination of his suck,95,127,P
+record-80,3600,3777,gastroesophageal reflux,152,175,P
+record-80,4000,4051,frequent spitting episodes,23,49,P
+record-80,4177,4314,mild physiologic jaundice,22,47,P
+record-80,4945,5035,dusky episodes,74,88,P
+record-80,4945,5035,seizures,47,55,U
+record-80,5148,5248,transient sharp waves in the left front,15,54,P
+record-80,5248,5312,seizure activity,40,56,N
+record-80,5449,5531,a coloboma,51,61,P
+record-80,5531,5648,other pathology,100,115,N
+record-80,5531,5648,an isolated anomaly,62,81,P
+record-80,5531,5648,this left Martha coloboma,25,50,P
+record-80,6845,6891,cyanosis episodes,27,44,P
+record-80,6891,6908,sepsis,9,15,N
+record-80,6908,6923,Left coloboma,0,13,P
+record-80,6923,6942,seizures,9,17,N
+record-81,110,189,hypertension,65,77,P
+record-81,189,257,very agitated,53,66,P
+record-81,749,822,agitated,63,71,P
+record-81,915,1017,Agitated,0,8,P
+record-81,1017,1141,hypotensive,10,21,P
+record-81,1017,1141,decreased respiratory rate,96,122,P
+record-81,1423,1531,dysuria,58,65,N
+record-81,1423,1531,diarrhea,68,76,N
+record-81,1423,1531,shortness of breath,36,55,N
+record-81,1423,1531,bright red blood per rectum,79,106,N
+record-81,1423,1531,any chest pain,19,33,N
+record-81,1531,1581,cold symptoms,20,33,P
+record-81,1851,1940,mentally handicapped,15,35,O
+record-81,2071,2187,very depressed,26,40,P
+record-81,2209,2226,Hypertension,3,15,P
+record-81,2226,2317,colonic polyps,14,28,P
+record-81,2317,2362,right inguinal hernia,14,35,P
+record-81,2813,2984,human immunodeficiency virus,113,141,O
+record-81,3014,3104,mentally handicapped,62,82,O
+record-81,3104,3141,known drug allergies,15,35,N
+record-81,3547,3622,visibly restless,50,66,P
+record-81,3636,3706,slightly pressured speech,43,68,P
+record-81,3706,3740,depressed,23,32,P
+record-81,3740,3795,"auditory , visual or tactile hallucinations",10,53,N
+record-81,3912,3981,Atraumatic,39,49,N
+record-81,3981,4005,anicteric,13,22,N
+record-81,4005,4044,exudate,30,37,N
+record-81,4121,4151,gallops,21,28,N
+record-81,4121,4151,murmurs,3,10,N
+record-81,4121,4151,rubs,13,17,N
+record-81,4158,4237,Rare crackles on the right base,0,31,P
+record-81,4246,4298,nontender,24,33,N
+record-81,4246,4298,nondistended,38,50,N
+record-81,4298,4321,hepatosplenomegaly,3,21,N
+record-81,4334,4427,asterixis,82,91,N
+record-81,4334,4427,hands and feet notably tremulous,41,73,P
+record-81,4427,4455,stigmata,3,11,N
+record-81,5021,5197,a band-like opacity in the left lower lobe,86,128,N
+record-81,5021,5197,linear atelectasis in right lower lobe,27,65,P
+record-81,5197,5250,hemorrhage,41,51,N
+record-81,5250,5310,bran atrophy,10,22,P
+record-81,5250,5310,right temporal encephalomalacia,27,58,P
+record-81,5331,5629,hypertension,58,70,P
+record-81,5331,5629,subsequent hypotension,184,206,P
+record-81,5331,5629,ETOH intoxication,152,169,P
+record-81,5331,5629,increased agitation,112,131,P
+record-81,5803,5878,hypotension of cardiac origin,44,73,P
+record-81,5929,5994,Elevated CK,0,11,P
+record-81,5929,5994,mild rhabdomyolysis,44,63,P
+record-81,6256,6315,atelectasis in the right lower lobe,7,42,P
+record-81,6524,6570,difficulty,34,44,N
+record-81,6619,6749,rhabdomyolysis,83,97,U
+record-81,7229,7279,notably anxious,19,34,P
+record-81,7229,7279,depressed,39,48,P
+record-81,7279,7367,underlying psychiatric disorder,55,86,U
+record-81,7367,7444,alcohol withdrawal,29,47,U
+record-81,7444,7502,withdrawal,46,56,H
+record-81,7547,7654,depression,95,105,U
+record-81,7547,7654,underlying anxiety disorder,64,91,U
+record-81,7667,7834,delirium tremens,66,82,P
+record-81,8240,8340,asymptomatic,16,28,N
+record-81,8240,8340,chest pain,37,47,N
+record-81,8240,8340,mental status changes,77,98,N
+record-81,8240,8340,shortness of breath,50,69,N
+record-81,8360,8479,mild tremor on hands,61,81,P
+record-81,8479,8545,notably less anxious,19,39,P
+record-81,8545,8651,tremor,32,38,P
+record-81,8545,8651,alcohol withdrawal,86,104,H
+record-81,8966,8988,ETOH intoxication,3,20,P
+record-81,8988,9005,Hypertension,3,15,P
+record-81,9005,9092,colonic polyp,14,27,P
+record-81,9092,9137,History of right inguinal hernia,3,35,P
+record-82,116,414,severe epigastric pain,251,273,P
+record-82,116,414,chronic renal insufficiency,93,120,P
+record-82,116,414,a TIA,140,145,P
+record-82,116,414,hypertension,55,67,P
+record-82,414,450,bilateral arm numbness,12,34,P
+record-82,450,547,diaphoresis,34,45,P
+record-82,450,547,nausea,77,83,N
+record-82,450,547,shortness of breath,50,69,P
+record-82,450,547,The symptoms,0,12,P
+record-82,450,547,vomiting,87,95,N
+record-82,547,792,a non-ST elevation MI,146,167,P
+record-82,792,883,pain-free,80,89,N
+record-82,883,1002,myocardial infarction,96,117,N
+record-82,883,1002,similar symptoms,25,41,N
+record-82,883,1002,angina,86,92,N
+record-82,1093,1338,a long LAD lesion,127,144,P
+record-82,1093,1338,a total occlusion of the RCA,198,226,P
+record-82,1338,1540,hypotensive,23,34,P
+record-82,1338,1540,bradycardiac,39,51,P
+record-82,1540,1666,an effusion,113,124,N
+record-82,1759,1851,pain-free,81,90,N
+record-82,1873,1886,TIA,0,3,P
+record-82,1886,1928,COPD,0,4,P
+record-82,1928,1933,BPH,0,3,P
+record-82,1933,1962,Chronic renal insufficiency,0,27,P
+record-82,1962,1973,Gastritis,0,9,P
+record-82,1973,1981,Asthma,0,6,P
+record-82,2391,2432,known drug allergies,19,39,N
+record-82,2798,2849,acute distress,35,49,N
+record-82,2856,2948,Crusting around the right eyelid,0,32,P
+record-82,2948,2967,edentulous,7,17,P
+record-82,2973,3033,lymphadenopathy,28,43,N
+record-82,2973,3033,thyromegaly,47,58,N
+record-82,3096,3135,murmurs,10,17,N
+record-82,3096,3135,gallops,30,37,N
+record-82,3096,3135,rubs,20,24,N
+record-82,3226,3267,nontender,15,24,N
+record-82,3226,3267,obese,7,12,P
+record-82,3226,3267,nondistended,27,39,N
+record-82,3388,3413,evident edema,10,23,N
+record-82,3809,3973,prolonged PR interval,121,142,P
+record-82,3809,3973,first-degree AV block,94,115,P
+record-82,3973,4091,an old right bundle branch block,48,80,P
+record-82,3973,4091,acute ST or T wave changes,90,116,N
+record-82,3973,4091,a widened QRS,12,25,P
+record-82,4304,4339,effusion,25,33,N
+record-82,4384,4552,an 80 percent LAD lesion,75,99,P
+record-82,4384,4552,a totally occluded RCA,33,55,P
+record-82,4784,5381,a non-ST elevation MI,182,203,P
+record-82,4784,5381,gastritis,120,129,P
+record-82,4784,5381,vagal reaction,465,479,P
+record-82,4784,5381,hypotension,361,372,P
+record-82,4784,5381,bradycardia,377,388,P
+record-82,4784,5381,TIA,136,139,P
+record-82,4784,5381,Guaiac positive stools,208,230,P
+record-82,4784,5381,mid LAD lesion,331,345,P
+record-82,4784,5381,COPD,113,117,P
+record-82,4784,5381,chronic renal insufficiency,83,110,P
+record-82,4784,5381,hypertension,68,80,P
+record-82,5417,5583,an 80 percent mid LAD lesion,77,105,P
+record-82,5417,5583,a non-ST elevation MI,38,59,P
+record-82,5675,5794,Guaiac positive stools,54,76,P
+record-82,5675,5794,hematocrit drop,81,96,P
+record-82,5913,5949,focal wall motion abnormalities,3,34,N
+record-82,5949,6025,shortness of breath,34,53,N
+record-82,5949,6025,recurrent chest pain,10,30,N
+record-82,6025,6170,first-degree AV block,78,99,P
+record-82,6025,6170,an underlying right bundle branch block,34,73,P
+record-82,6244,6386,COPD,20,24,P
+record-82,6429,6518,his baseline 02 requirement,39,66,P
+record-82,6528,6652,hypertension,68,80,P
+record-82,6528,6652,chronic renal insufficiency,20,47,P
+record-82,6652,6720,MI,23,25,P
+record-82,6958,7188,GI bleed,109,117,U
+record-82,6958,7188,Guaiac positive stools,134,156,P
+record-82,6958,7188,a slight drop in his hematocrit,183,214,P
+record-82,6958,7188,Guaiac positive,28,43,P
+record-82,7330,7485,GI bleed,66,74,U
+record-82,7549,7688,80 percent mid LAD lesion,82,107,P
+record-82,7549,7688,non-ST elevation myocardial infarction,38,76,P
+record-82,7549,7688,Coronary artery disease,0,23,P
+record-82,7688,7702,Hypertension,0,12,P
+record-82,7702,7731,Chronic renal insufficiency,0,27,P
+record-82,7731,7770,Chronic obstructive pulmonary disease,0,37,P
+record-82,7770,7795,Guaiac  positive stools,0,23,P
+record-82,7795,7803,Anemia,0,6,P
+record-82,8004,8101,complaints,85,95,N
+record-83,349,371,asymptomatic,8,20,N
+record-83,449,619,Hypotension,3,14,P
+record-83,619,777,loose stools,76,88,P
+record-83,619,777,The hypotension,0,15,P
+record-83,619,777,volume depletion,34,50,P
+record-83,619,777,her diarrhea,61,73,P
+record-83,619,777,decreased PO intake,104,123,P
+record-83,619,777,her GERD,137,145,P
+record-83,619,777,thrush,150,156,P
+record-83,777,985,recurrent hypokalemia,144,165,P
+record-83,985,1115,afebrile,48,56,N
+record-83,985,1115,02 requirement,114,128,P
+record-83,985,1115,sepsis,12,18,U
+record-83,985,1115,Infection,0,9,U
+record-83,985,1115,localizing sx,68,81,N
+record-83,1115,1195,the patient 's recent RP bleed,6,36,P
+record-83,1115,1195,a recurrent bleed,61,78,H
+record-83,1436,1533,her low BP,51,61,P
+record-83,1436,1533,volume depletion,3,19,U
+record-83,1533,1686,her coronary disease,131,151,P
+record-83,1954,2056,COPD exacerbation,83,100,H
+record-83,1954,2056,Thrush,3,9,P
+record-83,2107,2182,volume depletion,57,73,H
+record-83,2182,2269,loose stools,42,54,P
+record-83,2182,2269,diarrhea,3,11,P
+record-83,2182,2269,guiac pos,72,81,P
+record-83,2349,2432,vomiting,43,51,N
+record-83,2349,2432,occ nausea,61,71,C
+record-83,2349,2432,Gastroenteritis,0,15,U
+record-83,2432,2476,obstruction,24,35,N
+record-83,2476,2664,irritation of GI system,163,186,U
+record-83,2476,2664,viral,97,102,U
+record-83,2476,2664,resolving abdominal hematoma,119,147,U
+record-83,2476,2664,liquid stool,60,72,P
+record-83,2476,2664,her mild diarrhea,25,42,P
+record-83,2476,2664,few loose BM,45,57,P
+record-83,2693,2915,guiac pos stool,3,18,P
+record-83,2693,2915,her guiac positive stools,121,146,P
+record-83,2693,2915,gastritis,161,170,U
+record-83,2693,2915,gastric ulcer,173,186,U
+record-83,2693,2915,lower GI pathology,202,220,U
+record-83,2693,2915,GERD,48,52,P
+record-83,2915,2984,vomiting,21,29,N
+record-83,2915,2984,only mild nausea,34,50,C
+record-83,2984,3046,gross blood per rectum,16,38,N
+record-83,3193,3300,her guiac pos stools,39,59,P
+record-83,3712,3805,pain,87,91,H
+record-83,4281,4420,wheezing,129,137,H
+record-83,4281,4420,shortness of breath,106,125,H
+record-83,5455,5504,demand ischemia,34,49,P
+record-83,5455,5504,Rapid atrial fibrillation,3,28,P
+record-83,5504,5528,Retroperitoneal bleed,3,24,P
+record-83,5668,5790,CP,18,20,H
+record-83,5668,5790,dizzyness,29,38,H
+record-83,5668,5790,SOB,23,26,H
+record-83,5668,5790,any other symptoms,44,62,H
+record-83,5856,5972,failure of these stents,59,82,H
+record-84,123,420,coronary artery disease,92,115,O
+record-84,123,420,10/10 substernal chest pain,203,230,P
+record-84,123,420,hypertension,151,163,P
+record-84,420,504,Each episode,0,12,P
+record-84,504,616,diaphoresis,99,110,P
+record-84,504,616,unremitting 12-05 pain,47,69,P
+record-84,504,616,shortness of breath,75,94,P
+record-84,616,853,T wave inversions,126,143,P
+record-84,616,853,ST elevations in V1-V3,88,110,P
+record-84,1082,1190,left LAD with 99% midstenosis,77,106,P
+record-84,1285,1393,occlusions,96,106,N
+record-84,1285,1393,The chest pain,0,14,P
+record-84,1564,1686,shortness of breath,80,99,N
+record-84,1564,1686,nausea,102,108,N
+record-84,1564,1686,further pain,65,77,N
+record-84,1564,1686,vomiting,112,120,N
+record-84,1686,1809,palpitations,109,121,N
+record-84,1686,1809,dyspnea,68,75,C
+record-84,1686,1809,orthopnea,90,99,N
+record-84,1686,1809,pressure,57,65,N
+record-84,1686,1809,previous chest pain,35,54,N
+record-84,1686,1809,PND,102,105,N
+record-84,1831,1850,hypertension,5,17,P
+record-84,1940,1986,any drug allergies,26,44,N
+record-84,2002,2053,an MI,34,39,O
+record-84,2381,2407,afebrile,16,24,N
+record-84,2477,2510,very tense,21,31,P
+record-84,2510,2565,apparent distress,36,53,N
+record-84,2572,2618,anicteric,7,16,N
+record-84,2618,2672,JVD,3,6,N
+record-84,2618,2672,increased JVP,10,23,N
+record-84,2672,2754,femoral bruits,66,80,N
+record-84,2672,2754,abdominal bruits,46,62,N
+record-84,2672,2754,any carotid bruits,25,43,N
+record-84,2856,2902,lifts,14,19,N
+record-84,2856,2902,heaves,23,29,N
+record-84,2902,3023,murmurs,30,37,N
+record-84,2902,3023,rubs,40,44,N
+record-84,2902,3023,gallops,48,55,N
+record-84,3061,3141,nondistended,27,39,N
+record-84,3061,3141,scaphoid,16,24,P
+record-84,3061,3141,nontender,42,51,N
+record-84,3141,3189,edema,41,46,N
+record-84,3189,3254,bruits,57,63,N
+record-84,3189,3254,hematomas,44,53,N
+record-84,3189,3254,minimal ooze,24,36,P
+record-84,3337,3632,significant coronary artery disease risk factors,33,81,P
+record-84,3337,3632,an ST elevation MI,171,189,P
+record-84,3337,3632,residuals,232,241,N
+record-84,3337,3632,hypertension,128,140,P
+record-84,3632,3674,pain,16,20,N
+record-84,3691,3753,his coronary artery disease,4,31,P
+record-84,4182,4294,Hypertension,0,12,P
+record-84,4182,4294,MI,95,97,P
+record-84,4294,4373,ectopy,71,77,N
+record-84,4412,4902,arresting regional wall motion abnormality,189,231,P
+record-84,4412,4902,focal apical hypokinesis,242,266,P
+record-84,4412,4902,a mildly dilated left atrium,75,103,P
+record-84,4412,4902,mild symmetric LVH,106,124,P
+record-84,4412,4902,mild region LV systolic dysfunction,151,186,P
+record-84,4412,4902,a moderately dilated aortic root,332,364,P
+record-84,4412,4902,a mildly dilated ascending aorta,367,399,P
+record-84,4412,4902,pericardial effusions,467,488,N
+record-84,4902,4981,CHF signs or symptoms,56,77,N
+record-84,4981,5014,The risk factors,0,16,P
+record-84,6185,6314,chest pressure,39,53,N
+record-84,6185,6314,shortness of breath,56,75,N
+record-84,6185,6314,any chest pain,22,36,N
+record-84,6185,6314,dyspnea,78,85,C
+record-84,6314,6464,dizziness,139,148,H
+record-84,6314,6464,nausea,111,117,H
+record-84,6314,6464,any chest pain,60,74,H
+record-84,6314,6464,difficulty breathing,88,108,H
+record-84,6314,6464,pressure,77,85,H
+record-84,6314,6464,light-headiness,120,135,H
+record-84,6842,6881,ST elevation myocardial infarction,3,37,P
+record-84,6881,6898,Hypertension,3,15,P
+record-84,7076,7298,chest pain,104,114,H
+record-84,7076,7298,pressure,118,126,H
+record-84,7076,7298,shortness of breath,130,149,H
+record-84,7298,7563,cravings,246,254,P
